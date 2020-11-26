@@ -4,7 +4,8 @@ function displayPosts(postPage) {
 	var postCounter = 1;
 	postData.forEach(entry => {
 		if (entry.post_page === postPage) {
-			console.log("Matched on entry: "+entry);
+			console.log("Matched on entry");
+			console.log(entry);
 			var postId = 'post'+postCounter;
 			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
 			$("#"+postId).append('<h3>Song: '+entry.song+'</h3>');
