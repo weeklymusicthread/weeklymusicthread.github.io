@@ -3,7 +3,7 @@
 // matching postData items and then displays them on the page by appending html
 function displayPosts(postPage) {
 	console.log(postPage);
-	//console.log(postData);
+	//console.log(postData); 
 	var postCounter = 1;
 	postData.forEach(entry => {
 		if (entry.post_page === postPage) {
