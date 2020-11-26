@@ -13,6 +13,7 @@ function displayPosts(postPage) {
 			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
 			$("#"+postId).append('<h3>Song: '+entry.song+'</h3>');
 			$("#"+postId).append('<h4>Artist: '+entry.artist+'</h4>');
+			$("#"+postId).append('<iframe src="'+entry.spotify_embed_link+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
 			$("#"+postId).append('<p>'+entry.music_post_desc1+'</p>');
 			$("#"+postId).append('<p>'+entry.music_post_desc2+'</p>');
 			$("#postSection").append('<br/><hr/><br/>');
