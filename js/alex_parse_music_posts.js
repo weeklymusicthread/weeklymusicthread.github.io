@@ -1,3 +1,6 @@
+// This function would be called by individual html post pages by supplying the postPage filter
+// which as of now would be the post date (e.g. 2020-11-26). This function iterates through all
+// matching postData items and then displays them on the page by appending html
 function displayPosts(postPage) {
 	console.log(postPage);
 	//console.log(postData);
@@ -18,6 +21,7 @@ function displayPosts(postPage) {
 	});
 }
 
+// JSON representation of all song posts, to be filtered by post_page attribute
 var postData = [
 		{ 
 			"song" : "A Forest",
