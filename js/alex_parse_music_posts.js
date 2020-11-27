@@ -5,7 +5,7 @@ function displayPosts(postPage) {
 	console.log(postPage);
 	//console.log(postData); 
 	var postCounter = 1;
-	postData.forEach(entry => {
+	postData.forEach (entry => {
 		if (entry.post_page === postPage) {
 			console.log("Matched on entry");
 			console.log(entry);
@@ -14,8 +14,9 @@ function displayPosts(postPage) {
 			$("#"+postId).append('<h3>Song: '+entry.song+'</h3>');
 			$("#"+postId).append('<h4>Artist: '+entry.artist+'</h4>');
 			$("#"+postId).append('<iframe src="'+entry.spotify_embed_link+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
-			$("#"+postId).append('<p>'+entry.music_post_desc1+'</p>');
-			$("#"+postId).append('<p>'+entry.music_post_desc2+'</p>');
+			entry.description_lines.forEach (descLine => {
+				$("#"+postId).append('<p>'+descLine+'</p>');
+			});
 			$("#postSection").append('<br/><hr/><br/>');
 			postCounter++;
 		}
@@ -30,8 +31,10 @@ var postData = [
 			"spotify_song_link" : "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH",
 			"spotify_embed_link" : "https://open.spotify.com/embed/track/3O4TPMOgChXOerSdB5WENH",
 			"post_page" : "2020-11-26",
-			"music_post_desc1" : "Hey guys come on The Cure is awesome, please tell me I am cool for liking it. Let's talk about our feelings, or let's just listen to The Cure tell us about their feelings in this number 12 hit single.",
-			"music_post_desc2" : "This is my second paragraph about this stupid ass emo song. I love that shit though so you can suck it if you don't. How's that for a blog?"
+			"description_lines" : [
+				"Hey guys come on The Cure is awesome, please tell me I am cool for liking it. Let's talk about our feelings, or let's just listen to The Cure tell us about their feelings in this number 12 hit single.",
+				"This is my second paragraph about this stupid ass emo song. I love that shit though so you can suck it if you don't. How's that for a blog?"
+			]
 		}, 
 		{ 
 			"song" : "Take on Me",
@@ -39,8 +42,11 @@ var postData = [
 			"spotify_song_link" : "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
 			"spotify_embed_link" : "https://open.spotify.com/embed/track/2WfaOiMkCvy7F5fcp2zZ8L",
 			"post_page" : "2020-11-26",
-			"music_post_desc1" : "Woo hoo my second post now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
-			"music_post_desc2" : "This is my second paragraph about this stupid ass emo song. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for second post"
+			"description_lines" : [
+				"Woo hoo my second post now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
+				"This is my second paragraph about this stupid ass emo song. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for second post",
+				"And here is a third line! I can print as many desc lines as you give me! <i>Here is some italic. </i><b>Here is some bold</b> - but really you shouldn't use i/b tags, you should use <a href='https://stackoverflow.com/questions/38205797/how-to-combine-bold-and-italic-in-css/38205861'>CSS classes</a>  instead!"
+			]
 		},
 		{ 
 			"song" : "Some other song",
@@ -48,7 +54,9 @@ var postData = [
 			"spotify_song_link" : "https://open.spotify.com/track/xx",
 			"spotify_embed_link" : "https://open.spotify.com/embed/track/xx",
 			"post_page" : "2020-12-01",
-			"music_post_desc1" : "Woo hoo my third post but this shouldn't display with the first two posts because this is for a different date! now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
-			"music_post_desc2" : "This is my second paragraph about nothing. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for third post"
+			"description_lines" : [
+				"Woo hoo my third post but this shouldn't display with the first two posts because this is for a different date! now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
+				"This is my second paragraph about nothing. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for third post"
+			]
 		}
 	]
