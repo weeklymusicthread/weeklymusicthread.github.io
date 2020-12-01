@@ -7,7 +7,8 @@ function displayPosts(postPage) {
 	
 	var postCounter = 1;
 	
-	$.getJSON('http://weeklymusicthread.com/song_post_data.json', function(postData) {
+	// jquery function to get the json file and then put it into memory as "postData" var
+	$.getJSON('http://weeklymusicthread.com/song_post_data.json', postData => {
 	
 		postData.forEach (entry => {
 			if (entry.post_page === postPage) { // this is how we filter per page!
