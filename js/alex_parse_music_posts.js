@@ -24,8 +24,8 @@ function displayPosts(postPage) {
 				$("#"+postId).append('<h4>Artist: '+entry.artist+'</h4>');
 				
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
-				if (entry.spotify_embed_link != null)  {
-					$("#"+postId).append('<iframe src="'+entry.spotify_embed_link+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
+				if (entry.spotify_id != null)  {
+					$("#"+postId).append('<iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
 				}
 				
 				// this will iterate over the array of description lines, so doesn't care how many/few there are, it prints each element as its own p tag
