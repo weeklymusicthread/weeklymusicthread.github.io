@@ -25,6 +25,7 @@ function displayPosts(postPage) {
 				
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
 				if (entry.spotify_id != null)  {
+					console.log('contains spotify ID: '+entry.spotify_id);
 					$("#"+postId).append('<iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
 				}
 				
