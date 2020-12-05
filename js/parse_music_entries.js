@@ -20,13 +20,13 @@ function displayPosts(postPage) {
 				
 				$("#postSection").append('<div class="post-container" id="'+postId+'"></div>'); // notice the element ID attr is set to the postId counter variable! that is how we can dynamically find the right div to append the song post data to!
 				
-				$("#"+postId).append('<h3>Song: '+entry.song+'</h3>');
-				$("#"+postId).append('<h4>Artist: '+entry.artist+'</h4>');
+				$("#"+postId).append('<p><u> "'+entry.song+''+'" by '+entry.artist+' </u></p>');
 				
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
 				if (entry.spotify_id != null)  {
 					console.log('contains spotify ID: '+entry.spotify_id);
-					$("#"+postId).append('<iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>');
+					$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
+						
 				}
 				
 				// this will iterate over the array of description lines, so doesn't care how many/few there are, it prints each element as its own p tag
@@ -34,7 +34,7 @@ function displayPosts(postPage) {
 					$("#"+postId).append('<p>'+descLine+'</p>');
 				});
 				
-				$("#postSection").append('<br/><hr/><br/>');
+				$("#postSection").append('<br/>');
 				
 				// increase the counter for the next iteration!
 				postCounter++;
