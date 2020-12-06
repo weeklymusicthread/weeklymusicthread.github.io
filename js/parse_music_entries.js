@@ -20,7 +20,7 @@ function displayPosts(postPage) {
 				
 				$("#postSection").append('<div class="post-container" id="'+postId+'"></div>'); // notice the element ID attr is set to the postId counter variable! that is how we can dynamically find the right div to append the song post data to!
 				
-				$("#"+postId).append('<p><u> "'+entry.song+'" by '+ '<a href="weeklymusicthread.com/search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+' </u></p>');
+				$("#"+postId).append('<p><u> "'+entry.song+'" by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+' </u></p>');
 				
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
 				if (entry.spotify_id != null)  {
