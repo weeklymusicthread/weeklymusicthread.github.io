@@ -413,3 +413,7 @@ footer .copyright {
 .no-italics {
   font-style: normal;   
 }
+
+.post-container {
+  min-height: 475px;  
+}
