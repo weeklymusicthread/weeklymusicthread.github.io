@@ -4,7 +4,7 @@ function searchName() {
 	const searchedArtist = urlParams.get('artist')
 	console.log(searchedArtist)
 
-	$("#postHeading").append('<h1>WMT Entries for '+searchedArtist+'</h1>');
+	$("#postHeading").append('<h1>'+searchedArtist+'</h1>');
 
 	var postCounter = 1;
 	
