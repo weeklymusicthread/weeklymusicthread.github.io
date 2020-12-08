@@ -10,7 +10,7 @@
   
   <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-  <title>Weekly M Thread</title>
+  <title>Weekly Music Thread</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@
           </span>
     </a>
         <div class="post-preview">
-          <a href="2020-11-30.html">
+          <a href="2020-11-30.php">
             <h2 class="post-title">
               Rage Against The Machine Gun Kelly
             </h2>
