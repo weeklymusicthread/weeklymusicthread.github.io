@@ -48,7 +48,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        Listen to the complete WMT collection with our <a href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q"><u>Spotify Playlist</u>
+        Listen to the complete WMT collection with our <a target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q"><u>Spotify Playlist</u>
           <span style="font-size: 12px;" class="fa-stack fa-xs">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fab fa-spotify fa-stack-2x fa-inverse" style="color:#1ED761;"></i>

@@ -18,7 +18,7 @@
 					<a class="nav-link" href="contact.html">Contact</a>
 				</li>
 				<li class="nav-item">
-					<a style = "color:#1ED761" class="nav-link" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>
+					<a style = "color:#1ED761" class="nav-link" target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>
 				</li>
 				<li class="nav-item">
 					<script async src="https://cse.google.com/cse.js?cx=a70366dae94dfe622"></script>
