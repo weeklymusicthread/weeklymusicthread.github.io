@@ -27,7 +27,7 @@
 
 <body>
 
-	<?php include('/php/navbar.php'); ?>
+	<?php include('../php/navbar.php'); ?>
 
   <!-- Page Header -->
   <header class="masthead" style="background-image: url('/img/vaporheader.png')">
