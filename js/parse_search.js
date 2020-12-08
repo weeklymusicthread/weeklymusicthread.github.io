@@ -20,12 +20,16 @@ function searchName() {
 				
 				$("#postSection").append('<div class="post-container" id="'+postId+'"></div>'); 
 				
-				$("#"+postId).append('<p><u> "'+entry.song+''+'" by '+entry.artist+' </u>' + '&nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+entry.post_page + ')</span></p>');
-				
 				if (entry.spotify_id != null)  {
 					console.log('contains spotify ID: '+entry.spotify_id);
-					$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
-						
+					if (entry.song != null) {
+						$("#"+postId).append('<p><b> "'+entry.song+''+'" by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+' </b>' + '&nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+entry.post_page + ')</span></p>');
+						$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
+					} else {
+						console.log("Song Null");
+						$("#"+postId).append('<p><b><i> '+entry.album+''+'</i> by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+' </b>' + '&nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+entry.post_page + ')</span></p>');
+						$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/album/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
+					}
 				}
 				
 				entry.description_lines.forEach (descLine => {
@@ -37,5 +41,6 @@ function searchName() {
 				postCounter++;
 			}
 		});
+	
 	});
 }

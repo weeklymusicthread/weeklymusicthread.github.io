@@ -1,42 +1,5 @@
 [
-	{
-        "song": "A Forest",
-        "artist": "The Cure",
-        "spotify_id": "3O4TPMOgChXOerSdB5WENH",
-        "post_page": "2020-11-26",
-        "description_lines": [
-            "Hey guys come on The Cure is awesome, please tell me I am cool for liking it. Let's talk about our feelings, or let's just listen to The Cure tell us about their feelings in this number 12 hit single.",
-            "This is my second paragraph about this stupid ass emo song. I love that shit though so you can suck it if you don't. How's that for a blog?"
-        ]
-    }, {
-        "song": "Take on Me",
-        "artist": "a-ha",
-        "spotify_id": "2WfaOiMkCvy7F5fcp2zZ8L",
-        "post_page": "2020-11-26",
-        "description_lines": [
-            "Woo hoo my second post now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
-            "This is my second paragraph about this stupid ass emo song. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for second post",
-            "And here is a third line! I can print as many desc lines as you give me! <i>Here is some italic. </i><b>Here is some bold</b> - but really you shouldn't use i/b tags, you should use <a href='https://stackoverflow.com/questions/38205797/how-to-combine-bold-and-italic-in-css/38205861'>CSS classes</a>  instead!"
-        ]
-    }, {
-        "song": "My Unknown Song",
-        "artist": "Ale Alejandro",
-        "post_page": "2020-11-26",
-        "description_lines": [
-            "Nothin much to say, this song isn't real.",
-            "Notice how I did not print a spotify embed link cuz this one don't got one in the json!",
-            "I know its big, but I didn't pull it out for air.."
-        ]
-    }, {
-        "song": "Some other song",
-        "artist": "Some other band",
-        "spotify_id": "xxxx",
-        "post_page": "2020-12-01",
-        "description_lines": [
-            "Woo hoo my third post but this shouldn't display with the first two posts because this is for a different date! now i need more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. ",
-            "This is my second paragraph about nothing. Woo hoo more text, I am jus going to repeat myself cuz I am bored. Woo hoo more text, I am jus going to repeat myself cuz I am bored. End of second paragraph for third post"
-        ]
-    }, {
+	 {
         "song": "What Are Friends For?",
         "artist": "The Sonder Bombs",
         "spotify_id": "64F2l136oePmUwOG9zB1vU",
@@ -272,6 +235,261 @@
         "post_page": "2020-10-19",
         "description_lines": [
             "Chumped is a 2013 EP from the defunct, Brooklyn-based pop punk outfit of the same name. We encountered it this week for the first time and it really grabbed us. It's evocative of early Alkaline Trio meets The Ergs! meets maybe a little bit of Charly Bliss?--or at least that's the best we can do here. It's got a charming level of underproduction to it, and there's real energy and feeling behind these tracks."
+        ]
+    }, {
+        "song": "Cancer in the Water",
+        "artist": "Clarence Clarity",
+        "spotify_id": "2aHWWqD3ceKgFff07klSUg",
+        "post_page": "2020-10-12",
+        "description_lines": [
+            "If you have trouble finding this track, it's because the \"TM\" in the title is actually superscripted, not parenthetical. We just couldn't figure out how to do that in Gmail.",
+            "At any rate, we stumbled across this track this week, and it exists somewhere at the intersection of crunchy and fun. The whole thing is basically one big loop, right down to the vocals: \"Before I get out/I'll put cancer in the water/before you got out/you left cancer in me.\" Whatever that means precisely is beyond us, but it's clear that it means <i>something</i>. (There are those on the internet who think the song is about the fluoridation of the water supply [via How I Learned to Stop Worrying and Love the Cancer in My Water].)",
+            "As that Radioguts-wave lyrical loop burrows its way into your thoughts, the rest of the track expands to occupy your earballs. It's carried along by a jaunty little melody that whirrs and clicks, beeps, shudders, and groans, but never strays too far away from its catchy base. It feels a little bit like Baths meets Katie Dey (but we repeat ourselves) meets Passion Pit. (And if you don't know Katie Dey, who appeared on this thread a month or two back, may we please recommend \"Darkness\"?)",
+            "Guys, this one is an obvious choice. It's not going to change lives but it'll certainly enhance any carefree day."
+        ]
+    }, {
+        "song": "Finally Found",
+        "artist": "Graveyard Club",
+        "spotify_id": "2UyQA6lJdRSJXprPtvJrds",
+        "post_page": "2020-10-05",
+        "description_lines": [
+            "A familiar favorite, Graveyard Club have appeared on the WMT before for the excellent \"Witchcraft,\" \"Cellar Door,\" and \"Valens.\" Well, we were revisiting them this week, and we stumbled upon another keeper: \"Finally Found.\" This track, from 2019, eschews the M83 synth fuzz of some of those others in favor of a serious, almost '50s doo wop sensibility, replete with those \"2and...4\" snare notes. It'd be at home in a David Lynch re-make of <i>Grease</i>."
+        ]
+    }, {
+        "song": null,
+        "album": "Live Forever",
+        "artist": "Bartees Strange",
+        "spotify_id": "4Lu520UvMf7lJccCnKw3hJ",
+        "post_page": "2020-10-05",
+        "description_lines": [
+            "This isn't the first time Strange has appeared on the WMT. A budding solo artist, Strange has been releasing singles over the past month or so--most notably, \"Mustang\" and \"Boomer\"--in anticipation of his first full-length original solo album, Live Forever. (We've been really, really hot on those two tracks, by the way.) Well, <i>Live Forever</i> has dropped in the past week, and we've had time to give it a listen or two since it did.",
+            "This is an interesting, if loose, record. It sounds almost like one you discover after getting into an artist's later work, then going back and revisiting their early stuff and telling your friends, \"Yeah, but have you listened to his early stuff? Some of that's pretty cool, too.\" The record kicks off with a creaky and ethereal track, \"Jealousy,\" which as a stand-alone doesn't seem to stand for all that much (which, according to our co-workers who are really into mainstream politics, means it will fall for anything.) Where \"Jealousy\" mostly makes its money is as a lead-in to second and third tracks \"Mustang\" and \"Boomer,\" which retain some of the creakiness but up both the amplitude and the tempo. These were the two singles we were most excited about in past weeks, and they're the by far the standouts on our early listens. They've both got that National desperation that marks the best of Strange's solo tracks. After that, the record travels into Strange's third single, \"Kelly Rowland,\" which, aside from its interesting sample, never captured us as much as the other two did.",
+            "The next two tracks, \"In a Cab\" and \"Stone Meadows,\" mostly sound like less fully realized versions of Strange's other signals. Things take a turn, however, with \"Flagey God,\" which, atop a vaguely subterranean house music backbeat, manages to sound something like a cross between a haunting and an R&B single. From there, the rest of the back half of the record is much, much looser than everything that came before it. Several of the tracks are essentially just strings and vocals with synth landscapes slothing around behind them.",
+            "On the whole, we don't exactly know what to do with this as a record. There's a lot we really like here--the whole thing has a roomy sort of unsettling noisiness to it, like a beautiful jalopy bumping and trundling through an eerie and unfamiliar fog. You can't quite make out where different sounds are coming from, whether they'll repeat or not, whether they have anything to do with the melody at all or whether they're just window dressing. But this is as much a strength as it is a weakness, and we if Strange will find a more effective way to consistently harness it moving forward."
+        ]
+    }, {
+        "song": "My Trust is Low",
+        "artist": "M4ts00n",
+        "spotify_id": "6ZPzJi1KcV2M1KY3EkNa2K",
+        "post_page": "2020-09-28",
+        "description_lines": [
+            "This is a really neat track. It's a creative, repetitive, stripped down loop that evokes The Books and, with its mixture of twangy strings and synth chords, almost an Uncle Kracker pop country vibe, if you will. Like a Kerouac novel, you'll get the idea about 30 seconds in, and decide that you either love it or hate it. (Unlike a Kerouac novel, on the other hand, we like this.)"
+        ]
+    }, {
+        "song": "S.W.I.M.",
+        "artist": "Midwife",
+        "spotify_id": "41qO4ILS1Gm4A1Szf25pz3",
+        "post_page": "2020-09-28",
+        "description_lines": [
+            "The first thing we noticed about this track is the title. \"S.W.I.M.,\" for those not in the know, is an extremely clever acronym--Someone who isn't me--that people use on Reddit when they want to inquire about drugs. Law enforcement haven't figured it out yet, and defunding of the police is likely to put that understanding even further out of reach, but stay tuned. They may surprise us yet.",
+            "At any rate, the second thing we noticed about this track is this track. The whole thing is heavy, a big fuzzy blanket of synth, but like under that blanket you're on an Ambien as well. The track feels like warm water washing over you, the rhythmic eighth notes ebbing and pooling around your outline as you lay on your back in the lazy surf. This one is for feeling meaningful. It's fitting that the vocals are so obscured that you can barely understand them-- you don't need to. You can't make out the words from where you are, underwater, but it doesn't matter--you already know what they mean. And we have this feeling like the water motif here is about rebirth. Like an addict who has freed himself from the cycle, one you read about once, in a long novel that you really liked, laying in the water on the beach as the tide rolls in and out, in and out, in and then out again. And he just lays there.",
+            "(If you can't tell, we're listening to it as we write this.)"
+        ]
+    }, {
+        "song": "Keep It Up",
+        "artist": "Niko Noki",
+        "spotify_id": "0hluOHimkaXBe4s8yO990Z",
+        "post_page": "2020-09-22",
+        "description_lines": [
+            "The only really lasting thing to come out of Cuties. Early on in the film, the protagonist discovers a group of 11-year-old dancers, and films them as they offer signature dances to this track. It's fun and benign--we actually remarked out loud \"this film seems totally benign!\" (Like Lars von Trier's <i>Antichrist</i>, though, things eventually take a very dark turn--the controversy, if a little over blown, is still somewhat warranted.) At any rate, this track is an original which was made for the film.",
+            "It's a fun, bouncy, dance pop track. It sounds sort of like if the Spice Girls were around today as a Tik Tok group, and their music was a captcha. The strong back beats and crowded rhythms offer a lot of texture to dance against, which is probably why it was selected for the scene it was used in. That being said, it's not clear to us whether the track can stand on its own apart from the film. It feels a little dinky on its own, a little flimsy--sort of like Less than Jake's \"We're All Dudes.\" Infectious when you hear it along with the movie's characters, but lacking when you don't."
+        ]
+    }, {
+        "song": "Bye Bye Bye",
+        "artist": "Brian Robert Jones",
+        "spotify_id": "6qZyIToSdYKFhf58IFK9GW",
+        "post_page": "2020-09-22",
+        "description_lines": [
+            "Brian Robert Jones (of Vampire Weekend fame) is celebrating the 20th anniversary of NSYNC's <i>No Strings Attached</i> with a synth- and vocoder-heavy re-release of <i>the entire album</i>. The entire thing just dropped, but we haven't had time to make our way through all of it. (And, frankly, we're not as familiar with some of the non-hits on it.) \"Bye Bye Bye,\" however, works surprisingly well in this format. It's actually a lot more interesting than the original arrangement.",
+            "This is better than as good as covers get. Most covers are just carbon copies of the original track you loved, but because they're not exactly the same as the song you loved in the first place, they feel degraded. Then there are covers that aren't particularly <i>good</i> but at least deserve credit for doing something wildly different. This is the rare cover that, as recognizable as the original is, doesn't feel like a cover. It feels like its own track. It's honestly hard to believe it isn't. It just works so damn well."
+        ]
+    }, {
+        "song": null,
+        "album": "Love in the Time of Email",
+        "artist": "Antarctigo Vespucci",
+        "spotify_id": "0fB20lk7IujnEMO26kFGHa",
+        "post_page": "2020-09-22",
+        "description_lines": [
+            "Sometimes, you uncover a hidden gem. This is one of those times.",
+            "First of all and right off of the bat--here's another inductee into our Names Hall of Fames. Could've gotten in on the band name alone, but that record name is just...exquisite.",
+            "Now for the music. This is a fun, laid-back, non-threatening indie pop collection that captures elements of Matt and Kim, and Brandon Flowers' solo work. Maybe a touch of the whimsy of Weezer as well? At any rate, it's great. It shines. It glistens. It tastes a little like bubble gum in our mouth. Big league chew.",
+            "The opener, \"Voicemail,\" is a surreptitious introduction, but the record really wakes up on \"Kimmy.\" On the third track, \"White Noise,\" the pre-chorus and chorus hand claps give the whole thing an almost throwback, sing-a-long '50s feel, but the trembling guitar interlude sends us forward to <i>Contra</i>-era Vampire Weekend. \"Breathless on DVD\" shimmers as well, and pokes fun at pseudocinephiles and their Jean-Paul Belmondo affectations.",
+            "About halfway through the record, \"So Vivid!\" and \"Freakin' U Out\" turn up the fuzz and add a pop-punk edge to the album, as though these guys listened to the Larry Arms on the way to the studio that day or something. The rest of the record is, for the most part, a little quieter after that, until the outro, \"E-Mail,\" takes us back to where \"Voicemail\" kicked things off in the beginning.",
+            "Solid cover art, too, by the way."
+        ]
+    }, {
+        "song": "Ambrosia",
+        "artist": "Rosie Tucker",
+        "spotify_id": "17PBeLUldWC941sX8Ffmkd",
+        "post_page": "2020-09-14",
+        "description_lines": [
+            "This is a neat little track by a pretty recent artist. It's got gloomy, underwater guitar chords which bubble beneath a crystal clear and front-foot-forward female vocal track. Its slow pace and occasional half-step movements are really nicely punctuated by little vocal licks that run back to the one (\"cover dish and chilllll for awhile\"). Those few moments really make the track, and you find yourself listening for them specifically on repeat takes.",
+            "This one reminds us of another recent WMT entry, Frances Quinlan's \"Piltdown Man.\" (\"Six AM so loud your mom/HAD to kick us out.\") This week's WMT is short, so go ahead and re-visit that one while you're at it."
+        ]
+    }, {
+        "song": "Pleasure Line",
+        "artist": "Video Age",
+        "spotify_id": "2XlQCGzPPXX7e8KA3pIBBT",
+        "post_page": "2020-09-14",
+        "description_lines": [
+            "Video Age, indeed. From its opening moments, this track is squarely rooted in the kind of faux '80s nostalgia that started emerging ten years ago and hasn't quit since. It's got dreamy synth melodies, shifting sixteenth note hi-hat shimmies, and rubber band guitar chords that kick in with each chorus. It sounds like Hall and Oates meet Miguel Jackson with just the slightest sprinkle of vaporwave influence.",
+            "For what it's worth, their guitarist looks like a cross between Danny Pudi and Adam Driver"
+        ]
+    }, {
+        "song": "Lavender Boombox",
+        "artist": "Miniature Tigers",
+        "spotify_id": "04TOyd9HCUL8do2srcIyXY",
+        "post_page": "2020-09-07",
+        "description_lines": [
+            "Between the dreamy saxophone and the cool, breathy, effortless vocals, there's a distinct Destroyer vibe to parts of this track. They collide really interestingly with the rest of the instrumentation, which has a sort of organic take on vaporwave, if we may. It's sort of like if Dan Bejar was making music in high school in like 2018. The consistent clap/snare sounds on the back half of each bar give the whole thing a real sense of momentum. The track rides on like that until just past the halfway mark when things go quiet and slow and fingerpicked, before coming back in with some vaguely Caribbean upstroked chords and a spicy sax solo."
+        ]
+    }, {
+        "song": "Ruin (My Ride)",
+        "artist": "Hovvdy",
+        "spotify_id": "6JduePL4y2un1UAuTNSBHE",
+        "post_page": "2020-09-07",
+        "description_lines": [
+            "This one is a little tricky to place. There are parts of it that remind us of <i>Blink-182</i>-era Blink-182 (think \"I Miss You\")--the distant vocals, the vaguely Tom DeLonge tinge to the vocals, the inorganic drum tracking--but there are also parts of it which feel very '90s rock. (Not that Blink-182 aren't themselves some form of '90s rock, but don't play dumb--you get what we mean.)",
+            "Separately, we think that Hovvdy should open for Alvvays before a screening of <i>The Vvitch</i>."
+        ]
+    }, {
+        "song": null,
+        "album": "All or Nothing",
+        "artist": "Mel*n",
+        "spotify_id": "7nTPIgjFsBEUjkK1LGNTDE",
+        "post_page": "2020-09-07",
+        "description_lines": [
+            "Want to feel authentic? Check out Mel*n. Here's an artist with 226 monthly listeners on Spotify. It doesn't get much more artisanal than that.",
+            "The name comes from the artist's actual name, Mel Lynn, from Philadelphia. (Derek--do you know her? Did you guys torch cop cars together at Penn Charter?) Anyway, this is a monotone, shoegaze-y electronic record with some vague dance tones to it. The real standout is the eponymous \"All or Nothing.\" The song starts out with a nice enough vibe but not much to write home about--just a drowsy sad kinda chick who is, in the parlance of our times, \"all of us.\" It's not until the second verse passes and the chorus begins that things really turn up. We get a brief hiccup, and then a vaguely \"Strobe\"-like layer settles over the chorus and provides a nice bounce to the track. The other songs on this EP are all worth a listen as well. It doesn't jump out at you, necessarily, but we've found ourselves coming back to it all week.",
+            "Separately, 2019's single \"Little More\" isn't half-bad, either."
+        ]
+    }, {
+        "song": "new song d",
+        "artist": "The Front Bottoms",
+        "spotify_id": "5OrWjKjmlOehKTiSH9caKQ",
+        "post_page": "2020-09-07",
+        "description_lines": [
+            "What more do we have to say? You already know what this is. The Front Bottoms have appeared here multiple times before (most notably, with \"Camouflage\"), and all of the things that landed them here before are landing them here again. The casual/frantic spoken-word verses, the driving drum tracks, and the lyrics. The real value in this track comes in its progressive bombast. It starts off solidly enough, but builds noticeably as it moves along. It doesn't reach the same heights as the aforementioned \"Camouflage,\" and there's an unnecessary pseudo-profound outro, but it's a worthy entry nonetheless."
+        ]
+    }, {
+        "song": null,
+        "album": "Set My Heart On Fire Immediately",
+        "artist": "Perfume Genius",
+        "spotify_id": "5qWrp5RcqjxB8ak7dtK6Iv",
+        "post_page": "2020-09-07",
+        "description_lines": [
+            "Sam had tried to turn us on to Perfume Genius years ago but at the time it didn't stick. Now we're here to eat crow, because this latest release feels like it could be really special. (The record was released back in May but we're just now discovering it for ourselves.) We've only spent a couple of days with it and therefore only given it a few full listens, but we're really excited by how both familiar and new it feels at the same time. This is evident from the opening track, \"Whole Life.\" There's a classic, timeless element to the production--it reminds you of the shaky, quivery kind of pretty songs you hear in old movies--but it also manages to sound like nothing we've heard before.",
+            "If we had to make comparisons, Grizzly Bear's <i>Veckatimest</i> (2009) would probably be up there for the same, shared polished ricketiness, but <i>Set My Heart On Fire Immediately</i> is a much more accessible album than <i>Veckatimest</i> (and much better for it). Also, other tracks feel much more modern and forward, like \"Describe,\" which feels almost like Beck meets The Flaming Lips? We're not quite sure about that, but this track is a hipster's slow-motion entrance dream. And things just keep evolving from there. \"Without You\" is a breezy evening ditty--you can almost (we said <i>almost</i>, okay?) hear a bossa nova underneath it--and \"On the Floor\" is actually, of all things, <i>shuffle</i>. Although we probably need a lot more time with this record before we can say more, that's a chunk of time we're really looking forward to putting in.",
+            "This new/old conflagration is captured even in the album art. (First of all, how nice it is to see some aesthetically pleasant cover art? We feel like most cover art nowadays vaguely resembles a rainbow highlighter vomitus...) Hadreas, the eponymous genius himself, stares shirtlessly, knowingly, defiantly at the camera in a black/white contrast that somehow seems to simultaneously evoke Humphrey Bogart, our final look at Norman Bates in <i>Psycho</i> (1960), and Joaquin Phoenix's Arthur Fleck (<i>Joker</i>, 2019). The question on everyone's mind--does anyone make <i>albums</i> anymore--finally has an answer: yes."
+        ]
+    }, {
+        "song": "detonate",
+        "artist": "Charli XCX",
+        "spotify_id": "1M6VHCglQ2PLWeAsyhgEUH",
+        "post_page": "2020-08-31",
+        "description_lines": [
+            "Charli XCX is (are? is this a person? is this a band? is this a m--man? FLOCKA) like TikTok, in that she is super popular and we just generally aren't that familiar. We feel like we should become more familiar, though, because this isn't the first time one of her tracks has caught our attention and made its way onto this thread.",
+            "This track is like a fun, light, super bubbly champagne. Part of that quality comes from the sound of the song itself--all of its rapid, moving, bubbling tones actually seem themselves to effervesce. Or maybe, given the adolescent feel of the whole thing, Pop Rocks would be a better comparison? Of course, like so many great tracks, form and content are exactly opposed: as light as the sounds are, the lyrics offer a different story.",
+            "We are open to recommendations as to where to begin with this artist. We'd like to hear more."
+        ]
+    }, {
+        "song": "Crimson and Clover",
+        "artist": "A.G. Cook",
+        "spotify_id": "3MBMKV1sWbwssL3MY5IqnA",
+        "post_page": "2020-08-31",
+        "description_lines": [
+            "We've come across A.G. Cook before, but always in collaboration, either with Hannah Diamond (see below) or 100 gecs. This is a solo effort off of a recent LP, and we really like it. It almost sounds like another collaboration, only this time, with Lou Reed and the Velvet Underground (and maybe a touch of Contra-era Vampire Weekend thrown in for good measure). At least, that's how the verses sound. As you'll see if you take a listen, the bridges move off into a different direction before returning to the sweet, lazy verse that makes this whole thing work. And about halfway through, we get an interesting slowdown in which things seem to flip: the drums become organic, while the vocals are filtered through a very present vocoder.",
+            "There's probably a version of this song that works as a bigger banger in some alternative multiverse reality, but we're pretty into this version nonetheless."
+        ]
+    }, {
+        "song": "Hologram",
+        "artist": "Tacocat",
+        "spotify_id": "29J86Fn14T8BB93kNW43eU",
+        "post_page": "2020-08-24",
+        "description_lines": [
+            "Kicking off a relatively short list this week is \"Hologram\" by Tacocat. We've never really listened to Tacocat before, but apparently they're a well-established Subpop outlet from Seattle (RIP). This track is a catchy pop-punk sing-along that sounds like a cross between Courtney Barnett and The Thermals. It's summery--we recommend listening to it while standing up shotgun-side in a slow-motion convertible."
+        ]
+    }, {
+        "song": "It's Gonna Be Okay, Baby",
+        "artist": "MUNA",
+        "spotify_id": "5lH5KTgUiP5CSjGctZusTQ",
+        "post_page": "2020-08-24",
+        "description_lines": [
+            "It's hard to ignore a song that opens with lines like \"You're gonna move to New York/and experiment with communism/Go down on a girl/after reading her some Frantz Fanon.\" (It's a little hard to imagine <i>Fanon</i> getting anyone--except for maybe sadomasochists?--in the mood, but the point is well taken nonetheless.) This one, which sounds like pronoun meets Miel, is not nearly so summery as the above entry. It's more of a rainy day, in your feelings, meaningful cafe vibe.",
+            "A quick glimpse at the group's Spotify page reveals that it's not one of their bigger songs. Those honors would go to \"Bodies,\" \"Number One Fan,\" and \"I Know a Place.\" A single listen of each reveals that they're all worth your time as well, although we don't have time to discuss them fully here."
+        ]
+    }, {
+        "song": "Valentine",
+        "artist": "Lala Lala, Grapetooth",
+        "spotify_id": "6DzjAbFIAvE8kXoo64JzBK",
+        "post_page": "2020-08-24",
+        "description_lines": [
+            "This track comes as a collaboration. It's got a little bit of a New Wave, shoegaze feel to it, but with an almost reverent synth background that kind of evokes the backing to the chorus of \"Love My Way\" by the Psychedelic Furs (which is, of course, included on the <i>Call Me By Your Name</i> soundtrack). Two of the members of Grapetooth actually belong to the band Twin Peaks, who we've featured here before as well."
+        ]
+    }, {
+        "song": null,
+        "album": "Welcome to Conceptual Beach",
+        "artist": "Young Jesus",
+        "spotify_id": "76nK69DufkCMk1v8kkmSA5",
+        "post_page": "2020-08-17",
+        "description_lines": [
+            "Young Jesus have appeared on the WMT before, but never before like this. This past Friday saw the release of the band's fourth studio and fifth overall record, Welcome to Conceptual Beach, and you can go ahead and both induct that into the Names Hall of Fames *and* call it truth in advertising. It's an artsy record, for sure, but one which ends up being more accessible than it seems. We've heard it described as a mix of Sigur Ros, Neutral Milk Hotel, and Dave Matthews Band, which is accurate but incomplete. For good measure, we'd also throw in Wild Beasts, Destroyer, and a host of other acts as well.",
+            "The record does meander at times, and it will take a few more listens to tell whether or not it sticks as a total overall effort. That being said, there are a couple of serious stand-outs. The closer, \"Magicians,\" for instance, shows off a stuttering, schizophrenic alternation between a pleasant, structured sort of verse and long, unstructured, understated solo efforts in a way that kind of recalls The Velvet Underground's \"Heroin\" (a great, great track on its own, in case you're not familiar). It feels a little bit gratuitous at first until everything comes together in the third act.",
+            "By far the best track off of the record, however, is \"(un)knowing.\" This is the stand-out, the \"put it on repeat and sing along\" anthem. The song is essentially split into two mirror-image halves. The first half, with its alternative guitar tuning and clean acoustic sounds, is almost reminiscent at times of mid '90s radio rock, but the second half is where things really come alive. Everything becomes distorted, muddled, electrified, and the lyrics reach a max meaningfulness level. By the time John Rossiter is wailing \"Oh God and Mary, Jesus Christ/won't bless me for my every vice,\" so are we, and even if we don't know exactly what he means, we know exactly what he means. This is Young Jesus at their most NMH, and it's really, really good.",
+            "We recommend starting off with \"(un)knowing,\" and then trying out the record as a whole from there."
+        ]
+    }, {
+        "song": "Boomer",
+        "artist": "Bartees Strange",
+        "spotify_id": "2WahhszjFFN9qLK3G2ihZL",
+        "post_page": "2020-08-17",
+        "description_lines": [
+            "Last week, we brought you an introduction to Bartees Strange, with his excellent \"Mustang.\" This week, Strange has another new track out, called \"Boomer.\" It's equally interesting if a somewhat different vibe--sort of like if Kid Cudi made garage rock with the children of The National and The Killers? We're not sure how much that description is going to hold up, but if you liked the first effort from Strange, you'll like this one, too."
+        ]
+    }, {
+        "song": "x",
+        "artist": "x",
+        "spotify_id": "x",
+        "post_page": "x",
+        "description_lines": [
+            "x",
+            "x"
+        ]
+    }, {
+        "song": "x",
+        "artist": "x",
+        "spotify_id": "x",
+        "post_page": "x",
+        "description_lines": [
+            "x",
+            "x"
+        ]
+    }, {
+        "song": "x",
+        "artist": "x",
+        "spotify_id": "x",
+        "post_page": "x",
+        "description_lines": [
+            "x",
+            "x"
+        ]
+    }, {
+        "song": "x",
+        "artist": "x",
+        "spotify_id": "x",
+        "post_page": "x",
+        "description_lines": [
+            "x",
+            "x"
+        ]
+    }, {
+        "song": "x",
+        "artist": "x",
+        "spotify_id": "x",
+        "post_page": "x",
+        "description_lines": [
+            "x",
+            "x"
         ]
     }
 ]

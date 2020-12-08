@@ -10,7 +10,7 @@
   
   <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-  <title>Weekly Music Thread</title>
+  <title>Weekly M Thread</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
