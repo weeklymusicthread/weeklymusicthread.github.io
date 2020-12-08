@@ -54,6 +54,7 @@
             <i class="fab fa-spotify fa-stack-2x fa-inverse" style="color:#1ED761;"></i>
           </span>
 				</a>
+				<div style="height: 25vh"></div> <!-- hack! buffer space to make footer appear lower -->
       </div>
     </div>
   </div>
