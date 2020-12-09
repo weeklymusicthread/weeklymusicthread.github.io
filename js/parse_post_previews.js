@@ -19,8 +19,8 @@ function displayPreviews() {
 
 				// test comment to see if site pulls
 					
-				console.log(postData[i].postpage)
-				$("#"+postId).append(`<a href="${postData[i].post_page}>`);
+				console.log(postData[i].post_page)
+				$("#"+postId).append('<a href="'+postData[i].post_page+'.php>');
 				$("#"+postId).append('<h2 class="post-title">'+postData[i].post_title+'</h2>');
 				$("#"+postId).append('<h3 class="post-subtitle">'+postData[i].post_subtitle+'</h3></a>');
 				$("#"+postId).append('<p class="post-meta">Posted by'+'<a href="#">'+postData[i].post_author+' </a> on '+ postData[i].post_date+'</p>');

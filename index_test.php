@@ -69,7 +69,7 @@
   <!-- Custom scripts for this template -->
   <script src="js/clean-blog.min.js"></script>
 
-  <script src="js/parse_post_previews.js?newversionzz"></script>
+  <script src="js/parse_post_previews.js?newversionzzz"></script>
 
   <script> displayPreviews();  </script>
 
