@@ -16,6 +16,8 @@ function displayPreviews() {
 				var postId = 'post'+postCounter; 
 				
 				$("#previewSection").append('<div class="post-preview" id="'+postId+'"></div>');
+
+				// test comment to see if site pulls
 					
 				$("#"+postId).append('<a href="'+postData[i].post_page+'.php>');
 				$("#"+postId).append('<h2 class="post-title">');
