@@ -53,67 +53,7 @@
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fab fa-spotify fa-stack-2x fa-inverse" style="color:#1ED761;"></i>
           </span>
-      </a>
-        <div class="post-preview">
-          <a href="2020-11-30.php">
-            <h2 class="post-title">
-              Rage Against The Machine Gun Kelly
-            </h2>
-            <h3 class="post-subtitle">
-              We apologize for the delay in bringing you the WMT this week. Yes, we still made it in on a Monday, but it's a little bit later than usual, isn't it? Well, as it turns out, it'll have to do, because we had to see a man about a machine gun.
-            </h3>
-          </a>
-          <p class="post-meta">Posted by
-          <a href="#">DJ Machine Gun Kelly Clarkson</a>
-        on November 30, 2020</p>
-        </div>
-        <hr>
-        <div class="post-preview">
-          <a href="2020-11-23.php">
-            <h2 class="post-title">
-              Delusions of Grammy
-            </h2>
-            <h3 class="post-subtitle">
-              "Give a man a drum set, and he'll be a drum set for a day. But *teach* a man to drum set, and he'll be a drum set for the rest of his life." - J.K. Simmons
-            </h3>
-          </a>
-          <p class="post-meta">Posted by
-            <a href="#">DJ Albus Drumbledor</a>
-            on November 23, 2020</p>
-        </div>
-        <hr>
-        <div class="post-preview">
-          <a href="2020-11-16.php">
-            <h2 class="post-title">
-              RMR for President
-            </h2>
-            <h3 class="post-subtitle">
-              Now, about those calls for unity...
-            </h3>
-          </a>
-          <p class="post-meta">Posted by
-            <a href="#">DJ RMR Hazlitt</a>
-            on November 16, 2020</p>
-        </div>
-        <hr>
-        <div class="post-preview">
-          <a href="2020-11-09.php">
-            <h2 class="post-title">
-              Electile Dysfunction
-            </h2>
-            <h3 class="post-subtitle">
-              "[insert generic election analysis lifted directly from major media outlets]" - every single person you know
-            </h3>
-          </a>
-          <p class="post-meta">Posted by
-            <a href="#">DJ Electoral College Dropout</a>
-            on November 9, 2020</p>
-        </div>
-             
-        <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
-        </div>
+        </a>
       </div>
     </div>
   </div>
@@ -128,6 +68,10 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/clean-blog.min.js"></script>
+
+  <script src="js/parse_post_previews.js"></script>
+
+  <script> displayPreviews();  </script>
 
 </body>
 
