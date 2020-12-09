@@ -22,6 +22,9 @@
 
   <!-- Custom styles for this template -->
   <link href="css/clean-blog.css" rel="stylesheet">
+	
+	<!-- MailChimp Popup -->
+	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/06562c29028f6e0751eee5238/108d1001d2e2648d8bc4e4e68.js");</script>
 
 </head>
 
@@ -128,8 +131,6 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/clean-blog.min.js"></script>
-	
-	<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/06562c29028f6e0751eee5238/108d1001d2e2648d8bc4e4e68.js");</script>
 
 </body>
 
