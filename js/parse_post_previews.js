@@ -1,14 +1,14 @@
 // This function would be called by individual html post pages by supplying the postPage filter
 // which as of now would be the post date (e.g. 2020-11-26). This function iterates through all
 // matching postData items and then displays them on the page by appending html
-function displayPosts(postPage) {
+function displayPrevies(postPage) {
 	console.log(postPage);
 	//console.log(postData); 
 	
 	var postCounter = 1;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
-	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
+	$.getJSON('http://weeklymusicthread.com/post_previews.json', postData => {
 	
 		postData.forEach (entry => {
 			if (entry.post_page === postPage) { // this is how we filter per page!
