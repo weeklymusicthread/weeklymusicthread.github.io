@@ -20,9 +20,7 @@ function displayPreviews() {
 				// test comment to see if site pulls
 					
 				$("#"+postId).append('<a href="'+postData[i].post_page+'.php>');
-				$("#"+postId).append('<h2 class="post-title">');
-				$("#"+postId).append(postData[i].post_title);
-				$("#"+postId).append('</h2>');
+				$("#"+postId).append('<h2 class="post-title">'+postData[i].post_title+'</h2>');
 				$("#"+postId).append('<h3 class="post-subtitle">');
 				$("#"+postId).append(postData[i].post_subtitle);
 				$("#"+postId).append('</h3></a>');
