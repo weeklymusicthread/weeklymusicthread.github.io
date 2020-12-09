@@ -15,7 +15,7 @@ function displayPreviews() {
 				// we will use this to append the html to the right element, its how we 'group' the data
 				var postId = 'post'+postCounter; 
 				
-				$("#previewSection").append('<div class="post-preview"> id="'+postId+'"></div>');
+				$("#previewSection").append('<div class="post-preview" id="'+postId+'"></div>');
 					
 				$("#"+postId).append('<a href="'+postData[i].post_page+'.php>');
 				$("#"+postId).append('<h2 class="post-title">');
