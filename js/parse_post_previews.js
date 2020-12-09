@@ -22,8 +22,7 @@ function displayPreviews() {
 				$("#"+postId).append('<a href="'+postData[i].post_page+'>');
 				$("#"+postId).append('<h2 class="post-title">'+postData[i].post_title+'</h2>');
 				$("#"+postId).append('<h3 class="post-subtitle">'+postData[i].post_subtitle+'</h3></a>');
-				$("#"+postId).append('<p class="post-meta">Posted by');
-				$("#"+postId).append('<a href="#">'+postData[i].post_author+' </a> '+ postData[i].post_date+'</p>');
+				$("#"+postId).append('<p class="post-meta">Posted by'+'<a href="#">'+postData[i].post_author+' </a> on '+ postData[i].post_date+'</p>');
 				$("#"+postId).append('<hr>');
 				
 				// increase the counter for the next iteration!
