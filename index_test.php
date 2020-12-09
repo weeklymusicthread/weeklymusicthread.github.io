@@ -69,7 +69,7 @@
   <!-- Custom scripts for this template -->
   <script src="js/clean-blog.min.js"></script>
 
-  <script src="js/parse_post_previews.js?newversionzzaz"></script>
+  <script src="js/parse_post_previews.js?uid=<?php echo uniqid(); ?>"></script>
 
   <script> displayPreviews();  </script>
 
