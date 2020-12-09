@@ -10,7 +10,7 @@ function displayPreviews() {
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/post_previews.json', postData => {
 	
-		for (i = 0; i < numDisplay-1; i++) {
+		for (i = 0; i < numDisplay; i++) {
 			 
 				// we will use this to append the html to the right element, its how we 'group' the data
 				var postId = 'post'+postCounter; 
@@ -19,7 +19,8 @@ function displayPreviews() {
 
 				// test comment to see if site pulls
 					
-				$("#"+postId).append('<a href="'+postData[i].post_page+'>');
+				console.log(postData[i].postpage)
+				$("#"+postId).append(`<a href="${postData[i].post_page}>`);
 				$("#"+postId).append('<h2 class="post-title">'+postData[i].post_title+'</h2>');
 				$("#"+postId).append('<h3 class="post-subtitle">'+postData[i].post_subtitle+'</h3></a>');
 				$("#"+postId).append('<p class="post-meta">Posted by'+'<a href="#">'+postData[i].post_author+' </a> on '+ postData[i].post_date+'</p>');
