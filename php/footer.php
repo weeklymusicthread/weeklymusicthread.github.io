@@ -9,13 +9,13 @@
 		<div class="collapse navbar-collapse" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="index.php">Home</a>
+					<a class="nav-link" href="index.html">Home</a>
 				</li>
 			 <li class="nav-item">
-					<a class="nav-link" href="about.php">About</a>
+					<a class="nav-link" href="about.html">About</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="contact.php">Contact</a>
+					<a class="nav-link" href="contact.html">Contact</a>
 				</li>
 				<li class="nav-item">
 					<a style = "color:#1ED761" class="nav-link" target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>

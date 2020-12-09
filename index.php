@@ -69,7 +69,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="2020-11-23.html">
+          <a href="2020-11-23.php">
             <h2 class="post-title">
               Delusions of Grammy
             </h2>
@@ -83,7 +83,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="2020-11-16.html">
+          <a href="2020-11-16.php">
             <h2 class="post-title">
               RMR for President
             </h2>
@@ -97,7 +97,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="2020-11-09.html">
+          <a href="2020-11-09.php">
             <h2 class="post-title">
               Electile Dysfunction
             </h2>
@@ -120,42 +120,7 @@
 
   <hr>
 
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <ul class="list-inline text-center">
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-          </ul>
-          <p class="copyright text-muted">No Copyright &copy; Weekly Music Thread 2020</p>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <?php include('php/navbar.php'); ?>
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
