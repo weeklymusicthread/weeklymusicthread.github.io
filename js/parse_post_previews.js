@@ -6,20 +6,20 @@ function displayPrevies(postPage) {
 	//console.log(postData); 
 	
 	var postCounter = 1;
+	var numDisplay = 3;
+	var i;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
-	$.getJSON('http://weeklymusicthread.com/post_previews.json', postData => {
+	$.getJSON('https://weeklymusicthread.com/post_previews.json', postData => {
 	
-		postData.forEach (entry => {
-			if (entry.post_page === postPage) { // this is how we filter per page!
-				console.log("Matched on entry");
-				console.log(entry);
-				
+		for (i = 0; i < numdisplayer-1; i++) {
+			 
 				// we will use this to append the html to the right element, its how we 'group' the data
 				var postId = 'post'+postCounter; 
 				
-				$("#postSection").append('<div class="post-container" id="'+postId+'"></div>'); // notice the element ID attr is set to the postId counter variable! that is how we can dynamically find the right div to append the song post data to!
-							
+				$("#previewSection").append('<div class="post-container" id="'+postId+'"></div>'); // notice the element ID attr is set to the postId counter variable! that is how we can dynamically find the right div to append the song post data to!
+				$("#previewSection").append('<div class="post-preview"> id="'+postId+'"></div>');
+				
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
 				if (entry.spotify_id != null)  {
 					if (entry.song != null) {
@@ -41,7 +41,7 @@ function displayPrevies(postPage) {
 				
 				// increase the counter for the next iteration!
 				postCounter++;
-			}
-		});
+			
+		};
 	});
 }

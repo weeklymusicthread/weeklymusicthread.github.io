@@ -9,7 +9,7 @@ function searchName() {
 	var postCounter = 1;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
-	$.getJSON('http://weeklymusicthread.com/music_entries.json', postData => {
+	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 	
 		postData.forEach (entry => {
 			if (entry.artist === searchedArtist) { 
