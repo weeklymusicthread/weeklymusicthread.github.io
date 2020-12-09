@@ -47,13 +47,13 @@
   <!-- Main Content -->
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto" id = "previewSection">
+      <div class="col-lg-8 col-md-10 mx-auto">
         Listen to the complete WMT collection with our <a target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q"><u>Spotify Playlist</u>
           <span style="font-size: 12px;" class="fa-stack fa-xs">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fab fa-spotify fa-stack-2x fa-inverse" style="color:#1ED761;"></i>
           </span>
-      </a>
+        </a>
         <div class="post-preview">
           <a href="2020-11-30.php">
             <h2 class="post-title">
@@ -65,7 +65,7 @@
           </a>
           <p class="post-meta">Posted by
           <a href="#">DJ Machine Gun Kelly Clarkson</a>
-        on November 30, 2020</p>
+            on November 30, 2020</p>
         </div>
         <hr>
         <div class="post-preview">
