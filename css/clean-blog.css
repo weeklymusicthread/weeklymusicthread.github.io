@@ -417,3 +417,8 @@ footer .copyright {
 .post-container {
   min-height: 475px;  
 }
+
+#mc_embed_signup .button {
+  background-color: #8a0eaf;
+  
+}
