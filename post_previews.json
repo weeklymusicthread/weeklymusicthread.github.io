@@ -1,5 +1,14 @@
-[
-	 {
+[   
+    {
+    "post_page": "2020-12-07",
+    "post_date" : "December 7, 2020",
+    "post_title": "Hindsight 2020",
+    "post_author": "DJ Linkin' Project",
+    "post_subtitle": [
+        "Well, friends and faithful readers, it's all coming to an end."
+    ]
+    },
+	{
         "post_page": "2020-11-30",
         "post_date" : "November 30, 2020",
         "post_title": "Rage Against The Machine Gun Kelly",
@@ -14,7 +23,7 @@
         "post_title": "Delusions of Grammy",
         "post_author": "DJ Albus Drumbledor",
         "post_subtitle": [
-            "\"Give a man a drum set, and he'll be a drum set for a day. But *teach* a man to drum set, and he'll be a drum set for the rest of his life.\" - J.K. Simmons"
+            "And now, for the latest installment in The Adventures of Johnny Drumsticks!"
         ]
     },
     {
