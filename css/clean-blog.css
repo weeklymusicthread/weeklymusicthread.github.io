@@ -418,7 +418,9 @@ footer .copyright {
   min-height: 475px;  
 }
 
-#mc_embed_signup input.button {
+#mc_embed_signup {
   background-color: #8a0eaf!important;
-
+  clear:left; 
+  font:14px Helvetica,Arial,sans-serif; 
+  width:100%;
 }
