@@ -11,8 +11,11 @@
 				<li class="nav-item">
 					<a class="nav-link" href="index.php">Home</a>
 				</li>
-			 <li class="nav-item">
+				<li class="nav-item">
 					<a class="nav-link" href="about.php">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="http://eepurl.com/hldpzX">Subscribe</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="contact.php">Contact</a>
