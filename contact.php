@@ -102,7 +102,7 @@
   <script src="js/contact_me.js"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="js/clean-blog.min.js"></script>
+  <script src="js/clean-blog.js"></script>
 
 </body>
 
