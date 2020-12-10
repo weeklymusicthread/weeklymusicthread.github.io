@@ -15,10 +15,10 @@
 					<a class="nav-link" href="about.php">About</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="http://eepurl.com/hldpzX">Subscribe</a>
+					<a class="nav-link" href="contact.php">Contact</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="contact.php">Contact</a>
+					<a class="nav-link" href="http://eepurl.com/hldpzX">Subscribe</a>
 				</li>
 				<li class="nav-item">
 					<a style = "color:#1ED761" class="nav-link" target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>
