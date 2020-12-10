@@ -41,7 +41,9 @@ function displayPreviews() {
 		};
 
 		if (numDisplay < 4) {
-			$("#previewSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="index_test.php?num=All">Older Posts &rarr;</a></div>');
+			$("#previewSection").append('<br>');
+			$("#previewSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="index.php?num=All">Older Posts &rarr;</a></div>');
+			$("#previewSection").append('<br>');
 		}
 	});
 }
