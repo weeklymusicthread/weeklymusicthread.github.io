@@ -60,7 +60,7 @@
 
   <hr>
 
-  <?php include('php/navbar.php'); ?>
+  <?php include('php/footer.php'); ?>
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
