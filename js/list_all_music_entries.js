@@ -7,6 +7,7 @@ function displayAll() {
 	var postCounter = 1;
 	var i;
 	var resultsPage = Number(pageNum);
+	var prevPage = Number(pageNum)-1;
 	var pageSize = 10;
 	
 	
@@ -41,11 +42,13 @@ function displayAll() {
 		}
 
 		resultsPage = (+resultsPage+1)
-		console.log(resultsPage)
+		console.log(prevPage)
 		resultsPage = String(resultsPage)
+		prevPage = String(prevPage)
 
 		$("#postSection").append('<br>');
-		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div>');
+		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-left" href="music_entries.php?page='+resultsPage+'">Prev Page &rarr;</a></div>');
+		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+prevPage+'">Next Page &rarr;</a></div>');
 		$("#postSection").append('<br>');
 	
 	});
