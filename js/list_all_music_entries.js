@@ -18,9 +18,9 @@ function displayAll() {
 			var postId = 'post'+ postCounter;
 			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
 
-			if (entry.spotify_id != null)  {
+			if (postData[i].spotify_id != null)  {
 				console.log('contains spotify ID: '+postData[i].spotify_id);
-				if (entry.song != null) {
+				if (postData[i].song != null) {
 					$("#"+postId).append('<p><b> "'+postData[i].song+''+'" by '+ '<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a>'+' </b>' + '&nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+postData[i].post_page + ')</span></p>');
 					$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+postData[i].spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
 				} else {
