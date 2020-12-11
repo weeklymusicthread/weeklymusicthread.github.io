@@ -1,15 +1,16 @@
 function displayAll() {
 	const queryString = window.location.search;
 	const urlParams = new URLSearchParams(queryString)
-	const searchedArtist = urlParams.get('artist')
-	console.log(searchedArtist)
+	const pageNum = urlParams.get('page')
+	console.log(pageNum)
 
 	$("#postHeading").append('<h1>'+searchedArtist+'</h1>');
 
 	var postCounter = 1;
 	var i;
-	var resultsPage = 1;
+	var resultsPage = pageNum;
 	var pageSize = 10;
+	
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
@@ -41,8 +42,11 @@ function displayAll() {
 			postCounter++;
 		}
 
+		resultsPage = resultsPage+1
+		resultsPage = String(resultsPage)
+
 		$("#postSection").append('<br>');
-		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page=2">Next Page &rarr;</a></div>');
+		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div>');
 		$("#postSection").append('<br>');
 	
 	});
