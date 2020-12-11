@@ -430,6 +430,6 @@ footer .copyright {
 }
 
 #btn-Group{
-  display: inline-block
+  display: inline-block !important;
 }
 
