@@ -47,14 +47,14 @@ function displayAll() {
 		prevPage = String(prevPage)
 
 		$("#postSection").append('<br>');
+		$("#postSection").append('<div class="row" id="paginationRow">'); // open the paginationRow div
 		if (resultsPage > 2) {
-			$("#postSection").append('<div class="row">');
-			$("#postSection").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-left" href="music_entries.php?page='+prevPage+'">&larr; Prev Page</a></div></div>');
-			$("#postSection").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div></div>');
-			$("#postSection").append('</div>');
+			$("#paginationRow").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-left mr-2" href="music_entries.php?page='+prevPage+'">&larr; Prev Page</a></div></div>');
+			$("#paginationRow").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div></div>');
 		} else {
-			$("#postSection").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div></div>');
+			$("#paginationRow").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div></div>');
 		}
+		$("#postSection").append('</div>'); // close the paginationRow div
 
 		$("#postSection").append('<br>');
 	
