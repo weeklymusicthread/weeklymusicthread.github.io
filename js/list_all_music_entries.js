@@ -47,7 +47,9 @@ function displayAll() {
 		prevPage = String(prevPage)
 
 		$("#postSection").append('<br>');
-		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-left" href="music_entries.php?page='+resultsPage+'">Prev Page &rarr;</a></div>');
+		if (resultsPage > 2) {
+			$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-left" href="music_entries.php?page='+resultsPage+'">Prev Page &rarr;</a></div>');
+		}
 		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+prevPage+'">Next Page &rarr;</a></div>');
 		$("#postSection").append('<br>');
 	
