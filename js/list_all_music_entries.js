@@ -41,9 +41,9 @@ function displayAll() {
 			postCounter++;
 		}
 
-		$("#previewSection").append('<br>');
-		$("#previewSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page=2">Next Page &rarr;</a></div>');
-		$("#previewSection").append('<br>');
+		$("#postSection").append('<br>');
+		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page=2">Next Page &rarr;</a></div>');
+		$("#postSection").append('<br>');
 	
 	});
 }
