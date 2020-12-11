@@ -48,9 +48,9 @@ function displayAll() {
 
 		$("#postSection").append('<br>');
 		if (resultsPage > 2) {
-			$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-left" id="#btn-Group" href="music_entries.php?page='+prevPage+'">&larr; Prev Page</a></div>');
+			$("#postSection").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-left" href="music_entries.php?page='+prevPage+'">&larr; Prev Page</a></div></div>');
 		}
-		$("#postSection").append('<div class="clearfix"><a class="btn btn-primary float-right" id="#btn-Group" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div>');
+		$("#postSection").append('<div class="column"><div class="clearfix"><a class="btn btn-primary float-right" href="music_entries.php?page='+resultsPage+'">Next Page &rarr;</a></div></div>');
 		$("#postSection").append('<br>');
 	
 	});
