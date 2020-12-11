@@ -56,7 +56,7 @@ function displayAll() {
 		}
 		$("#postSection").append('</div>'); // close the paginationRow div
 
-		$("#postSection").append('<br>');
+		$("#postSection").append('<br><br><br>');
 	
 	});
 }
