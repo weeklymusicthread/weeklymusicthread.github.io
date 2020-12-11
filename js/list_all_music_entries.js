@@ -40,7 +40,8 @@ function displayAll() {
 			postCounter++;
 		}
 
-		resultsPage = resultsPage+1
+		resultsPage = (+resultsPage+1)
+		console.log(resultsPage)
 		resultsPage = String(resultsPage)
 
 		$("#postSection").append('<br>');
