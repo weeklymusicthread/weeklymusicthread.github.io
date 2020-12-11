@@ -91,7 +91,7 @@ img::-moz-selection {
 #mainNav {
   /*position: absolute;*/
   border-bottom: 1px solid #e9ecef;
-  background-color: #000000;
+  background-color: rgba(255,255,255,0.8);
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -118,7 +118,7 @@ img::-moz-selection {
 @media only screen and (min-width: 992px) {
   #mainNav {
     border-bottom: 1px solid transparent;
-    background: #000000;
+    background: rgba(0,0,0,0.6);
   }
   #mainNav .navbar-brand {
     padding: 10px 20px;
