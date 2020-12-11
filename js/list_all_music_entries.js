@@ -14,6 +14,7 @@ function displayAll() {
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 	
+		console.log(postData.length)
 
 		for (i = (resultsPage-1)*pageSize; i < (resultsPage*pageSize); i++) {
 
