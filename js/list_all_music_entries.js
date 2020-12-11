@@ -8,12 +8,14 @@ function displayAll() {
 
 	var postCounter = 1;
 	var i;
+	var resultsPage = 1;
+	var pageSize = 10;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 	
 
-		for (i = 0; i < 10; i++) {
+		for (i = (resultsPage-1)*pageSize; i < (resultsPage*pageSize); i++) {
 
 			var postId = 'post'+ postCounter;
 			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
@@ -38,6 +40,10 @@ function displayAll() {
 			
 			postCounter++;
 		}
+
+		$("#previewSection").append('<br>');
+		$("#previewSection").append(`<div class="clearfix"><a class="btn btn-primary float-right" href="index.php?page=${resultsPage+1}">Next Page &rarr;</a></div>`);
+		$("#previewSection").append('<br>');
 	
 	});
 }
