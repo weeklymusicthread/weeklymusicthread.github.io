@@ -4,8 +4,6 @@ function displayAll() {
 	const pageNum = urlParams.get('page')
 	console.log(pageNum)
 
-	$("#postHeading").append('<h1>'+searchedArtist+'</h1>');
-
 	var postCounter = 1;
 	var i;
 	var resultsPage = pageNum;
