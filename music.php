@@ -35,7 +35,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
+          <div class="page-heading">
             <h1>Just The Music</h1>
           </div>
         </div>
