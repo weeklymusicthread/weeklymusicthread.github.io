@@ -28,7 +28,7 @@ function displayAll() {
 
 				if (Array.isArray(postData[i].artist)) {
 					postData[i].artist.forEach (artEnt => {
-						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>, ');
+						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
 					});
 				} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
 
