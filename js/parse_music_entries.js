@@ -25,12 +25,12 @@ function displayPosts(postPage) {
 				if (entry.song != null) {
 					console.log('contains spotify ID: '+entry.spotify_id);
 					$("#"+postId).append('<p><b>"'+entry.song+'" by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+'</b></p>');
-					if (postData[i].spotify_id != null) {
+					if (entry.spotify_id != null) {
 						$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
 					}
 				}   else {
 						$("#"+postId).append('<p><b><i>'+entry.album+'</i> by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+'</b></p>');
-						if (postData[i].spotify_id != null) {
+						if (entry.spotify_id != null) {
 							$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/album/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
 						}
 					}
