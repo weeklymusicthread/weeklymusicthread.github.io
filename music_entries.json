@@ -453,7 +453,7 @@
         ]
     }, {
         "song": "Valentine",
-        "artist": "Lala Lala, Grapetooth",
+        "artist": ["Lala Lala", "Grapetooth"],
         "spotify_id": "6DzjAbFIAvE8kXoo64JzBK",
         "post_page": "2020-08-24",
         "description_lines": [
@@ -792,7 +792,7 @@
         ]
     }, {
         "song": "The Poet Acts",
-        "artist": "Philip Glass, Bruce Brubaker, and Max Cooper",
+        "artist": ["Philip Glass", "Bruce Brubaker", "Max Cooper"],
         "spotify_id": "0XiMoe7Dh3CcF5sYNWIwYR",
         "post_page": "2020-06-08",
         "description_lines": [
