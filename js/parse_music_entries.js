@@ -17,14 +17,20 @@ function displayPosts(postPage) {
 				
 				// we will use this to append the html to the right element, its how we 'group' the data
 				var postId = 'post'+postCounter; 
+				var artistId = 'artist' + postCounter;
 				
 				$("#postSection").append('<div class="post-container" id="'+postId+'"></div>'); // notice the element ID attr is set to the postId counter variable! that is how we can dynamically find the right div to append the song post data to!
 							
 				// what if we didn't supply a spotify embed link? no prob, only print this if we have one - you may want to employ this kind of simple 'if' logic for other fields
 				
 				if (entry.song != null) {
-					console.log('contains spotify ID: '+entry.spotify_id);
-					$("#"+postId).append('<p><b>"'+entry.song+'" by '+ '<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a>'+'</b></p>');
+					$("#"+postId).append('<p><b id ='+artistId+'> "'+postData[i].song+'" by ');
+					if (Array.isArray(postData[i].artist)) {
+						postData[i].artist.forEach (artEnt => {
+							$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
+						});
+					} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
+					
 					if (entry.spotify_id != null) {
 						$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+entry.spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
 					}
