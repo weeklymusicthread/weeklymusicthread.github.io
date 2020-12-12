@@ -24,7 +24,7 @@ function displayAll() {
 			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
 			console.log('contains spotify ID: '+postData[i].spotify_id);
 			if (postData[i].song != null) {
-				$("#"+postId).append('<p><b id = artistID> "'+postData[i].song+''+'" by ');
+				$("#"+postId).append('<p><b id ='+artistID+'> "'+postData[i].song+'" by ');
 
 				if (Array.isArray(postData[i].artist)) {
 					postData[i].artist.forEach (artEnt => {
