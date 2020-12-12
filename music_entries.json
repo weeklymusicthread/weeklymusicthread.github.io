@@ -71,7 +71,7 @@
         ]
     }, {
         "song": "Walking on a String (Alt. Version)",
-        "artist": "Matt Berninger, Phoebe Bridgers",
+        "artist": ["Matt Berninger", "Phoebe Bridgers"],
         "spotify_id": "4k4VlcZtwPBDj6wx5ewzog",
         "post_page": "2020-11-23",
         "description_lines": [
