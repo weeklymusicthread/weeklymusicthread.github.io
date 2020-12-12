@@ -15,9 +15,10 @@ function searchName() {
 		postData.forEach (entry => {
 
 			artistMatch = false;
+			console.log(Array.isArray(entry))
 
-			if (Array.isArray(entry)) {
-				entry.arist.forEach (artEnt => {
+			if (Array.isArray(entry.artist)) {
+				entry.artist.forEach (artEnt => {
 					if (artEnt === searchedArtist) {artistMatch = true}
 				});
 			} else if (entry.artist === searchedArtist) {artistMatch = true}
