@@ -7,12 +7,22 @@ function searchName() {
 	$("#postHeading").append('<h1>'+searchedArtist+'</h1>');
 
 	var postCounter = 1;
+	var artistMatch = false;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 	
 		postData.forEach (entry => {
-			if (entry.artist === searchedArtist) { 
+
+			artistMatch = false;
+
+			if (Array.isArray(entry)) {
+				entry.arist.forEach (artEnt => {
+					if (artEnt === searchedArtist) {artistMatch = true}
+				});
+			} else if (entry.artist === searchedArtist) {artistMatch = true}
+
+			if (artistMatch) { 
 				console.log("Matched on entry");
 				console.log(entry);
 			
