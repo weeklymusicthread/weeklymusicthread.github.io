@@ -32,7 +32,7 @@ function displayAll() {
 					});
 				} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
 
-				$("#"+artistId).append('</b> &nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+postData[i].post_page + ')</span></p>');
+				$("#"+artistId).append('</b> &nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+postData[i].post_page + ')</span></p></div/>');
 				
 				if (postData[i].spotify_id != null) {
 					$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+postData[i].spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
