@@ -12,7 +12,7 @@ function searchName() {
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 	
 		postData.forEach (entry => {
-			if (entry.artist === searchedArtist) { 
+			if (searchedArtist in entry.artist) { 
 				console.log("Matched on entry");
 				console.log(entry);
 			
