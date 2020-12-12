@@ -61,9 +61,9 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="js/clean-blog.js"></script>
+  <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
   
-  <script src="js/parse_search.js"></script>
+  <script src="js/parse_search.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
 	searchName();
