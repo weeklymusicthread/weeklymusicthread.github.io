@@ -19,20 +19,21 @@ function displayAll() {
 		for (i = (resultsPage-1)*pageSize; i < (resultsPage*pageSize); i++) {
 
 			var postId = 'post'+ postCounter;
-			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
+			var artistId = 'artist' + postCounter;
 
-			  
+			$("#postSection").append('<div class="post-container" id="'+postId+'"></div>');
 			console.log('contains spotify ID: '+postData[i].spotify_id);
 			if (postData[i].song != null) {
-				$("#"+postId).append('<p><b> "'+postData[i].song+''+'" by ');
+				$("#"+postId).append('<div id="'+artistId+'"><p><b> "'+postData[i].song+''+'" by ');
 
 				if (Array.isArray(postData[i].artist)) {
 					postData[i].artist.forEach (artEnt => {
-						$("#"+postId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>, ');
+						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>, ');
 					});
-				} else {$("#"+postId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a>, ');}
+				} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
 
-				$("#"+postId).append('</b> &nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+postData[i].post_page + ')</span></p>');
+				$("#"+artistId).append('</b> &nbsp; <span style = "color:rgb(180, 180, 180)">(posted on '+postData[i].post_page + ')</span></p>');
+				
 				if (postData[i].spotify_id != null) {
 					$("#"+postId).append('<div style="float: left; clear: left; padding-right: 2em;"><iframe src="https://open.spotify.com/embed/track/'+postData[i].spotify_id+'" width="300" height="380" scrolling="no" frameborder="0" float="right" allowtransparency="true" allow="encrypted-media"></iframe></div>');
 				}
