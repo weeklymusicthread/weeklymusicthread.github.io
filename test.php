@@ -18,11 +18,11 @@
         <span class="fas fa-search"></span>
       </div>
 <div class="search-data">
-        <input type="text" required name="artist" action="/search.php">
+        <input type="text" required >
         <div class="line">
 </div>
 <label>Type to search..</label>
-        <span class="fas fa-search"></span>
+        <span class="fas fa-search" name="artist" action="/search.php"></span>
         <input type="submit">
       </div>
 </div>
