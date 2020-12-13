@@ -73,9 +73,9 @@ input[type=submit] {
 <p>Start typing:</p>
 
 <!--Make sure the form has the autocomplete function switched off:-->
-<form autocomplete="off" action="/action_page.php">
+<form autocomplete="off" action="/search.php">
   <div class="autocomplete" style="width:300px;">
-    <input id="myInput" type="text" name="myCountry" placeholder="Country">
+    <input id="myInput" type="text" name="artist" placeholder="Search Artists">
   </div>
   <input type="submit">
 </form>
