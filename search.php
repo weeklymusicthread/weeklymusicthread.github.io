@@ -36,7 +36,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading" id = "postHeading">
+          <div class="page-heading" id = "postHeading">
           </div>
         </div>
       </div>
