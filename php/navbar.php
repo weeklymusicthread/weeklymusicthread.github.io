@@ -7,7 +7,7 @@
 			<i class="fas fa-bars"></i>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarResponsive">
-			<ul class="navbar-nav ml-auto">
+			<ul class="navbar-nav mr-auto">
 				<li class="nav-item">
 					<a class="nav-link" href="index.php">Home</a>
 				</li>
