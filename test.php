@@ -18,7 +18,7 @@
         <span class="fas fa-search"></span>
       </div>
 <div class="search-data">
-        <input type="text" required name="artist">
+        <input type="text" required name="artist" action="/search.php">
         <div class="line">
 </div>
 <label>Type to search..</label>
