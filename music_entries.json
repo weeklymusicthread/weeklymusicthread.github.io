@@ -23,7 +23,7 @@
         ]
     }, {
         "song": "Good Girls (Don't Get Used)",
-        "artist": ["Beach Bunny", "Phoebe Bridgers"],
+        "artist": "Beach Bunny",
         "spotify_id": "2yKNCN7jsi5XtwJL5jBG1z",
         "post_page": "2020-12-07",
         "description_lines": [
