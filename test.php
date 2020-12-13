@@ -18,11 +18,12 @@
         <span class="fas fa-search"></span>
       </div>
 <div class="search-data">
-        <input type="text" required>
+        <input type="text" required name="artist">
         <div class="line">
 </div>
 <label>Type to search..</label>
         <span class="fas fa-search"></span>
+        <input type="submit">
       </div>
 </div>
 <script>
