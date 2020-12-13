@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <!-- Somehow I got an error, so I comment the title, just uncomment to show -->
     <!-- <title>FullScreen Search Box | CodingNepal</title> -->
-    <link rel="stylesheet" href="css/clean-blog.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
   </head>
