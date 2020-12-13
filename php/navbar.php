@@ -6,8 +6,8 @@
 			Menu
 			<i class="fas fa-bars"></i>
 		</button>
-		<div class="collapse navbar-collapse w-150" id="navbarResponsive">
-			<ul class="navbar-nav w-150 justify-content-center">
+		<div class="collapse navbar-collapse w-50" id="navbarResponsive">
+			<ul class="navbar-nav w-50 justify-content-center">
 				<li class="nav-item">
 					<a class="nav-link" href="index.php">Home</a>
 				</li>
