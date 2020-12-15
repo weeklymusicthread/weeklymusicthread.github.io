@@ -9,6 +9,7 @@ function searchName() {
 	var postCounter = 1;
 	var artistMatch = false;
 	var pageTitle;
+	var firstMatch = true;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
@@ -32,6 +33,11 @@ function searchName() {
 				pageTitle = entry.artist;
 				artistMatch = true
 				
+			}
+
+			if (firstMatch) {
+				$("#postHeading").append('<h1>'+pageTitle+'</h1>');
+				firstMatch = false;
 			}
 
 			if (artistMatch) { 
@@ -74,5 +80,5 @@ function searchName() {
 	
 	});
 
-	$("#postHeading").append('<h1>'+pageTitle+'</h1>');
+	
 }
