@@ -6,10 +6,6 @@
 </head>     
 <body>
 
-<h2>Autocomplete</h2>
-
-<p>Start typing:</p>
-
 <!--Make sure the form has the autocomplete function switched off:-->
 <form autocomplete="off" action="/search.php">
   <div class="autocomplete" style="width:300px;">
