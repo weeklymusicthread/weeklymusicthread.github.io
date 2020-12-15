@@ -14,17 +14,16 @@ function autocomplete(inp, arr) {
 
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach(artEnt => {
-					searchTerms.push(artEnt);
+					if(!searchTerms.includes(artEnt)) {searchTerms.push(artEnt);}
 					console.log(artEnt);
 				}); 
 			} else {
-				searchTerms.push(entry.artist);
+				if(!searchTerms.includes(entry.artist)) {searchTerms.push(entry.artist);}
 				console.log(entry.artist);
 			}
 
 		});
 
-		searchTerms = [...new Set(searchTerms)];
 	});
 
   /*execute a function when someone writes in the text field:*/
