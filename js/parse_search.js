@@ -26,18 +26,23 @@ function searchName() {
 						pageTitle = artEnt;
 						artistMatch = true
 						
+						if (firstMatch) {
+							$("#postHeading").append('<h1>'+pageTitle+'</h1>');
+							firstMatch = false;
+						}
+						
 					}
 				});
 			} else if (entry.artist.toLowerCase() === searchedArtist.toLowerCase()) {
 				
 				pageTitle = entry.artist;
 				artistMatch = true
-				
-			}
 
-			if (firstMatch) {
-				$("#postHeading").append('<h1>'+pageTitle+'</h1>');
-				firstMatch = false;
+				if (firstMatch) {
+					$("#postHeading").append('<h1>'+pageTitle+'</h1>');
+					firstMatch = false;
+				}
+				
 			}
 
 			if (artistMatch) { 
