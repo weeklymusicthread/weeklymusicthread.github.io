@@ -1,6 +1,7 @@
 // search bar
 
-var searchTerms = ["Beach Bunny", "Kitten"];
+var searchTermsInit;
+var searchTerms
 
 function autocomplete(inp, arr) {
   /*the autocomplete function takes two arguments,
@@ -14,17 +15,17 @@ function autocomplete(inp, arr) {
 
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach(artEnt => {
-					searchTerms.push(artEnt);
+					searchTermsInit.push(artEnt);
 					console.log(artEnt);
 				}); 
 			} else {
-				searchTerms.push(entry.artist);
+				searchTermsInit.push(entry.artist);
 				console.log(entry.artist);
 			}
 
 		});
 
-		searchTerms = [...new Set(searchTerms)]
+		searchTerms = [...new Set(searchTermsInit)]
 	});
 
   /*execute a function when someone writes in the text field:*/
