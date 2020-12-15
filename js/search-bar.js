@@ -1,11 +1,24 @@
 // search bar
 
-var searchTerms;
-
 function autocomplete(inp, arr) {
   /*the autocomplete function takes two arguments,
   the text field element and an array of possible autocompleted values:*/
   var currentFocus;
+  var searchTerms;
+
+  /*load up the autocomplete suggestion array*/
+  $.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
+	
+		postData.forEach (entry => {
+			if (Array.isArray(entry.Artist)) {
+				entry.Artist.forEach(artEnt => {
+					searchTerms.push(artEnt)
+				}); 
+			} else (searchTerms.push(entry.Artist))
+
+		});
+	});
+
   /*execute a function when someone writes in the text field:*/
   inp.addEventListener("input", function(e) {
       var a, b, i, val = this.value;
@@ -104,17 +117,7 @@ function autocomplete(inp, arr) {
 
 
 
-$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
-	
-		postData.forEach (entry => {
-			if (Array.isArray(entry.Artist)) {
-				entry.Artist.forEach(artEnt => {
-					searchTerms.push(artEnt)
-				}); 
-			} else (searchTerms.push(entry.Artist))
 
-		});
-});
 
 
 /*initiate the autocomplete function on the "myInput" element, and pass along the search term array as possible autocomplete values:*/
