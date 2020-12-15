@@ -19,9 +19,9 @@ function searchName() {
 			// checks if artist is an Array and if it matches search term
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach (artEnt => {
-					if (artEnt === searchedArtist) {artistMatch = true}
+					if (artEnt.toLowerCase() === searchedArtist.toLowerCase()) {artistMatch = true}
 				});
-			} else if (entry.artist === searchedArtist) {artistMatch = true}
+			} else if (entry.artist.toLowerCase() === searchedArtist.toLowerCase()) {artistMatch = true}
 
 			if (artistMatch) { 
 				console.log("Matched on entry");
