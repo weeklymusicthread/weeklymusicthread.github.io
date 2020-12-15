@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <link href="css/search-bar.css?<?php echo time(); ?>" rel="stylesheet">
 </head>     
 <body>
