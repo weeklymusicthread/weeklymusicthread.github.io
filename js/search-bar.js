@@ -1,7 +1,7 @@
 // search bar
 
 var searchTermsInit = ["Beach Bunny"];
-var searchTerms
+var searchTerms = ["Beach Bunny"];
 
 function autocomplete(inp, arr) {
   /*the autocomplete function takes two arguments,
