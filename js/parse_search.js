@@ -34,8 +34,6 @@ function searchName() {
 				
 			}
 
-			$("#postHeading").append('<h1>'+pageTitle+'</h1>');
-
 			if (artistMatch) { 
 				console.log("Matched on entry");
 				console.log(entry);
@@ -75,4 +73,6 @@ function searchName() {
 		});
 	
 	});
+
+	$("#postHeading").append('<h1>'+pageTitle+'</h1>');
 }
