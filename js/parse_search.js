@@ -8,6 +8,7 @@ function searchName() {
 
 	var postCounter = 1;
 	var artistMatch = false;
+	var pageTitle;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
@@ -21,15 +22,19 @@ function searchName() {
 				entry.artist.forEach (artEnt => {
 					if (artEnt.toLowerCase() === searchedArtist.toLowerCase()) {
 						
+						pageTitle = artEnt;
 						artistMatch = true
-						$("#postHeading").append('<h1>'+artEnt+'</h1>');
+						
 					}
 				});
 			} else if (entry.artist.toLowerCase() === searchedArtist.toLowerCase()) {
 				
+				pageTitle = entry.artist;
 				artistMatch = true
-				$("#postHeading").append('<h1>'+entry.artist+'</h1>');
+				
 			}
+
+			$("#postHeading").append('<h1>'+pageTitle+'</h1>');
 
 			if (artistMatch) { 
 				console.log("Matched on entry");
