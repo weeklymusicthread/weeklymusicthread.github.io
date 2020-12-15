@@ -13,13 +13,13 @@ function autocomplete(inp, arr) {
 		postData.forEach (entry => {
 			if (Array.isArray(entry.Artist)) {
 				entry.Artist.forEach(artEnt => {
-					searchTerms.push(artEnt)
-					console.log(artEnt)
+					searchTerms.push(artEnt);
+					console.log(artEnt);
 				}); 
 			} else {
 				
-				searchTerms.push(entry.Artist)
-				console.log(entry.Artist)
+				searchTerms.push(entry.Artist);
+				console.log(entry.Artist);
 			}
 
 		});
