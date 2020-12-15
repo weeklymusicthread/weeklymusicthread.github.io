@@ -13,14 +13,17 @@ function autocomplete(inp, arr) {
 	console.log("JSON IS RUNNING")
 	
 		postData.forEach (entry => {
-			if (Array.isArray(entry.Artist)) {
-				entry.Artist.forEach(artEnt => {
+
+			console.log("first forEach is running");
+
+			if (Array.isArray(entry.artist)) {
+				entry.artist.forEach(artEnt => {
 					searchTerms.push(artEnt);
 					console.log(artEnt);
 				}); 
 			} else {
-				searchTerms.push(entry.Artist);
-				console.log(entry.Artist);
+				searchTerms.push(entry.artist);
+				console.log(entry.artist);
 			}
 
 		});
