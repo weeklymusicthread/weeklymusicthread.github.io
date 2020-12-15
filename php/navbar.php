@@ -28,7 +28,7 @@
 				</li>
 				<li class="nav-item">
 					<form autocomplete="off" action="/search.php">
-  						<div class="autocomplete" style="width:150px;">
+  						<div class="autocomplete" style="width:300px;">
 							<input id="myInput" type="text" name="artist" placeholder="Search Artists">
 						</div>
 						<input type="submit">
