@@ -884,7 +884,7 @@
         ]
     }, {
         "song": "stupid horse (Remix) [feat. GFOTY & Count Baldor]",
-        "artist": "100 gecs, GFOTY, Count Baldor",
+        "artist": ["100 gecs", "GFOTY", "Count Baldor"],
         "spotify_id": "0aV4YQ18bZ9qt0PDUZIDSz",
         "post_page": "2020-05-26",
         "description_lines": [

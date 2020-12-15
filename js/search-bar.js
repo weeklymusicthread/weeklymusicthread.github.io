@@ -10,11 +10,7 @@ function autocomplete(inp, arr) {
   /*load up the autocomplete suggestion array*/
   $.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
 
-	console.log("JSON IS RUNNING")
-	
 		postData.forEach (entry => {
-
-			console.log("first forEach is running");
 
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach(artEnt => {
@@ -27,6 +23,8 @@ function autocomplete(inp, arr) {
 			}
 
 		});
+
+		searchTerms = [...new Set(searchTerms)]
 	});
 
   /*execute a function when someone writes in the text field:*/
