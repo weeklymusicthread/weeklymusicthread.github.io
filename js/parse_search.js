@@ -4,7 +4,7 @@ function searchName() {
 	const searchedArtist = urlParams.get('artist')
 	console.log(searchedArtist)
 
-	$("#postHeading").append('<h1>'+searchedArtist+'</h1>');
+	/* $("#postHeading").append('<h1>'+searchedArtist+'</h1>'); */
 
 	var postCounter = 1;
 	var artistMatch = false;
@@ -19,9 +19,17 @@ function searchName() {
 			// checks if artist is an Array and if it matches search term
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach (artEnt => {
-					if (artEnt.toLowerCase() === searchedArtist.toLowerCase()) {artistMatch = true}
+					if (artEnt.toLowerCase() === searchedArtist.toLowerCase()) {
+						
+						artistMatch = true
+						$("#postHeading").append('<h1>'+artEnt+'</h1>');
+					}
 				});
-			} else if (entry.artist.toLowerCase() === searchedArtist.toLowerCase()) {artistMatch = true}
+			} else if (entry.artist.toLowerCase() === searchedArtist.toLowerCase()) {
+				
+				artistMatch = true
+				$("#postHeading").append('<h1>'+entry.artist+'</h1>');
+			}
 
 			if (artistMatch) { 
 				console.log("Matched on entry");
