@@ -27,9 +27,18 @@
 					<a style = "color:#1ED761" class="nav-link" target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>
 				</li>
 				<li class="nav-item">
+					<form autocomplete="off" action="/search.php">
+  						<div class="autocomplete" style="width:300px;">
+							<input id="myInput" type="text" name="artist" placeholder="Search Artists">
+						</div>
+						<input type="submit">
+					</form>
+				</li>
+
+				<!-- <li class="nav-item">
 					<script async src="https://cse.google.com/cse.js?cx=a70366dae94dfe622"></script>
 					<div class="gcse-searchbox-only" data-resultsUrl="results.php"></div>
-				</li>
+				</li> -->
 			</ul>
 		</div>
 	</div>
