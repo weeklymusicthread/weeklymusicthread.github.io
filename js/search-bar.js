@@ -25,7 +25,7 @@ function autocomplete(inp, arr) {
 
 		});
 
-		searchTerms = [...new Set(searchTermsInit)]
+		searchTerms = [...new Set(searchTermsInit)];
 	});
 
   /*execute a function when someone writes in the text field:*/
