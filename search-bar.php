@@ -15,7 +15,7 @@
   <input type="submit">
 </form>
 
-
+<script src="vendor/jquery/jquery.min.js"></script>
 <script src="js/search-bar.js?uid=<?php echo uniqid(); ?>"></script>
 
 </body>
