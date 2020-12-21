@@ -82,14 +82,14 @@ function searchName() {
 				postCounter++;
 			}
 		});
+
+		if (firstMatch) {
+
+			console.log("THIS NEW THING FIRED")
+			$("#postHeading").append('<h1>'+pageTitle+'</h1>');
+		
+		}
 	
 	});
-
-	if (firstMatch) {
-
-		console.log("THIS NEW THING FIRED")
-		$("#postHeading").append('<h1>'+pageTitle+'</h1>');
-	
-	}
 
 }

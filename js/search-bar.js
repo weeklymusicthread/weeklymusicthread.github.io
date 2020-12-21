@@ -15,11 +15,9 @@ function autocomplete(inp, arr) {
 			if (Array.isArray(entry.artist)) {
 				entry.artist.forEach(artEnt => {
 					if(!searchTerms.includes(artEnt)) {searchTerms.push(artEnt);}
-					console.log(artEnt);
 				}); 
 			} else {
 				if(!searchTerms.includes(entry.artist)) {searchTerms.push(entry.artist);}
-				console.log(entry.artist);
 			}
 
 		});
