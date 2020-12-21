@@ -74,3 +74,5 @@
 		</div>
 	</div>
 </footer>
+
+<script src="js/search-bar.js?uid=<?php echo uniqid(); ?>"></script>
