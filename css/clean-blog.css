@@ -395,14 +395,14 @@ footer .copyright {
 }
 
 .btn-primary {
-  background-color: rgb(142, 47, 231);
-  border-color: rgb(142, 47, 231);
+  background-color: #8e2fe7;
+  border-color: #8e2fe7;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: rgb(142, 47, 231) !important;
-  border-color: rgb(142, 47, 231) !important;
+  background-color: #7417CC !important;
+  border-color: #7417CC !important;
 }
 
 .btn-lg {
