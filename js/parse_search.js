@@ -8,7 +8,7 @@ function searchName() {
 
 	var postCounter = 1;
 	var artistMatch = false;
-	var pageTitle = "No Result Found for " + searchedArtist;
+	var pageTitle;
 	var firstMatch = true;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
