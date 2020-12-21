@@ -32,7 +32,7 @@
 							<div class="autocomplete">
 								<input id="myInput" type="text" name="artist" placeholder="Search Artists">
 							</div>
-							<button class="btn btn-primary" type="submit" value="" style="padding: 6px 14px;"><i class="fas fa-search"></i></input>
+							<button class="btn btn-primary" type="submit" value="" style="padding: 8.7px 16px;"><i class="fas fa-search"></i></input>
 						</div>
 					</form>
 				</li>
