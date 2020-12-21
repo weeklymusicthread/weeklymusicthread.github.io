@@ -421,12 +421,17 @@ footer .copyright {
 #mc_embed_signup {
   background:#fff;
   clear:left; 
-  font:14px Helvetica,Arial,sans-serif; 
+  /*font:14px Helvetica,Arial,sans-serif;*/
   width:100%;
 }
 
 #mc_embed_signup input.button{
-  background-color: rgb(142, 47, 231) !important;
+	border-radius:0;
+  background-color: #8e2fe7 !important;
+}
+
+#mc_embed_signup input.button:hover{
+  background-color: #7417CC !important;
 }
 
 #btn-Group{
