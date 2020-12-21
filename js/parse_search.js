@@ -85,5 +85,6 @@ function searchName() {
 	
 	});
 
-	
+	if (firstMatch) {$("#postHeading").append('<h1>'+pageTitle+'</h1>');}
+
 }
