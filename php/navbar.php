@@ -29,10 +29,10 @@
 				<li class="nav-item">
 					<form class="form-inline" autocomplete="off" action="/search.php">
 						<div class="form-group">
-  					<div class="autocomplete">
-							<input id="myInput" type="text" name="artist" placeholder="Search Artists">
-						</div>
-						<button class="btn btn-primary" type="submit" value="" style="padding: 6px 14px;"><i class="fas fa-search"></i></input>
+							<div class="autocomplete">
+								<input id="myInput" type="text" name="artist" placeholder="Search Artists">
+							</div>
+							<button class="btn btn-primary" type="submit" value="" style="padding: 6px 14px;"><i class="fas fa-search"></i></input>
 						</div>
 					</form>
 				</li>

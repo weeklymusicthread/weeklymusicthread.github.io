@@ -22,6 +22,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/clean-blog.css?<?php echo time(); ?>" rel="stylesheet">
+	<link href="css/search-bar.css?<?php echo time(); ?>" rel="stylesheet">
 
 </head>
 
