@@ -31,6 +31,8 @@ function displayAll() {
 					postData[i].artist.forEach (artEnt => {
 						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
 						console.log(postData[i].artist.length);
+						if (p != postData[i].artist.length) {$("#"+artistId).append(", ");}
+						p = p+1;
 					});
 				} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
 
