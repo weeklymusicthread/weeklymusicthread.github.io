@@ -6,6 +6,7 @@ function displayAll() {
 
 	var postCounter = 1;
 	var i;
+	var p = 1;
 	var resultsPage = Number(pageNum);
 	var prevPage = Number(pageNum)-1;
 	var pageSize = 10;
@@ -29,6 +30,7 @@ function displayAll() {
 				if (Array.isArray(postData[i].artist)) {
 					postData[i].artist.forEach (artEnt => {
 						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
+						console.log(postData[i].artist.length);
 					});
 				} else {$("#"+artistId).append('<a href="search.html?artist='+postData[i].artist+'">"'+postData[i].artist+'"</a> ');}
 
