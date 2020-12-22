@@ -4,6 +4,7 @@
 function displayPosts(postPage) {
 	
 	var postCounter = 1;
+	var p = 1;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
@@ -23,8 +24,11 @@ function displayPosts(postPage) {
 				if (entry.song != null) {
 					$("#"+postId).append('<p><b id ='+artistId+'> "'+entry.song+'" by ');
 					if (Array.isArray(entry.artist)) {
+						p = 1;
 						entry.artist.forEach (artEnt => {
 							$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
+							if (p != entry.artist.length) {$("#"+artistId).append(", ");}
+							p = p+1;
 						});
 					} else {$("#"+artistId).append('<a href="search.html?artist='+entry.artist+'">"'+entry.artist+'"</a> ');}
 					

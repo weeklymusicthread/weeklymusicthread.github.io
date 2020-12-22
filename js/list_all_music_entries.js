@@ -28,6 +28,7 @@ function displayAll() {
 				$("#"+postId).append('<p><b id ='+artistId+'> "'+postData[i].song+'" by ');
 
 				if (Array.isArray(postData[i].artist)) {
+					p = 1;
 					postData[i].artist.forEach (artEnt => {
 						$("#"+artistId).append('<a href="search.html?artist='+artEnt+'">"'+artEnt+'"</a>');
 						console.log(postData[i].artist.length);
