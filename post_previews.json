@@ -1,14 +1,21 @@
 [   
     {
-    "post_page": "2020-12-07",
-    "post_date" : "December 7, 2020",
-    "post_title": "Hindsight 2020",
-    "post_author": "DJ Linkin' Project",
-    "post_subtitle": [
-        "Well, friends and faithful readers, it's all coming to an end."
-    ]
-    },
-	{
+        "post_page": "2020-12-14",
+        "post_date" : "December 14, 2020",
+        "post_title": "Bubble Boy Band",
+        "post_author": "DJ Liv \"Like That\" Tyler",
+        "post_subtitle": [
+            "As we're sure you're all aware, the year is winding to a close. And, as such, we decided it would be a good idea to get our affairs in order."
+        ]
+    },{
+        "post_page": "2020-12-07",
+        "post_date" : "December 7, 2020",
+        "post_title": "Hindsight 2020",
+        "post_author": "DJ Linkin' Project",
+        "post_subtitle": [
+            "Well, friends and faithful readers, it's all coming to an end."
+        ]
+    },{
         "post_page": "2020-11-30",
         "post_date" : "November 30, 2020",
         "post_title": "Rage Against The Machine Gun Kelly",
@@ -16,8 +23,7 @@
         "post_subtitle": [
             "We apologize for the delay in bringing you the WMT this week. Yes, we still made it in on a Monday, but it's a little bit later than usual, isn't it? Well, as it turns out, it'll have to do, because we had to see a man about a machine gun."
         ]
-    },
-    {
+    },{
         "post_page": "2020-11-23",
         "post_date" : "November 23, 2020",
         "post_title": "Delusions of Grammy",
@@ -25,8 +31,7 @@
         "post_subtitle": [
             "And now, for the latest installment in The Adventures of Johnny Drumsticks!"
         ]
-    },
-    {
+    },{
         "post_page": "2020-11-16",
         "post_date" : "November 16, 2020",
         "post_title": "RMR for President",
@@ -34,8 +39,7 @@
         "post_subtitle": [
             "Now, about those calls for unity..."
         ]
-    },
-    {
+    },{
         "post_page": "2020-11-09",
         "post_date" : "November 9, 2020",
         "post_title": "Electile Dysfunction",
