@@ -55,7 +55,7 @@
           
           <p>And now for this year. 2020. Obligatory comment about our lives, coronavirus, we're all in this together. Well, not Obama, because if you thought you were going to get comfort and consistency from him, you were sadly mistaken. Without major theater releases to lean on, our reviewer had to come up with some other way to make a perfectly neutered, sexless list of pop culture recommendations. And so how did he do it? Apparently, by scrolling multiple times through some alphabetized list of the movies that were released in 2020. The list starts off with <i>Ma Rainey's Black Bottom</i>--perhaps the obvious choice either due to lead Chadwick Boseman's death and/or the fact that it came out on November 25th, and was therefore probably fresh in the reviewer's mind. But seriously, after that, it really does just look like he scrolled through the alphabet a few times:</p>
 
-          <div style = "padding-left: 5em">
+          <div style = "padding-left: 4em">
             <p><i>- Beanpole<br>- Bacurau<br>- Nomadland<br>- Soul<br>- Small Axe: Lover's rock</i></p>
 
             <p>("Oh shit, I'm already through "S" and I only have five movies...better go back to the beginning")</p>
