@@ -6,7 +6,7 @@ function displayAll() {
 
 	var postCounter = 1;
 	var i;
-	var p = 1;
+	var p;
 	var resultsPage = Number(pageNum);
 	var prevPage = Number(pageNum)-1;
 	var pageSize = 10;
