@@ -1,5 +1,64 @@
-[
-    {
+[   {
+        "song": "Goldbrick Champion",
+        "artist": ["Broke Royals", "Bartees Strange"],
+        "spotify_id": "0QxlJ2GXHjwio8BXwEC5XT",
+        "post_page": "2020-12-21",
+        "description_lines": [
+            "Barty Bizarre has been all over the WMT this year, and for good reason. Singles like \"Mustang\" and \"Boomer\"--and really all of 2020's Live Forever--caught our attention from first listen. And now, Barty Boi is back with a collab with Broke Royals.",
+            "This track hasn't got the rough hewn feel of Strange's other work. Crafted as it was in collaboration with the pop-rock Broke Royals, this one bounces along on a basic pop synth melodies, a chewy bass line, and tachycardic organic/electronic drum beat that sounds like the sort of song that the children of the members of The Cure might may make. It's reminiscent of Antarctigo Vespucci, not necessarily in sound, but in the pleasure one takes as a listener in a succinct, self-contained, well-crafted song about a normal person who is just slightly down on their luck. And the two refrains (\"I'm a goldbrick champiooooon\" and \"One thing at a time/I can only handle one thing at a time\") are positively infectious, from a sing-along perspective.",
+            "H/t Tolstoy on that opening line."
+        ]
+    },{
+        "song": "This Time It's Different",
+        "artist": "Heart Bones",
+        "spotify_id": "0cb5dTDqODwX5meHDXRKby",
+        "post_page": "2020-12-21",
+        "description_lines": [
+            "Heart Bones have appeared here before with \"Open Relationship,\" a fun, catchy, male/female duet about a guy whose girlfriend wants to see other girls. \"This Time It's Different\" has very much the same vibe. Although it's not a pure duet in the way that \"Open Relationship\" is, there are largely two distinct vocal parts here, which weave in and out of one another. Those parts unfold above a space-agey synth track with plenty of corny-sounding special effects.",
+            "As far as how the song sounds, think Heart Bones (duh) meet Culture Club. Specifically, think <a href=\"https://www.youtube.com/watch?v=rGigefpcOG4\">\"Karma Chameleon,\"</a> because the melody of this song is almost exactly the same as that one."
+        ]
+    },{
+        "song": "Fyll upp mitt glas nu",
+        "artist": "Tove Styrke",
+        "spotify_id": "3hS7w6gBYzVdpaZnN7Mpfl",
+        "post_page": "2020-12-14",
+        "description_lines": [
+            "Last week, we reminded you of Tove Styrke's Sway (2018) en route to a review of new release \"Bara du och jag.\" Now, Styrke is back a week later with another new release, only where \"Bara du och jag\" was a punchdrunk pop banger, \"Fyll upp mitt glas nu\" is a slower, moodier rumination on something in...presumably Swedish? This one hasn't even got the lone line in English to point us in the right direction, and we're increasingly suspicious that both tracks are actually covers.",
+            "One of the interesting things about \"Fyll upp mitt glas nu\" is the way that the icy, glassy, crystal-clear guitar parts from the intro eventually gain distortion later on in the song and through what we can only assume is some e-bow magic eventually wind up sounding less like guitars and more like tortured Nordic violins. (Do the Nords play violin?) Styrke's voice takes on the same distance and distortion, and there are flickers of electronica in the final verse/chorus/outro sequence. This is a cool one when you're in your feelings."
+        ]
+    },{
+        "song": "Daddy Don't Take My Phone Away",
+        "artist": "Kitten",
+        "spotify_id": "5PGKSxKgtx73izIPJhqMzQ",
+        "post_page": "2020-12-14",
+        "description_lines": [
+            "Speaking of hints of electronica (among other things), Kitten have been one of the most interesting acts of 2020. From the bouncy indie banger \"Memphis\" (technically 2019) to the excellent acoustic follow-up take on that same track to the slightly demented \"My House\" to \"What Year Are We In,\" this group's sound is evolving faster than a water-soaked mogwai with the post-midnight munchies. And it's not just that their sound is changing quickly; the rate of change itself is increasing.",
+            "This trend intensifies with \"Daddy Don't Take My Phone Away.\" At first, you'll hear that difference. Even the vocal effects on the intro announce it, and the first verse has a cynicism to it which is miles ahead of \"Memphis.\" The repetition of a seemingly ridiculous and adolescent phrase in \"Daddy don't take my phone away\" is a reminder of the more recent efforts (\"My House\" and \"What Year Are We In\"), but then the entire thing collapses into a 100 gecs-wave inorganic musical pandemonium. After that we back to the original verse arrangement, followed by finger picked acoustic guitars and, of course, a key change. If 100 gecs were once described as an \"anarchic assault on the ears,\" then Kitten are very much experimenting in that vein.",
+            "All this makes us wonder if the AOL dial tone buried under the chorus of \"Memphis\" was Kitten's equivalent of the guitar scratches in the prelude to Radiohead's \"Creep\": a seemingly subtle detail which, in retrospect, heralded an entirely new and unsuspected direction for a group that was ultimately destined to make some really interesting music."
+        ]
+    },{
+        "song": "I Feel Alive",
+        "artist": "TOPS",
+        "spotify_id": "5BL5JIhruwOhrRZd3Djoqs",
+        "post_page": "2020-12-14",
+        "description_lines": [
+            "TOPS are one of those groups who are always recommended to us, but we've never really listened to them. This song has an old school <i>charm</i> to it, though. It captures the same faux nostalgia for things that may never have existed as elements of, say, Wild Nothing (with less synth), Ariel Pink, and especially <i>Moon Tides</i> (2013)-era Pure Bathing Culture. There's maybe a pinch of Love You Later in here as well.",
+            "It's the lazy, breezy strumming of the guitar over the insistent eighth-note patterns on a mixed-down drum set, combined with those long, held on \"youuuuuuuus\" from the chorus. It's a track that feels almost like it'd be at home in a modern take on <i>Grease</i> or <i>Fast Times at Ridgemont High</i>. If the rest of TOPS' discography is anything like this one, you can bet we'll be taking a closer look."
+        ]
+    },{
+        "song": null,
+        "artist": "Bob Dylan",
+        "album": "Rough and Rowdy Ways",
+        "spotify_id": "1Qht64MPvWTWa0aMsqxegB",
+        "post_page": "2020-12-14",
+        "description_lines": [
+            "Rough and Rowdy Ways is Dylan's first original output in years, and man, is it worth the wait. Early Dylan is, of course, canon, as is much of his middle output, but it's no secret that his later years have been a little bit more hit-or-miss. Not so here, however. Rough and Rowdy Ways is a simply outstanding record from the first to the last and we can't stop listening to it.",
+            "The record opens with \"I Contain Multitudes.\" This track grabbed us from the get-go on first listen, but the more we listen to the record, the more that this one comes off as the sleeper. That's not really to put down the song, it's just to say it almost feels like a Tom Waits ballad (again, not an insult--nothing short, really, of a high compliment). It exhibits a Dylan staple in its religious repetition of a single, somewhat clunky formula ([descriptions of Dylan], \"I contain multitudes\"), but it opens the album nicely.",
+            "After \"ICM,\" things really start to pick up. What follows next is the six-minute long \"False Prophet,\" which trundles along upon a sneering, ramshackle blues shuffle that feels about as broken in as Dylan's voice at this point. If pick-up truck commercials were Quentin Tarantino films, this song would be the soundtrack. The third track, \"My Own Version of You,\" is more of the same, and the fourth \"I've Made Up My Mind to Give Myself to You,\" combines the full band arrangement with the ballad format of the album's opener. We get another bangin' shuffle in \"Goodbye Jimmy Reed,\" another ballad in \"Mother of Muses,\" and a few more solid tracks to round out what is, really, an all-around excellent piece of Americana.",
+            "Even if none of that were true, however, the album would be an instant artistic classic on the basis of its sole B-side alone, a nearly 17-minute long track called \"Murder Most Foul.\" Not since the Misfits' \"Bullet\" has someone made such profound art out of the Kennedy assassination. (As an aside, while writing this, we pulled up \"Bullet\" on YouTube for a little easy listening, and got a kick out of the following comment: 'Is this song meant to disrespect jfk?') There really is no reason that this song should work. It should come off as corny, or hagiography, or just forced--only, it doesn't. Maybe it's the absolutely lovely instrumentation that runs underneath it--the long, held notes on the strings and horns are appropriately funereal--maybe it's Dylan's beat poetry, or maybe it's the fact that it's an overlong closer, but this track is absolutely transfixing. It's the kind of closing statement many artists try to make at the end of an album. Few succeed. This is \"Last Call.\" It's \"Jungleland.\" It's \"Kids on the Run.\" It's \"Motion Picture Soundtrack.\" It's the kind of closer that you listen through an entire album to hear, because it's more powerful that way than it is on its own. It's the kind of track you listen to up late at night, by yourself, when you're not doing anything else at all. It feels like a statement about everything Dylan has been about, and it really, really lands.",
+            "Spoiler alert: this record made our Top 10 of 2020 on first listen. It's that obviously outstanding."
+        ]
+    },{
         "song": "Remember",
         "artist": "Jodi",
         "spotify_id": "5oDRMJMrMhEuFq37stGFkW",
