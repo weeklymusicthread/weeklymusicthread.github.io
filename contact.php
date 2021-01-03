@@ -39,7 +39,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <p>Fill out the form below to send us a message, and we will get back to you as soon as possible. Or we won't</p>
+        <p>Are you Jodie Foster in a 1997 Robert Zemeckis sci fi drama about SETI scientists and extraterrestrial life right now? Because you can use the form below to contact us</p>
         <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
         <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
         <!-- To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
