@@ -128,9 +128,10 @@
                     10. Darkness by <a href="search.html?artist=Katie Dey">Katie Dey</a></p>
 
               </div>
-              <hr>
-              <br>
+              
           </div>
+          <hr>
+          <br>
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
@@ -174,10 +175,11 @@
                     9. Darkness by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
                     10. Sweet by <a href="search.html?artist=Porridge Radio">Porridge Radio</a></p>
 
-              </div>
-            <hr>
-            <br>
+              </div> 
           </div> 
+
+          <hr>
+          <br>
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
@@ -228,8 +230,6 @@
             <hr>
             <br>
           </div> 
-
-
 
        </div>
       </div>
