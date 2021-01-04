@@ -302,16 +302,16 @@
 
               <div class="column">
             
-                 <p>1. Maid of the Mist by <a href="search.html?artist=Diet Cig">Diet Cig</a><br>
-                    2. Prom Queen by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
-                    3. Nightcall by <a href="search.html?artist=Kavinsky">Kavinsky</a><br>
-                    4. Yesterday by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
-                    5. Memphis by <a href="search.html?artist=Kitten">Kitten</a><br>
-                    6. Lust for Life by <a href="search.html?artist=Girls">Girls</a><br>
-                    7. Everybody Wants to Rule the World by <a href="search.html?artist=Tears for Fears">Tears for Fears</a><br>
-                    8. One Headlight by <a href="search.html?artist=The Wallflowers">The Wallflowers</a><br>
-                    9. Off the Record by <a href="search.html?artist=My Morning Jacket">My Morning Jacket</a><br>
-                    10. Stay by <a href="search.html?artist=Nekrogoblikon">Pronoun</a><br>
+                 <p>1. "Maid of the Mist" by <a href="search.html?artist=Diet Cig">Diet Cig</a><br>
+                    2. "Prom Queen" by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
+                    3. "Nightcall" by <a href="search.html?artist=Kavinsky">Kavinsky</a><br>
+                    4. "Yesterday" by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
+                    5. "Memphis" by <a href="search.html?artist=Kitten">Kitten</a><br>
+                    6. "Lust for Life" by <a href="search.html?artist=Girls">Girls</a><br>
+                    7. "Everybody Wants to Rule the World" by <a href="search.html?artist=Tears for Fears">Tears for Fears</a><br>
+                    8. "One Headlight" by <a href="search.html?artist=The Wallflowers">The Wallflowers</a><br>
+                    9. "Off the Record" by <a href="search.html?artist=My Morning Jacket">My Morning Jacket</a><br>
+                    10. "Stay" by <a href="search.html?artist=Nekrogoblikon">Pronoun</a><br>
 
                 </p>
 
@@ -338,16 +338,16 @@
             <div class="row">
               <div class="column">
               
-                 <p>1. Punisher by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
-                    2. Honeymoon by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
-                    3. Drug Dealing is a Lost Art by <a href="search.html?artist=RMR">RMR</a><br>
-                    4. In Sickness & in Flames by <a href="search.html?artist=The Front Bottoms">The Front Bottoms</a><br>
-                    5. Visions of Bodies Being Burned by <a href="search.html?artist=Clipping.">Clipping.</a><br>
-                    6. What's Your Pleasure? by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
-                    7. Heaven to a Tortured Mind by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
-                    8. Set My Heart on Fire Immediately by <a href="search.html?artist=Perfume Genius">Perfume Genius</a><br>
-                    9. Color Theory by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
-                    10. RTJ4 by <a href="search.html?artist=Run the Jewels">Run the Jewels</a><br>
+                 <p>1. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+                    2. <i>Honeymoon</i> by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
+                    3. <i>Drug Dealing is a Lost Art</i> by <a href="search.html?artist=RMR">RMR</a><br>
+                    4. <i>In Sickness & in Flames</i> by <a href="search.html?artist=The Front Bottoms">The Front Bottoms</a><br>
+                    5. <i>Visions of Bodies Being Burned</i> by <a href="search.html?artist=Clipping.">Clipping.</a><br>
+                    6. <i>What's Your Pleasure?</i> by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    7. <i>Heaven to a Tortured Mind</i> by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    8. <i>Set My Heart on Fire Immediately</i> by <a href="search.html?artist=Perfume Genius">Perfume Genius</a><br>
+                    9. <i>Color Theory</i> by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
+                    10. <i>RTJ4</i> by <a href="search.html?artist=Run the Jewels">Run the Jewels</a><br>
 
                 </p>       
 
