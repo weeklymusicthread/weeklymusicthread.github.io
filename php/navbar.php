@@ -28,7 +28,7 @@
 				</li>
 				<li class="nav-item">
 					<form class="form-inline" autocomplete="off" action="/search.php">
-						<div class="form-group">
+						<div class="form-group" style="font: 16px Arial">
 							<div class="autocomplete">
 								<input id="myInput" type="text" name="artist" placeholder="Search Artists">
 							</div>
