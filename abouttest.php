@@ -47,7 +47,7 @@
                <img src="img/aboutustitle.png">
               </div>
               <div class="column">
-                <img src="img/aboutustitle.png">
+                <img src="img/aboutuspic.png">
               </div>
             </div>
       </div>
