@@ -124,16 +124,16 @@
 
               <div class="column">
             
-                 <p>1. Murder Most Foul by <a href="search.html?artist=Bob Dylan">Bob Dylan</a><br>
-                    2. (Un)knowing by <a href="search.html?artist=Young Jesus">Young Jesus</a><br>
-                    3. RASCAL by <a href="search.html?artist=RMR">RMR</a><br>
-                    4. Pink Pony Club by <a href="search.html?artist=Chappell Roan">Chappell Roan</a><br>
-                    5. Lonely After by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
-                    5. Cool for a Second by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
-                    5. Southwark by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
-                    8. Ms. California by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
-                    9. Camouflage by <a href="search.html?artist=the Front Bottoms">the Front Bottoms</a><br>
-                    10. Darkness by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
+                 <p>1. "Murder Most Foul" by <a href="search.html?artist=Bob Dylan">Bob Dylan</a><br>
+                    2. "(Un)knowing" by <a href="search.html?artist=Young Jesus">Young Jesus</a><br>
+                    3. "RASCAL" by <a href="search.html?artist=RMR">RMR</a><br>
+                    4. "Pink Pony Club" by <a href="search.html?artist=Chappell Roan">Chappell Roan</a><br>
+                    5. "Lonely After" by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
+                    5. "Cool for a Second" by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
+                    5. "Southwark" by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
+                    8. "Ms. California" by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
+                    9. "Camouflage" by <a href="search.html?artist=the Front Bottoms">the Front Bottoms</a><br>
+                    10. "Darkness" by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
                   </p>
 
               </div>
@@ -172,16 +172,16 @@
 
               <div class="column">
             
-                 <p>1. Remember Where You Are by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
-                    2. Pink Pony Club by <a href="search.html?artist=Chappell Roan">Chappell Roan</a><br>
-                    3. Romanticist by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
-                    4. The End Is Near by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
-                    5. Rascal by <a href="search.html?artist=RMR">RMR</a><br>
-                    6. My Name is Dark by <a href="search.html?artist=Grimes">Grimes</a><br>
-                    7. If You're Too Shy (Let Me Know) by <a href="search.html?artist=The 1975">The 1975</a><br>
-                    8. The Difference by <a href="search.html?artist=Toro y Moi">Toro y Moi, </a><a href="search.html?artist=Flume">Flume</a><br>
-                    9. Darkness by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
-                    10. Sweet by <a href="search.html?artist=Porridge Radio">Porridge Radio</a><br>
+                 <p>1. "Remember Where You Are" by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    2. "Pink Pony Club" by <a href="search.html?artist=Chappell Roan">Chappell Roan</a><br>
+                    3. "Romanticist" by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    4. "The End Is Near" by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+                    5. "My Name is Dark" by <a href="search.html?artist=Grimes">Grimes</a><br>
+                    6. "If You're Too Shy (Let Me Know) by <a href="search.html?artist=The 1975">The 1975</a><br>
+                    7. "The Difference" by <a href="search.html?artist=Toro y Moi">Toro y Moi, </a><a href="search.html?artist=Flume">Flume</a><br>
+                    8. "Darkness" by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
+                    9. "Sweet" by <a href="search.html?artist=Porridge Radio">Porridge Radio</a><br>
+                    10. "Sarita Colonia" by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
                   </p>
 
               </div> 
@@ -223,16 +223,16 @@
 
               <div class="column">
             
-                 <p>1. Sarita Colonia by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
-                    2. Guilty Conscience by <a href="search.html?artist=070 Shake">070 Shake</a><br>
-                    3. Gospel For A New Century by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
-                    4. Baby by <a href="search.html?artist=Four Tet">Four Tet</a><br>
-                    5. Remember Where You Are by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
-                    6. XS by <a href="search.html?artist=Rina Sawayama">Rina Sawayama</a><br>
-                    7. Home by <a href="search.html?artist=Caribou">Caribou</a><br>
-                    8. For You by <a href="search.html?artist=India Jordan">India Jordan<br>
-                    9. circle the drain by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
-                    10. Blinding Lights by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
+                 <p>1. "Sarita Colonia" by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
+                    2. "Guilty Conscience" by <a href="search.html?artist=070 Shake">070 Shake</a><br>
+                    3. "Gospel For A New Century" by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    4. "Baby" by <a href="search.html?artist=Four Tet">Four Tet</a><br>
+                    5. "Remember Where You Are" by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    6. "XS" by <a href="search.html?artist=Rina Sawayama">Rina Sawayama</a><br>
+                    7. "Home" by <a href="search.html?artist=Caribou">Caribou</a><br>
+                    8. "For You" by <a href="search.html?artist=India Jordan">India Jordan<br>
+                    9. "circle the drain" by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
+                    10. "Blinding Lights" by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
 
               </div>
           </div> 
@@ -261,16 +261,16 @@
 
               <div class="column">
             
-                 <p>1. Protect the Land by <a href="search.html?artist=System of a Down">System of a Down</a><br>
-                    2. New Colossal Hate by <a href="search.html?artist=Lamb of God">Lamb of God</a><br>
-                    3. Everythings Right by <a href="search.html?artist=Phish">Phish</a><br>
-                    4. Jessie's Girl 2 by <a href="search.html?artist=Coheed and Cambria">Coheed and Cambria</a><br>
-                    5. Apocalyptical by <a href="search.html?artist=Puscifer">Puscifer</a><br>
-                    6. Fallen Torches by <a href="search.html?artist=Mastodon">Mastodon</a><br>
-                    7. Coming of Age by <a href="search.html?artist=Blondes">Blondes</a><br>
-                    8. Ach So Gern by <a href="search.html?artist=Lindemann">Lindemann<br>
-                    9. Patience by <a href="search.html?artist=Chris Cornell">Chris Cornell</a><br>
-                    10. Chop Suey by <a href="search.html?artist=Nekrogoblikon">Nekrogoblikon</a><br>
+                 <p>1. "Protect the Land" by <a href="search.html?artist=System of a Down">System of a Down</a><br>
+                    2. "New Colossal Hate" by <a href="search.html?artist=Lamb of God">Lamb of God</a><br>
+                    3. "Everythings Right" by <a href="search.html?artist=Phish">Phish</a><br>
+                    4. "Jessie's Girl 2" by <a href="search.html?artist=Coheed and Cambria">Coheed and Cambria</a><br>
+                    5. "Apocalyptical" by <a href="search.html?artist=Puscifer">Puscifer</a><br>
+                    6. "Fallen Torches" by <a href="search.html?artist=Mastodon">Mastodon</a><br>
+                    7. "Coming of Age" by <a href="search.html?artist=Blondes">Blondes</a><br>
+                    8. "Ach So Gern" by <a href="search.html?artist=Lindemann">Lindemann<br>
+                    9. "Patience" by <a href="search.html?artist=Chris Cornell">Chris Cornell</a><br>
+                    10. "Chop Suey" by <a href="search.html?artist=Nekrogoblikon">Nekrogoblikon</a><br>
 
                 </p>
 
