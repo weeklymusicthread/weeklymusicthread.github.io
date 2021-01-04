@@ -44,26 +44,13 @@
         <p>We take New Year's Resolutions seriously. (The key is to make them 1) measurable and 2) achievable.) This year, one of our New Year's Resolutions is to get back on our music grind. (Our other NYR in 2020 is to moisturize daily.) We plan to do this by listening to at least one new song every day. In parallel, we're going to pilot a weekly e-mail on our thoughts as they relate to the new music we're finding. We don't plan to comment on every single thing we listen to--only the things that we think deserve comment. Some of these e-mails will likely be longer than others. We'll see how this goes.</p>
         <div class="row">
               <div class="column">
-                <p>Well she said it's cold outside and she hands me my raincoat 
-                <br>She's always worried 'bout things like that
-                <br>Well, she said it's all gonna end and it might as well be my fault
-                <br>And she only sleeps when it's rainin'
-                <br>And she screams
-                <br>And her voice is strainin'
-                <br>She says 'baby, it's 3 AM; I must be lonely'
-                <br>When she says 'baby,' I can't help but be scared of it all sometimes
-                <br>And the rain's gonna wash away, I believe it </p>
+               <img src="img/mrclean.png">
               </div>
               <div class="column">
-                <p>She puts it up his nose and tells him order more bottles 
-                <br>He's never worried 'bout things like that
-                <br>She knows his credit card PIN but that's really his fault
-                <br>And she'll only dance when it's rainin'
-                <br>And he'll scream
-                <br>And she'll hear his voice
-                <br>And he says 'baby, it's 3 AM and I'm fuckin' horny'
-                <br>And he say's 'baby, I got a thousand dollars, all straight cash
-                <br>I've made it rain, now when are we leavin'</p>
+                <img src="img/mrclean.png">
+              </div>
+              <div class="column">
+                <img src="img/mrclean.png">
               </div>
             </div>
       </div>
