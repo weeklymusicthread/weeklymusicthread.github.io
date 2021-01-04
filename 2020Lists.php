@@ -36,7 +36,12 @@
 
       #DJRow {
         margin-bottom:0px !important;
-        font-size:155%;
+        font-size:150%;
+      }
+
+      #DJRow2 {
+        margin-top:0px !important;
+        font-size:150%;
       }
 
     </style>
@@ -69,7 +74,7 @@
 
           <div class="row justify-content-center">
             <p id="DJRow"><b>DJ Bestivus: Best of Lists for the Rest of Us</b></p>
-            <p style="font-size:150%"><b>(aka The WMT Editors)</b></p>
+            <p id="DJRow2"><b>(aka The WMT Editors)</b></p>
           </div>
           <div class="row justify-content-center">
                 <div class="column text-center">
