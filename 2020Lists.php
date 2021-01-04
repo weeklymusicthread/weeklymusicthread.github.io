@@ -230,7 +230,7 @@
                     5. "Remember Where You Are" by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
                     6. "XS" by <a href="search.html?artist=Rina Sawayama">Rina Sawayama</a><br>
                     7. "Home" by <a href="search.html?artist=Caribou">Caribou</a><br>
-                    8. "For You" by <a href="search.html?artist=India Jordan">India Jordan<br>
+                    8. "For You" by <a href="search.html?artist=India Jordan">India Jordan</a><br>
                     9. "circle the drain" by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
                     10. "Blinding Lights" by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
 
@@ -268,7 +268,7 @@
                     5. "Apocalyptical" by <a href="search.html?artist=Puscifer">Puscifer</a><br>
                     6. "Fallen Torches" by <a href="search.html?artist=Mastodon">Mastodon</a><br>
                     7. "Coming of Age" by <a href="search.html?artist=Blondes">Blondes</a><br>
-                    8. "Ach So Gern" by <a href="search.html?artist=Lindemann">Lindemann<br>
+                    8. "Ach So Gern" by <a href="search.html?artist=Lindemann">Lindemann</a><br>
                     9. "Patience" by <a href="search.html?artist=Chris Cornell">Chris Cornell</a><br>
                     10. "Chop Suey" by <a href="search.html?artist=Nekrogoblikon">Nekrogoblikon</a><br>
 
