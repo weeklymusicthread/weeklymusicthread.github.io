@@ -9,7 +9,7 @@ function displayPreviews() {
 	console.log(allTrigger)
 
 	var postCounter = 1;
-	var numDisplay = 3;
+	var numDisplay = 5;
 	var i;
 
 
