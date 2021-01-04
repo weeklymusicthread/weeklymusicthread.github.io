@@ -20,12 +20,12 @@
 
   <?php include('php/navbar.php'); ?>
 
-  <!-- Page Header -->
-  <header class="masthead">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+ 
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>We take New Year's Resolutions seriously. (The key is to make them 1) measurable and 2) achievable.) This year, one of our New Year's Resolutions is to get back on our music grind. (Our other NYR in 2020 is to moisturize daily.) We plan to do this by listening to at least one new song every day. In parallel, we're going to pilot a weekly e-mail on our thoughts as they relate to the new music we're finding. We don't plan to comment on every single thing we listen to--only the things that we think deserve comment. Some of these e-mails will likely be longer than others. We'll see how this goes.</p>
         <div class="row">
               <div class="column">
                 <p>Well she said it's cold outside and she hands me my raincoat 
@@ -50,16 +50,6 @@
                 <br>I've made it rain, now when are we leavin'</p>
               </div>
             </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <!-- Main Content -->
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <p>We take New Year's Resolutions seriously. (The key is to make them 1) measurable and 2) achievable.) This year, one of our New Year's Resolutions is to get back on our music grind. (Our other NYR in 2020 is to moisturize daily.) We plan to do this by listening to at least one new song every day. In parallel, we're going to pilot a weekly e-mail on our thoughts as they relate to the new music we're finding. We don't plan to comment on every single thing we listen to--only the things that we think deserve comment. Some of these e-mails will likely be longer than others. We'll see how this goes.</p>
       </div>
     </div>
   </div>
