@@ -71,15 +71,16 @@
   <!-- Post Content -->
   <article>
     <div class="container">
-        <div class="row">
+      <div class="row">
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
-
-          <div class="row text-center">
-            <p id="djRow">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
-            <p id="djRow2">(aka The WMT Editors)</p>
-            <p> test </p>
-            <p> test </p>
-            <p> test </p>
+          <div class="row justify-content-center">
+            <div class ="column">
+              <p id="djRow">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
+              <p id="djRow2">(aka The WMT Editors)</p>
+              <p> test </p>
+              <p> test </p>
+              <p> test </p>
+            </div>
           </div>
           <div class="row justify-content-center">
                 <div class="column text-center">
