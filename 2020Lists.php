@@ -73,7 +73,7 @@
     <div class="container">
       <div class="row">
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
-          <div class="row">
+          <div class="row justify-content-center">
             <div class="column">
               <p id="djRow">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
               <p id="djRow2">(aka The WMT Editors)</p>
