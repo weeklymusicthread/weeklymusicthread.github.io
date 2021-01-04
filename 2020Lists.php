@@ -17,7 +17,7 @@
   <style>     
       /* Set additional styling options for the columns*/
       .column {
-      float: none;
+      float: left;
       width: 50%;
       font-size:medium;
       
