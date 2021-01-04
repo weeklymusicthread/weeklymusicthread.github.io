@@ -76,9 +76,9 @@
   <article>
     <div class="container">
       <div class="row">
-       <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+       <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
           <div class="row justify-content-center">
-            <div class="col-lg-11 col-md-11 mx-auto">
+            <div class="col-lg-8 col-md-8 mx-auto">
               <p id="doublename1">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
               <p id="doublename2">(aka The WMT Editors)</p>
             </div>
