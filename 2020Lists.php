@@ -34,6 +34,10 @@
         font-size:125%;
       }
 
+      #DJRow {
+        margin-bottom:0px !importnat;
+      }
+
     </style>
 
 </head>
@@ -63,7 +67,7 @@
        <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
-            <p style="font-size:150%"><b>DJ Bestivus: Best of Lists for the Rest of Us<br>(aka The WMT Editors)</b></p>
+            <p id="DJRow"><b>DJ Bestivus: Best of Lists for the Rest of Us</b></p>
             <p style="font-size:150%"><b>(aka The WMT Editors)</b></p>
           </div>
           <div class="row justify-content-center">
