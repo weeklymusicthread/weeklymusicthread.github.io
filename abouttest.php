@@ -16,21 +16,8 @@
 
   <style>     
       /* Set additional styling options for the columns*/
-      .column {
-      float: left;
-      width: 50%;
-      font-size:medium;
-      font-style: italic;
-      }
-  
-      .row:after {
-      content: "";
-      display: table;
-      clear: both;
-      }
-
+     
       img {
-       display: block;
        max-width: 100%;
        height: auto;
       }
