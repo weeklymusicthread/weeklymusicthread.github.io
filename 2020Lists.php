@@ -59,7 +59,7 @@
   <article>
     <div class="container">
 
-      <div class="row" id="centerTitle">
+      <div class="row justify-content-center">
         <p><b>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</b></p>
       </div>
       <div class="row">
