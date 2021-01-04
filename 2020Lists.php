@@ -38,12 +38,14 @@
      
         font-size:150%;
         font-weight: bold;
+        text-align: center !important;
       }
 
       #djRow2 {
        
         font-size:150%;
         font-weight: bold;
+        text-align: center !important;
       }
 
     </style>
