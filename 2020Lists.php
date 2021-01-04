@@ -35,7 +35,8 @@
       }
 
       #DJRow {
-        margin-bottom:0px !importnat;
+        margin-bottom:0px !important;
+        font-size:155%;
       }
 
     </style>
