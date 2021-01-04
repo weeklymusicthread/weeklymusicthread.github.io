@@ -35,13 +35,13 @@
       }
 
       #djRow {
-        margin-bottom:1px !important;
+     
         font-size:150%;
         font-weight: bold;
       }
 
       #djRow2 {
-        margin-top:1px !important;
+       
         font-size:150%;
         font-weight: bold;
       }
