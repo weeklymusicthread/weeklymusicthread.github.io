@@ -34,18 +34,20 @@
         font-size:125%;
       }
 
-      #djRow {
+      #doublename1 {
      
         font-size:150%;
         font-weight: bold;
         text-align: center !important;
+        margin-bottom: 10px !important;
       }
 
-      #djRow2 {
+      #doublename2 {
        
         font-size:150%;
         font-weight: bold;
         text-align: center !important;
+        margin-top: 10px !important;
       }
 
     </style>
@@ -77,11 +79,8 @@
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
           <div class="row justify-content-center">
             <div class="col-lg-11 col-md-11 mx-auto">
-              <p id="djRow">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
-              <p id="djRow2">(aka The WMT Editors)</p>
-              <p> test </p>
-              <p> test </p>
-              <p> test </p>
+              <p id="doublename1">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
+              <p id="doublename2">(aka The WMT Editors)</p>
             </div>
           </div>
           
