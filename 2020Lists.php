@@ -49,7 +49,7 @@
         font-weight: bold;
         text-align: center !important;
         margin-top: 10px !important;
-        margin-bottom: 10px !important;
+        margin-bottom: 20px !important;
       }
 
       #djname {
@@ -57,7 +57,7 @@
        font-size:150%;
        font-weight: bold;
        text-align: center !important;
-       margin-bottom: 10px !important;
+       margin-bottom: 20px !important;
      }
 
     </style>
