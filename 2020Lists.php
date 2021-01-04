@@ -30,7 +30,7 @@
       }
 
       #centerTitle {
-        text-align:center;
+        text-align:center !important;
       }
 
     </style>
