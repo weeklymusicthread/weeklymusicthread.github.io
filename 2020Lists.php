@@ -53,7 +53,8 @@
   <!-- Post Content -->
   <article>
     <div class="container">
-      <div class="row">
+      <div class="row text-center">
+       <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
 
           <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
