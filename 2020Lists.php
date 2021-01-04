@@ -29,6 +29,10 @@
       clear: both;
       }
 
+      #centerTitle {
+        text-align:center !important;
+      }
+
     </style>
 
 </head>
@@ -54,8 +58,11 @@
   <!-- Post Content -->
   <article>
     <div class="container">
+
+      <div class="row" id="centerTitle">
+        <p><b>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</b></p>
+      </div>
       <div class="row">
-       <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
 
           <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
