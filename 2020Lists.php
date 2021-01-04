@@ -131,7 +131,6 @@
               
           </div>
           <hr>
-          <br>
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
@@ -179,7 +178,6 @@
           </div> 
 
           <hr>
-          <br>
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
@@ -227,8 +225,105 @@
                     10. Blinding Lights by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
 
               </div>
-            <hr>
-            <br>
+          </div> 
+
+          <hr>
+
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-10 mx-auto">
+              <p id="djname">DJ Baby Bok Choy<br></p>
+            </div>
+          </div>
+          
+          <div class="row justify-content-center">
+                <div class="column text-center">
+                  <p id="titleRow"><u>Albums</u></p>
+                </div>
+                <div class="column text-center">
+                  <p id="titleRow"><u>Songs</u></p>
+                </div>
+          </div>
+
+          <div class="row">
+              <div class="column">
+        
+                 <p>1. <i>Miss Anthropocene</i> by <a href="search.html?artist=Grimes">Grimes</a><br>
+                    2. <i>Heaven to a Tortured Mind</i> by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    3. <i>What's Your Pleasure?</i> by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br> 
+                    4. <i>Shall We Go On Sinning So That Grace May Increase?</i> by <a href="search.html?artist=The Soft Pink Truth">The Soft Pink Truth</a><br>
+                    5. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+                    6. <i>Women in Music Pt. III</i> by <a href="search.html?artist=Haim">Haim</a><br>
+                    7. <i>Fetch the Bolt Cutters</i> by <a href="search.html?artist=Fiona Apple">Fiona Apple</a><br>
+                    8. <i>Inner Song</i> by <a href="search.html?artist=Kelly Lee Owens">Kelly Lee Owens</a><br>  
+                    9. <i>Healing Is A Miracle</i> by <a href="search.html?artist=Julianna Barwick">Julianna Barwick</a><br>
+                    10. <i>All The Time</i> by <a href="search.html?artist=Jessy Lanza">Jessy Lanza</a><br>  
+                    <b>Honorable EP Mention: <i>ALIAS</i> by <a href="search.html?artist=Shy Girl">Shy Girl</a><br>  
+                  </p>
+              </div>
+
+              <div class="column">
+            
+                 <p>1. Sarita Colonia by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
+                    2. Guilty Conscience by <a href="search.html?artist=070 Shake">070 Shake</a><br>
+                    3. Gospel For A New Century by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    4. Baby by <a href="search.html?artist=Four Tet">Four Tet</a><br>
+                    5. Remember Where You Are by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    6. XS by <a href="search.html?artist=Rina Sawayama">Rina Sawayama</a><br>
+                    7. Home by <a href="search.html?artist=Caribou">Caribou</a><br>
+                    8. For You by <a href="search.html?artist=India Jordan">India Jordan<br>
+                    9. circle the drain by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
+                    10. Blinding Lights by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
+
+              </div>
+          </div> 
+          <hr>
+
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-10 mx-auto">
+              <p id="djname">DJ Metal Year Solid<br></p>
+            </div>
+          </div>
+          
+          <div class="row justify-content-center">
+                <div class="column text-center">
+                  <p id="titleRow"><u>Albums</u></p>
+                </div>
+                <div class="column text-center">
+                  <p id="titleRow"><u>Songs</u></p>
+                </div>
+          </div>
+
+          <div class="row">
+              <div class="column">
+        
+                 <p>1. <i>Miss Anthropocene</i> by <a href="search.html?artist=Grimes">Grimes</a><br>
+                    2. <i>Heaven to a Tortured Mind</i> by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    3. <i>What's Your Pleasure?</i> by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br> 
+                    4. <i>Shall We Go On Sinning So That Grace May Increase?</i> by <a href="search.html?artist=The Soft Pink Truth">The Soft Pink Truth</a><br>
+                    5. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+                    6. <i>Women in Music Pt. III</i> by <a href="search.html?artist=Haim">Haim</a><br>
+                    7. <i>Fetch the Bolt Cutters</i> by <a href="search.html?artist=Fiona Apple">Fiona Apple</a><br>
+                    8. <i>Inner Song</i> by <a href="search.html?artist=Kelly Lee Owens">Kelly Lee Owens</a><br>  
+                    9. <i>Healing Is A Miracle</i> by <a href="search.html?artist=Julianna Barwick">Julianna Barwick</a><br>
+                    10. <i>All The Time</i> by <a href="search.html?artist=Jessy Lanza">Jessy Lanza</a><br>  
+                    <b>Honorable EP Mention: <i>ALIAS</i> by <a href="search.html?artist=Shy Girl">Shy Girl</a><br>  
+                  </p>
+              </div>
+
+              <div class="column">
+            
+                 <p>1. Sarita Colonia by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
+                    2. Guilty Conscience by <a href="search.html?artist=070 Shake">070 Shake</a><br>
+                    3. Gospel For A New Century by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    4. Baby by <a href="search.html?artist=Four Tet">Four Tet</a><br>
+                    5. Remember Where You Are by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    6. XS by <a href="search.html?artist=Rina Sawayama">Rina Sawayama</a><br>
+                    7. Home by <a href="search.html?artist=Caribou">Caribou</a><br>
+                    8. For You by <a href="search.html?artist=India Jordan">India Jordan<br>
+                    9. circle the drain by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
+                    10. Blinding Lights by <a href="search.html?artist=The Weeknd">The Weeknd</a></p>
+
+              </div>
           </div> 
 
        </div>
