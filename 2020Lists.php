@@ -31,6 +31,7 @@
 
       #titleRow {
         margin-bottom: 0px !important;
+        margin-top: 10px !important;
         font-size:125%;
       }
 
@@ -126,6 +127,7 @@
                     10. Darkness by <a href="search.html?artist=Katie Dey">Katie Dey</a></p>
 
               </div>
+              <br>
           </div>
 
           <div class="row justify-content-center">
