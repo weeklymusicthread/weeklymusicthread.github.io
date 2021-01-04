@@ -35,12 +35,12 @@
       }
 
       #DJRow {
-        margin-bottom:0px !important;
+        margin-bottom:1px !important;
         font-size:150%;
       }
 
       #DJRow2 {
-        margin-top:0px !important;
+        margin-top:1px !important;
         font-size:150%;
       }
 
