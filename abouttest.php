@@ -45,7 +45,7 @@
           <img src="img/aboutuspic.PNG">
         </div>
 
-        <p style="font-size:125%">After a year of weekly email exchanges about little more than music, the creators of the Weekly Music Thread launch an underwhelming website that at its best reads suspiciously like an estranged family member’s Facebook feed: boring posts about things that they like, combined with a troubling failure to supplement their music reviews with the appropriate social and political commentary. </p>
+        <p style="font-size:133%">After a year of weekly email exchanges about little more than music, the creators of the Weekly Music Thread launch an underwhelming website that at its best reads suspiciously like an estranged family member’s Facebook feed: boring posts about things that they like, combined with a troubling failure to supplement their music reviews with the appropriate social and political commentary. </p>
 
         <p>Threads, like the conversations they carry, say something about people. (In fact, this has been true since before Al Gore invented the worthwhile but at this point somewhat overhyped internet—although many listeners may not realize it, the word “threads” also use to mean “clothes,” probably due to their usage in the make-up of those visual style signifiers.) But threads are also wavy, wiggly little thingies, like strings, and just as one carefully woven thread can make up a beautiful tapestry or cloth face mask, so too can an errant one unravel your alternative winter cardigan into a tangled and knotted mess.</p>
         
