@@ -41,15 +41,14 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-11 col-md-11 mx-auto">
-        <p>We take New Year's Resolutions seriously. (The key is to make them 1) measurable and 2) achievable.) This year, one of our New Year's Resolutions is to get back on our music grind. (Our other NYR in 2020 is to moisturize daily.) We plan to do this by listening to at least one new song every day. In parallel, we're going to pilot a weekly e-mail on our thoughts as they relate to the new music we're finding. We don't plan to comment on every single thing we listen to--only the things that we think deserve comment. Some of these e-mails will likely be longer than others. We'll see how this goes.</p>
-        <div class="row">
-              <div class="column">
-               <img src="img/aboutustitle.PNG">
-              </div>
-              <div class="column">
-                <img src="img/aboutuspic.PNG">
-              </div>
-            </div>
+        <br>
+        <br>
+        <br>
+            
+        <img src="img/aboutustitle.PNG">
+              
+        <img src="img/aboutuspic.PNG">
+              
       </div>
     </div>
   </div>
