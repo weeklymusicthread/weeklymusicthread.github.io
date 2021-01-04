@@ -67,10 +67,10 @@
 
           <div class="row justify-content-center">
             <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
-                <div class="column">
+                <div class="column justify-content-center">
                   <p><u>Albums</u></p>
                 </div>
-                <div class="column">
+                <div class="column text-center">
                   <p><u>Songs</u></p>
                 </div>
           </div>
