@@ -46,8 +46,7 @@
         <br>
 
         <div class="text-center">   
-          <img src="img/aboutustitle2.PNG">
-              
+          <img src="img/aboutustitle2.png">  
           <img src="img/aboutuspic.PNG">
         </div>
               
