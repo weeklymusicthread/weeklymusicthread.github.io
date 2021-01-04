@@ -17,10 +17,10 @@
   <style>     
       /* Set additional styling options for the columns*/
       .column {
-      float: left;
+      float: none;
       width: 50%;
       font-size:medium;
-      font-style: italic;
+      
       }
   
       .row:after {
@@ -54,7 +54,7 @@
   <article>
     <div class="container">
       <div class="row">
-       <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+       <div class="col-lg-11 col-md-11 mx-auto text-center" id="postSection">
 
           <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
 
