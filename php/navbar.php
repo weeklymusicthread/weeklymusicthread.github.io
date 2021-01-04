@@ -26,9 +26,9 @@
 				<li class="nav-item">
 					<a class="nav-link" href="http://eepurl.com/hldpzX">Subscribe</a>
 				</li>
-				<li class="nav-item">
+				<!-- <li class="nav-item">
 					<a style = "color:#1ED761" class="nav-link" target="_blank" href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">Spotify</a>
-				</li>
+				</li> -->
 				<li class="nav-item">
 					<form class="form-inline" autocomplete="off" action="/search.php">
 						<div class="form-group" style="font: 16px Arial">
