@@ -44,10 +44,12 @@
         <br>
         <br>
         <br>
-            
-        <img src="img/aboutustitle.PNG">
+
+        <div class="text-center">   
+          <img src="img/aboutustitle.PNG">
               
-        <img src="img/aboutuspic.PNG">
+          <img src="img/aboutuspic.PNG">
+        </div>
               
       </div>
     </div>
