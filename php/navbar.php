@@ -15,6 +15,9 @@
 					<a class="nav-link" href="music.php?page=1">Music</a>
 				</li>
 				<li class="nav-item">
+					<a class="nav-link" href="2020Lists.php?page=1">2020 Lists</a>
+				</li>
+				<li class="nav-item">
 					<a class="nav-link" href="about.php">About</a>
 				</li>
 				<li class="nav-item">
