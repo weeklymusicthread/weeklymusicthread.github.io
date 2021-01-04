@@ -28,6 +28,12 @@
       display: table;
       clear: both;
       }
+
+      img {
+       display: block;
+       max-width: 100%;
+       height: auto;
+      }
   </style>
 
 </head>
@@ -41,6 +47,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-11 col-md-11 mx-auto">
+        <br>
+        <br>
         <br>
         <br>
         <br>
