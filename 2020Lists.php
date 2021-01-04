@@ -153,7 +153,7 @@
                     2. <i>What's Your Pleasure?</i> by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
                     3. <i>Miss Anthropocene</i> by <a href="search.html?artist=Grimes">Grimes</a><br>
                     4. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
-                    5. <i>We Will Always Love You</i> by <a href="search.html?artist=The Avalanches">The Avalanches</a>
+                    5. <i>We Will Always Love You</i> by <a href="search.html?artist=The Avalanches">The Avalanches</a><br>
                     6. <i>Heaven to a Tortured Mind</i> by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
                     7. <i>Notes on a Conditional Form</i> by <a href="search.html?artist=The 1975">The 1975</a><br>
                     8. <i>Honeymoon</i> by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>             
