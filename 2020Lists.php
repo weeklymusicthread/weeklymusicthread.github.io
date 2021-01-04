@@ -70,7 +70,7 @@
   <article>
     <div class="container">
         <div class="row">
-       <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
+       <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
             <p id="DJRow"><b>DJ Bestivus: Best of Lists for the Rest of Us</b></p>
