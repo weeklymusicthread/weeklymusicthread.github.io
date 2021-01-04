@@ -31,7 +31,7 @@
 
       #titleRow {
         margin-bottom: 0px !important;
-        margin-top: 10px !important;
+        margin-top: 0px !important;
         font-size:125%;
       }
 
@@ -49,6 +49,7 @@
         font-weight: bold;
         text-align: center !important;
         margin-top: 10px !important;
+        margin-bottom: 10px !important;
       }
 
       #djname {
@@ -56,7 +57,7 @@
        font-size:150%;
        font-weight: bold;
        text-align: center !important;
-       margin-top: 10px !important;
+       margin-bottom: 10px !important;
      }
 
     </style>
