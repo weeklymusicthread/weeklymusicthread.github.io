@@ -29,8 +29,8 @@
       clear: both;
       }
 
-      #centerTitle {
-        text-align:center !important;
+      #titleRow {
+        margin-bottom: 0px !important;
       }
 
     </style>
@@ -58,20 +58,16 @@
   <!-- Post Content -->
   <article>
     <div class="container">
-
-      <div class="row justify-content-center">
-        <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
-      </div>
-      <div class="row">
+        <div class="row">
        <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
             <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
                 <div class="column text-center">
-                  <p><u>Albums</u></p>
+                  <p id="titleRow"><u>Albums</u></p>
                 </div>
                 <div class="column text-center">
-                  <p><u>Songs</u></p>
+                  <p id="titleRow"><u>Songs</u></p>
                 </div>
           </div>
 
