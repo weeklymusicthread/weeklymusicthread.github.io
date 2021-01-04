@@ -52,6 +52,13 @@
         margin-bottom: 20px !important;
       }
 
+      #noteline {
+
+        font-size:75%;
+        text-align: center !important;
+
+      }
+
       #djname {
        
        font-size:150%;
@@ -275,7 +282,7 @@
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
               <p id="djname">DJ No Cap(italization)<br></p>
-              <p> Note: This is a list of favorites songs <i>discovered</i> in 2020</p>
+              <p id="noteline"> Note: This is a list of favorites songs <i>discovered</i> in 2020</p>
             </div>
           </div>
           
@@ -302,7 +309,7 @@
                     5. Memphis by <a href="search.html?artist=Kitten">Kitten</a><br>
                     6. Lust for Life by <a href="search.html?artist=Girls">Girls</a><br>
                     7. Everybody Wants to Rule the World by <a href="search.html?artist=Tears for Fears">Tears for Fears</a><br>
-                    8. One Headlight by <a href="search.html?artist=The Wallflowers">The Wallflowers<br>
+                    8. One Headlight by <a href="search.html?artist=The Wallflowers">The Wallflowers</a><br>
                     9. Off the Record by <a href="search.html?artist=My Morning Jacket">My Morning Jacket</a><br>
                     10. Stay by <a href="search.html?artist=Nekrogoblikon">Pronoun</a><br>
 
@@ -311,7 +318,46 @@
               </div>
            </div> 
 
+          <hr>
 
+          <div class="row justify-content-center">
+            <div class="col-lg-10 col-md-10 mx-auto">
+              <p id="djname">DJ Supplemental Jurisdiction<br></p>
+            </div>
+          </div>
+          
+          <div class="row justify-content-center">
+                <div class="column text-center">
+                  <p id="titleRow"><u>Albums</u></p>
+                </div>
+                <div class="column text-center">
+                  <p id="titleRow"><u>Songs</u></p>
+                </div>
+          </div>
+
+            <div class="row">
+              <div class="column">
+              
+                 <p>1. Punisher by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+                    2. Honeymoon by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
+                    3. Drug Dealing is a Lost Art by <a href="search.html?artist=RMR">RMR</a><br>
+                    4. In Sickness & in Flames by <a href="search.html?artist=The Front Bottoms">The Front Bottoms</a><br>
+                    5. Visions of Bodies Being Burned by <a href="search.html?artist=Clipping.">Clipping.</a><br>
+                    6. What's Your Pleasure? by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+                    7. Heaven to a Tortured Mind by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+                    8. Set My Heart on Fire Immediately by <a href="search.html?artist=Perfume Genius">Perfume Genius</a><br>
+                    9. Color Theory by <a href="search.html?artist=Soccer Mommy">Soccer Mommy</a><br>
+                    10. RTJ4 by <a href="search.html?artist=Run the Jewels">Run the Jewels</a><br>
+
+                </p>       
+
+              </div>
+
+              <div class="column">
+
+
+              </div>
+           </div> 
 
        </div>
       </div>
