@@ -63,8 +63,7 @@
        <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
-            <p style="font-size:150%;margin-bottom: 0px"><b>DJ Bestivus: Best of Lists for the Rest of Us</b></p>
-            <p style="font-size:150%;margin-top: 0px"><b>(aka The WMT Editors)</b></p>
+            <p style="font-size:150%"><b>DJ Bestivus: Best of Lists for the Rest of Us<br>(aka The WMT Editors)</b></p>
                 <div class="column text-center">
                   <p id="titleRow"><u>Albums</u></p>
                 </div>
