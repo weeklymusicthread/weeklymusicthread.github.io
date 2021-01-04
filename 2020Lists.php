@@ -34,14 +34,16 @@
         font-size:125%;
       }
 
-      #DJRow {
+      #djRow {
         margin-bottom:1px !important;
         font-size:150%;
+        font-weight: bold;
       }
 
-      #DJRow2 {
+      #djRow2 {
         margin-top:1px !important;
         font-size:150%;
+        font-weight: bold;
       }
 
     </style>
@@ -73,8 +75,8 @@
        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
-            <p id="DJRow"><b>DJ Bestivus: Best of Lists for the Rest of Us</b></p>
-            <p id="DJRow2"><b>(aka The WMT Editors)</b></p>
+            <p id="djRow">DJ Bestivus: Best of Lists for the Rest of Us</p>
+            <p id="djRow2">(aka The WMT Editors)</p>
           </div>
           <div class="row justify-content-center">
                 <div class="column text-center">
