@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-lg-11 col-md-11 mx-auto">
           <div class="page-heading">
-            <h1>2020 Favorites</h1>
+            <h1>2020 Year End Lists</h1>
           </div>
         </div>
       </div>
@@ -62,7 +62,7 @@
        <div class="col-lg-8 col-md-8 mx-auto" id="postSection">
 
           <div class="row justify-content-center">
-            <p><b>DJ Bestivus: Best of Lists for the Rest of Us aka The WMT Editors</b></p>
+            <p><b>DJ Bestivus: Best of Lists for the Rest of Us (aka The WMT Editors)</b></p>
                 <div class="column text-center">
                   <p id="titleRow"><u>Albums</u></p>
                 </div>
@@ -74,7 +74,7 @@
           <div class="row">
               <div class="column">
                 
-                 <p>1. <i>Truth or Consequences</i> by Yumi Zouma<br>
+                 <p>1. <i>Truth or Consequences</i> by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
                     2. <i>Rough and Rowdy Ways</i> by Bob Dylan<br>
                     3. <i>Honeymoon</i> by Beach Bunny<br>
                     4. <i>Drug Dealing is a Lost Art</i> by Beach Bunny<br>
