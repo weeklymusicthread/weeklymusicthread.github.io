@@ -6,9 +6,9 @@ search bar
    box-sizing: border-box;
  }
  
- body {
+ /* body {
    font: 16px Arial;  
- }
+ } */
  
  /*the container must be positioned relative:*/
  .autocomplete {
