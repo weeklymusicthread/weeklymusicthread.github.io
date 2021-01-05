@@ -17,34 +17,32 @@
   <style>     
       /* Set additional styling options for the columns*/
       .column {
-      float: left;
-      width: 50%;
-      font-size:medium;
-      
+				float: left;
+				width: 50%;
+				font-size:medium;
       }
   
       .row:after {
-      content: "";
-      display: table;
-      clear: both;
+				content: "";
+				display: table;
+				clear: both;
       }
 
-      #titleRow {
+      .titleRow {
         margin-bottom: 0px !important;
         margin-top: 0px !important;
-        font-size:125%;
+        font-size: 125%;
+				text-align: left;
       }
 
-      #doublename1 {
-     
+      .doublename1 {
         font-size:150%;
         font-weight: bold;
         text-align: center !important;
         margin-bottom: 10px !important;
       }
 
-      #doublename2 {
-       
+      .doublename2 {
         font-size:150%;
         font-weight: bold;
         text-align: center !important;
@@ -52,20 +50,17 @@
         margin-bottom: 20px !important;
       }
 
-      #noteline {
-
+      .noteline {
         font-size:75%;
         text-align: center !important;
-
       }
 
-      #djname {
-       
-       font-size:150%;
-       font-weight: bold;
-       text-align: center !important;
-       margin-bottom: 20px !important;
-     }
+      .djname {
+				font-size:150%;
+				font-weight: bold;
+				text-align: center !important;
+				margin-bottom: 20px !important;
+			}
 
     </style>
 
@@ -96,17 +91,17 @@
        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="doublename1">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
-              <p id="doublename2">(aka The WMT Editors)</p>
+              <p class="doublename1">DJ Bestivus: Best of Lists for the Rest of Us<br></p>
+              <p class="doublename2">(aka The WMT Editors)</p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
@@ -143,16 +138,16 @@
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="djname">DJ Webmaster P<br></p>
+              <p class="djname">DJ Webmaster P<br></p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
@@ -191,16 +186,16 @@
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="djname">DJ Baby Bok Choy<br></p>
+              <p class="djname">DJ Baby Bok Choy<br></p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
@@ -241,16 +236,16 @@
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="djname">DJ Metal Year Solid<br></p>
+              <p class="djname">DJ Metal Year Solid<br></p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
@@ -281,17 +276,17 @@
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="djname">DJ No Cap(italization)<br></p>
-              <p id="noteline"> Note: This is a list of favorites songs <i>discovered</i> in 2020</p>
+              <p class="djname">DJ No Cap(italization)<br></p>
+              <p class="noteline"> Note: This is a list of favorites songs <i>discovered</i> in 2020</p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
@@ -322,16 +317,16 @@
 
           <div class="row justify-content-center">
             <div class="col-lg-10 col-md-10 mx-auto">
-              <p id="djname">DJ Supplemental Jurisdiction<br></p>
+              <p class="djname">DJ Supplemental Jurisdiction<br></p>
             </div>
           </div>
           
           <div class="row justify-content-center">
                 <div class="column text-center">
-                  <p id="titleRow"><u>Albums</u></p>
+                  <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
                 <div class="column text-center">
-                  <p id="titleRow"><u>Songs</u></p>
+                  <p class="titleRow"><span class="border-bottom">Songs</span></p>
                 </div>
           </div>
 
