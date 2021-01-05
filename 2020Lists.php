@@ -177,7 +177,7 @@
                     3. "Romanticist" by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
                     4. "The End Is Near" by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
                     5. "My Name is Dark" by <a href="search.html?artist=Grimes">Grimes</a><br>
-                    6. "If You're Too Shy (Let Me Know) by <a href="search.html?artist=The 1975">The 1975</a><br>
+                    6. "If You're Too Shy (Let Me Know)" by <a href="search.html?artist=The 1975">The 1975</a><br>
                     7. "The Difference" by <a href="search.html?artist=Toro y Moi">Toro y Moi, </a><a href="search.html?artist=Flume">Flume</a><br>
                     8. "Darkness" by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
                     9. "Sweet" by <a href="search.html?artist=Porridge Radio">Porridge Radio</a><br>
