@@ -34,22 +34,22 @@
       }
 
       .doublename1 {
-        font-size:150%;
+        font-size: 150%;
         font-weight: bold;
         text-align: center !important;
-        margin-bottom: 10px !important;
+        margin-bottom: 0px !important;
       }
 
       .doublename2 {
-        font-size:150%;
+        font-size: 150%;
         font-weight: bold;
         text-align: center !important;
-        margin-top: 10px !important;
+        margin-top: 0px !important;
         margin-bottom: 20px !important;
       }
 
       .noteline {
-        font-size:75%;
+        font-size: 75%;
         text-align: center !important;
       }
 
@@ -97,7 +97,7 @@
           <div class="row justify-content-center">
 					
 						<div class="col-md-6 col-sm-12">
-              <p class="titleRow"><span class="border-bottom">Albums</span></p>
+              <p class="titleRow border-bottom"><span>Albums</span></p>
 							<p class="list-content">
 								1. <i>Truth or Consequences</i> by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
 								2. <i>Rough and Rowdy Ways</i> by <a href="search.html?artist=Bob Dyland">Bob Dylan</a><br>
@@ -108,8 +108,8 @@
 						</div>
 						
 						<div class="col-md-6 col-sm-12">
-							<p class="titleRow"><span class="border-bottom">Songs</span></p>
-							<p>
+							<p class="titleRow border-bottom"><span>Songs</span></p>
+							<p class="list-content">
 								1. "Murder Most Foul" by <a href="search.html?artist=Bob Dylan">Bob Dylan</a><br>
 								2. "(Un)knowing" by <a href="search.html?artist=Young Jesus">Young Jesus</a><br>
 								3. "RASCAL" by <a href="search.html?artist=RMR">RMR</a><br>
@@ -134,6 +134,43 @@
           </div>
           
           <div class="row justify-content-center">
+					
+						<div class="col-md-6 col-sm-12">
+              <p class="titleRow border-bottom"><span>Albums</span></p>
+							<p class="list-content">
+								1. <i>Heaven to a Tortured Mind</i> by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+								2. <i>What's Your Pleasure?</i> by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+								3. <i>Miss Anthropocene</i> by <a href="search.html?artist=Grimes">Grimes</a><br>
+								4. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+								5. <i>We Will Always Love You</i> by <a href="search.html?artist=The Avalanches">The Avalanches</a><br>
+								6. <i>Notes on a Conditional Form</i> by <a href="search.html?artist=The 1975">The 1975</a><br>
+								7. <i>Truth or Consequences</i> by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
+								8. <i>Honeymoon</i> by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br> 
+							</p>	
+						</div>
+						
+						<div class="col-md-6 col-sm-12">
+							<p class="titleRow border-bottom"><span>Songs</span></p>
+							<p class="list-content">
+								1. "Remember Where You Are" by <a href="search.html?artist=Jessie Ware">Jessie Ware</a><br>
+								2. "Pink Pony Club" by <a href="search.html?artist=Chappell Roan">Chappell Roan</a><br>
+								3. "Romanticist" by <a href="search.html?artist=Yves Tumor">Yves Tumor</a><br>
+								4. "The End Is Near" by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
+								5. "My Name is Dark" by <a href="search.html?artist=Grimes">Grimes</a><br>
+								6. "If You're Too Shy (Let Me Know)" by <a href="search.html?artist=The 1975">The 1975</a><br>
+								7. "The Difference" by <a href="search.html?artist=Toro y Moi">Toro y Moi, </a><a href="search.html?artist=Flume">Flume</a><br>
+								8. "Darkness" by <a href="search.html?artist=Katie Dey">Katie Dey</a><br>
+								9. "Sweet" by <a href="search.html?artist=Porridge Radio">Porridge Radio</a><br>
+								10. "Sarita Colonia" by <a href="search.html?artist=Sofia Kourtesis">Sofia Kourtesis</a><br>
+							</p>	
+						</div>
+					
+					
+					
+					
+					
+					
+					
                 <div class="column text-center">
                   <p class="titleRow"><span class="border-bottom">Albums</span></p>
                 </div>
