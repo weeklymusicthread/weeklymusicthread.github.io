@@ -16,10 +16,8 @@
 
   <style>     
       /* Set additional styling options for the columns*/
-      .column {
-				float: left;
-				width: 50%;
-				font-size:medium;
+      .list-content {
+				font-size: medium;
       }
   
       .row:after {
@@ -100,8 +98,7 @@
 					
 						<div class="col-md-6 col-sm-12">
               <p class="titleRow"><span class="border-bottom">Albums</span></p>
-							<br>
-							<p>
+							<p class="list-content">
 								1. <i>Truth or Consequences</i> by <a href="search.html?artist=Yumi Zouma">Yumi Zouma</a><br>
 								2. <i>Rough and Rowdy Ways</i> by <a href="search.html?artist=Bob Dyland">Bob Dylan</a><br>
 								3. <i>Honeymoon</i> by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
