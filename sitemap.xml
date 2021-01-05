@@ -9,28 +9,308 @@
 
 <url>
   <loc>https://weeklymusicthread.com/</loc>
-  <lastmod>2020-12-16T00:27:44+00:00</lastmod>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://weeklymusicthread.com/index.php</loc>
-  <lastmod>2020-12-16T00:27:44+00:00</lastmod>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weeklymusicthread.com/music.php?page=1</loc>
-  <lastmod>2020-12-16T00:27:44+00:00</lastmod>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/2020Lists.php?page=1</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weeklymusicthread.com/about.php</loc>
-  <lastmod>2020-12-16T00:27:44+00:00</lastmod>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://weeklymusicthread.com/contact.php</loc>
-  <lastmod>2020-12-16T00:27:44+00:00</lastmod>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Yumi%20Zouma</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Bob%20Dyland</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Beach%20Bunny</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=RMR</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Baths</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Bob%20Dylan</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Young%20Jesus</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Chappell%20Roan</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=the%20Front%20Bottoms</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Katie%20Dey</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Yves%20Tumor</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Jessie%20Ware</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Grimes</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Phoebe%20Bridgers</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%20Avalanches</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%201975</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Toro%20y%20Moi</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Flume</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Porridge%20Radio</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Sofia%20Kourtesis</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%20Soft%20Pink%20Truth</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Haim</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Fiona%20Apple</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Kelly%20Lee%20Owens</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Julianna%20Barwick</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Jessy%20Lanza</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Shy%20Girl</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=070%20Shake</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Four%20Tet</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Rina%20Sawayama</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Caribou</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=India%20Jordan</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Soccer%20Mommy</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%20Weeknd</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=System%20of%20a%20Down</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Lamb%20of%20God</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Phish</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Coheed%20and%20Cambria</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Puscifer</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Mastodon</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Blondes</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Lindemann</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Chris%20Cornell</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Nekrogoblikon</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Diet%20Cig</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Kavinsky</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Kitten</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Girls</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Tears%20for%20Fears</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%20Wallflowers</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=My%20Morning%20Jacket</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=The%20Front%20Bottoms</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Clipping.</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Perfume%20Genius</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://weeklymusicthread.com/search.php?artist=Run%20the%20Jewels</loc>
+  <lastmod>2021-01-05T23:23:03+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
