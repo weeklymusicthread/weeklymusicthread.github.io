@@ -69,7 +69,7 @@
 				</form>
 				</div>
 				<!--End mc_embed_signup-->
-				<p class="copyright text-muted">No Copyright &copy; Weekly Music Thread 2020</p>
+				<p class="copyright text-muted">No Copyright &copy; Weekly Music Thread 2021</p>
 			</div>
 		</div>
 	</div>
