@@ -287,7 +287,7 @@
           
           <div class="row justify-content-center">
             <div class="col-md-6 col-sm-12">
-							<p class="titleRow border-bottom"><span>Albums</span></p>
+							<p class="titleRow border-bottom"><span>Songs</span></p>
 							<p class="list-content">
 								1. <i>Punisher</i> by <a href="search.html?artist=Phoebe Bridgers">Phoebe Bridgers</a><br>
 								2. <i>Honeymoon</i> by <a href="search.html?artist=Beach Bunny">Beach Bunny</a><br>
