@@ -23,7 +23,7 @@
 				<!--End mc_embed_signup-->
 				<ul class="list-inline text-center">
 					<li class="list-inline-item">
-						<a href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">
+						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
@@ -31,7 +31,7 @@
 						</a>
 					</li>
 					<!-- <li class="list-inline-item">
-						<a href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">
+						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
@@ -39,7 +39,7 @@
 						</a>
 					</li>
 					<li class="list-inline-item">
-						<a href="https://open.spotify.com/playlist/5wYcswVJA6rDdJfYV0ZDFs?si=M8r9vKRwSZmVqRP9lazn1Q">
+						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
 								<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
