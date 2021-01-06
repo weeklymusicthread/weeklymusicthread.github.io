@@ -73,7 +73,7 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.png')">
+  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
