@@ -3,6 +3,8 @@
 
 <head>
 
+  <?php include('php/header.php'); ?>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
@@ -12,7 +14,7 @@
 
   <title>Weekly Music Thread</title>
 	
-	<?php include('php/header.php'); ?>
+	
 
   <style>     
       /* Set additional styling options for the columns*/
