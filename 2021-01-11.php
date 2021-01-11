@@ -10,7 +10,7 @@
   
   <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-  <title>Weekly Music Thread | Celebrit-E</title>
+  <title>Weekly Music Thread | January 11, 2021</title>
 
   <?php include('php/header.php'); ?>
 

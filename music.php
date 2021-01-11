@@ -10,7 +10,7 @@
   
   <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-  <title>Weekly Music Thread</title>
+  <title>Weekly Music Thread | Just the Music</title>
 	
 	<?php include('php/header.php'); ?>
 
