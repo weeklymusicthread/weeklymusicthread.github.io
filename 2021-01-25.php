@@ -104,7 +104,7 @@
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
-	displayPosts('2021-01-18');
+	displayPosts('2021-01-25');
   </script>
 
 </body>
