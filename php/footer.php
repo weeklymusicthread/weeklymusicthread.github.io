@@ -30,7 +30,7 @@
 							</span>
 						</a>
 					</li>
-					<<li class="list-inline-item">
+					<li class="list-inline-item">
 						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
