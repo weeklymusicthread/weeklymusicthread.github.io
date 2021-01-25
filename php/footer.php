@@ -23,14 +23,14 @@
 				<!--End mc_embed_signup-->
 				<ul class="list-inline text-center">
 					<li class="list-inline-item">
-						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
+						<a href="https://www.instagram.com/weeklymusicthread/">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+								<i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
 					</li>
-					<!-- <li class="list-inline-item">
+					<<li class="list-inline-item">
 						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
@@ -39,13 +39,13 @@
 						</a>
 					</li>
 					<li class="list-inline-item">
-						<a href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA">
+						<a href="https://twitter.com/weeklymusicsite">
 							<span class="fa-stack fa-lg">
 								<i class="fas fa-circle fa-stack-2x"></i>
-								<i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
+								<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
-					</li> -->
+					</li>
 				</ul>
 
 				<br> 
