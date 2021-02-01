@@ -30,7 +30,7 @@
             <h1>Re Market</h1>
             <h2 class="subheading"></h2>
             <span class="meta">Posted by
-              <a href="#">-	DJ Sir ReMix-a-Not</a>
+              <a href="#">DJ Sir ReMix-a-Not</a>
               on February 1, 2021</span>
           </div>
         </div>
