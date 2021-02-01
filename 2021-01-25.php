@@ -45,7 +45,7 @@
 	  	  
         <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
          
-          <blockquote class="blockquote">"“where we came in? […] Isn’t this…” – P!nk Floyd Mayweather</blockquote>
+          <blockquote class="blockquote">“where we came in? […] Isn’t this…” – P!nk Floyd Mayweather</blockquote>
 
           <p>When we were young [via les Tueurs], there was a different experience associated with listening to music. We are of such an age that our discovery of music came through CDs and portable CD players (or the gendered and highly problematic “Walkman,” if you will.) Actually, that’s not entirely true—the first experience we had with music ownership came in the form of an 8-track tape of the soundtrack of <i>Star Wars</i>. Shortly thereafter, however, we lobbied our parents for and subsequently received a Walkman. And once we had the weapon in our possession, we loaded it with ammunition. Our first records? Savage Garden’s <i>Savage Garden</i>, the Goo Goo Dolls’ <i>Dizzy Up the Girl</i>, Smashmouth’s <i>Astro Lounge</i>, and Chumbawamba’s <i>Tubthumper</i>. On a half-hour commute to lower school each morning, and on the return trip home, we rotated dutifully through these mid-to-late ‘90s works of art. </p>
 
