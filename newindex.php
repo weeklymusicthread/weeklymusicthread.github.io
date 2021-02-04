@@ -47,6 +47,22 @@
           </span>
         </a>
         
+        <div class="row">
+            <div class="column">
+
+              This is the column on the left. There will be previews to articles here!
+
+            </div>
+
+            <div class="column">
+
+              This is the column on the right. There will be previews to song posts here!
+             
+            </div>
+
+        </div>
+
+
       </div>
     </div>
   </div>
