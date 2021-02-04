@@ -39,7 +39,7 @@
   <!-- Main Content -->
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 col-md-10 mx-auto" id = "previewSection">
+      <div class="col-md-10 mx-auto" id = "previewSection">
         Listen to the complete WMT collection with our <a target="_blank" href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA"><u>Spotify Playlist</u>
           <span style="font-size: 12px;" class="fa-stack fa-xs">
             <i class="fas fa-circle fa-stack-2x"></i>
@@ -48,15 +48,18 @@
         </a>
 
         <br>
+        <br>
+        <br>
+        <br>
         
         <div class="row">
-            <div class="col">
+            <div class="col-md-5 col-sm-12">
 
               This is the column on the left. There will be previews to articles here! This is the column on the left. There will be previews to articles here! This is the column on the left. There will be previews to articles here!
 
             </div>
 
-            <div class="col">
+            <div class="col-5-10 col-sm-12">
 
               This is the column on the right. There will be previews to song posts here! This is the column on the right. There will be previews to song posts here! This is the column on the right. There will be previews to song posts here!
              
