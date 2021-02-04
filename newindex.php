@@ -39,13 +39,15 @@
   <!-- Main Content -->
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto" id = "previewSection">
+      <div class="col-lg-12 col-md-10 mx-auto" id = "previewSection">
         Listen to the complete WMT collection with our <a target="_blank" href="https://open.spotify.com/playlist/19qKC6cahgDcaAY14jDWst?si=xt7aZqoFSiqdgrSOqWcPKA"><u>Spotify Playlist</u>
           <span style="font-size: 12px;" class="fa-stack fa-xs">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fab fa-spotify fa-stack-2x fa-inverse" style="color:#1ED761;"></i>
           </span>
         </a>
+
+        <br>
         
         <div class="row">
             <div class="col">
