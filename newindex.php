@@ -48,15 +48,15 @@
         </a>
         
         <div class="row">
-            <div class="column">
+            <div class="col">
 
-              This is the column on the left. There will be previews to articles here!
+              This is the column on the left. There will be previews to articles here! This is the column on the left. There will be previews to articles here! This is the column on the left. There will be previews to articles here!
 
             </div>
 
-            <div class="column">
+            <div class="col">
 
-              This is the column on the right. There will be previews to song posts here!
+              This is the column on the right. There will be previews to song posts here! This is the column on the right. There will be previews to song posts here! This is the column on the right. There will be previews to song posts here!
              
             </div>
 
