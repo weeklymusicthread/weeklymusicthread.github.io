@@ -48,7 +48,7 @@ function displayCards() {
 				dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
 
 				htmlString += '<div class="container">';
-				htmlString += '<img src="img/'+entry.image+'" alt="Card image cap" style="width:100%;height:auto;">';
+				htmlString += '<img src="entryimages/'+entry.image+'" alt="Card image cap" style="width:100%;height:auto;">';
 				htmlString += '<div class="text-block" onclick="location.href=\''+entry.post_page+'.php#post'+entryNum+'\';" style="cursor: pointer;">';
 				htmlString += '<div class="card-category">'+cardSubCat+'</div>';
 				htmlString += '<div class="card-music">'+entry.artist+' / '+ reviewedItem + '</div>';
