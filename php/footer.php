@@ -82,3 +82,4 @@
 <!-- Custom scripts for this template -->
 <script src="js/clean-blog.js"></script>
 <script src="js/search-bar.js?uid=<?php echo uniqid(); ?>"></script>
+<script src="js/smooth_scroll.js?uid=<?php echo uniqid(); ?>"></script>
