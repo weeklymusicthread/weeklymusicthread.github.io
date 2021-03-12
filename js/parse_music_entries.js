@@ -53,5 +53,7 @@ function displayPosts(postPage) {
 				postCounter++;
 			}
 		});
+
+		smoothscroll();
 	});
 }
