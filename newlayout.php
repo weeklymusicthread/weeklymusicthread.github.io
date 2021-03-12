@@ -135,6 +135,7 @@
         width: 100%;
         padding-bottom: 25px;
         color: #FFFFFF;
+        z-index: 2;
       }
 
       .imageContainer {
