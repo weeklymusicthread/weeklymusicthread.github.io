@@ -37,7 +37,7 @@ function displayPreviews() {
 
 		if (page == null) {
 			htmlString += `<div class="container imgborder" onclick="location.href='`+postData[0].post_page+`.php';" style="cursor: pointer;">`;
-			htmlString += `<img src="img/`+postData[0].image+`" alt="Card image cap" style="width:100%;height:500px;">`;
+			htmlString += `<img src="mainpage/`+postData[0].image+`" alt="Card image cap" style="width:100%;height:500px;">`;
 			htmlString += `<div class="image-text">`;
 			htmlString += `<h2>`+postData[0].post_title+`</h2>`;
 			htmlString += postData[0].post_author + `<br>`;
