@@ -39,7 +39,7 @@
           </div>
 
           <br>
-          <img src="mainpage/i_quantumofplaylist.jpg" alt="Card image cap" style="width:90%;height:495px;">
+          <img src="mainpage/i_quantumofplaylist.jpg" alt="Card image cap" style="width:90%;height:auto;">
           <br>
           <br>
           <br>
