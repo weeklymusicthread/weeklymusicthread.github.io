@@ -75,7 +75,7 @@ function displayPreviews() {
 				dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();	
 
 				htmlString += `<div class="post-preview" id="post` + postCounter + `">`;
-				htmlString += `<img class="preview-image" src="img/` + postData[i].image + `">`;
+				htmlString += `<img class="preview-image" src="mainpage/` + postData[i].image + `">`;
 				htmlString += `<a href="`+postData[i].post_page+`.php">`;
 				htmlString += `<h2 class="post-title">`+postData[i].post_title+`</h2>`;
 				htmlString += `<div class="post-subtitle preview-text">`+postData[i].post_subtitle+`</div>`;
