@@ -21,27 +21,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 col-md-10 mx-auto">
-          <br><br><br>
-          <div style="font-size:12px; color:rgb(142, 47, 231);"> <b>WEEKLY ARTICLE</b></div>
-          <br>
-          <div class="post-heading">
-            <h1>Ogramophone</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta" style="font-size:14px;">By
-              <a href="#">DJ V for VendEtta James</a> /
-              March 15, 2021</span>
-          </div>
-          <br>
-          <img src="mainpage/Ogramophone.jpg" alt="Card image cap" style="width:100%;height:auto;">
-          <br><br><br>
+  <header id="articleHeader">
 
-        </div>
-      </div>
-    </div>
   </header>
 
   <!-- Post Content -->
@@ -102,9 +83,12 @@
   <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
+
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
 	displayPosts('2021-03-15');
+  displayArticleHeader('2021-03-15');
   </script>
 
 </body>
