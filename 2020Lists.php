@@ -75,17 +75,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="page-heading">
-            <h1>2020 Year End Lists</h1>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
@@ -320,7 +311,11 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script>
+  displayArticleHeader('2020Lists');
+  </script>
 
 
 </body>
