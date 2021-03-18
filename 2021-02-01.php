@@ -21,21 +21,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>Re Market</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ Sir ReMix-a-Not</a>
-              on February 1, 2021</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
@@ -43,7 +30,7 @@
     <div class="container">
       <div class="row">
 	  	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
          
           <blockquote class="blockquote">“Good mixing is re-mixing” – grade school proverb</blockquote>
 
@@ -71,7 +58,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 
@@ -105,8 +92,11 @@
   
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
+  
   <script>
 	displayPosts('2021-02-01');
+  displayArticleHeader('2021-02-01');
   </script>
 
 </body>

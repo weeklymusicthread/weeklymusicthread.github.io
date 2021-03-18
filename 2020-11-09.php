@@ -21,28 +21,15 @@
   <?php include('php/navbar.php'); ?> 
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>Electile Dysfunction</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ Electoral College Dropout</a>
-              on November 9, 2020</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
   <article>
     <div class="container">
       <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto" id = "postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id = "postSection">
           <blockquote class="blockquote">"[insert generic election analysis lifted directly from major media outlets]" - every single person you know</blockquote>
 
           <p>Well, folks, another four years, another presidential election come and gone. In many ways, this one was just like all the others. (If you're not so sure about that, though, consider things from the point of view of "marginal differentiation," which teaches us that the more that two apparently opposing sides exaggerate their differences from one another, the more similar they, in all actuality, are. Think Coke vs. Pepsi, Burger King vs. McDonald's, Duke vs. UNC. On the other hand, things which are actually quite different from one another, like cooks and pilots, never seem to feel the need to bring it up.) Admittedly, however, this one did get a little more confusing than some of the others. And that's probably because you're not very <i>informed</i>.</p>
@@ -65,7 +52,7 @@
 
           <br>
         </div>
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
 
           <hr>
 
@@ -102,9 +89,13 @@
   <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
+  
   <script>
-	displayPosts('2020-11-09');
+	displayPosts('2021-11-09');
+  displayArticleHeader('2021-11-09');
   </script>
+
 
 </body>
 

@@ -21,21 +21,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>Bubble Boy Band</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ Liv "Like That" Tyler</a>
-              on December 14, 2020</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
@@ -45,7 +32,7 @@
 	  
 	  
 	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
          
           <blockquote class="blockquote">"I'd rather make a movie about a guy walking his dog than about the emperor of China" - Christopher Nolan</blockquote>
           
@@ -65,7 +52,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 
@@ -107,8 +94,11 @@
   
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
+  
   <script>
-	displayPosts('2020-12-14');
+	displayPosts('2021-12-14');
+  displayArticleHeader('2021-12-14');
   </script>
 
 </body>

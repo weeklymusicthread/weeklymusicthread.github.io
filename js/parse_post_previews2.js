@@ -71,7 +71,7 @@ function displayPreviews() {
 
 			if (i < postData.length) {
 				//formats date of entry for post
-				postDate = new Date(postData[i].post_page);
+				postDate = new Date(postData[i].post_page+"T00:00:00");
 				dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();	
 
 				htmlString += `<div class="post-preview" id="post` + postCounter + `">`;

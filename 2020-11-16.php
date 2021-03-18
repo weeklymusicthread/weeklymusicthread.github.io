@@ -21,21 +21,8 @@
   <?php include('php/navbar.php'); ?> 
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>RMR for President</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ RMR Hazlitt</a>
-              on November 16, 2020</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
     <style>     
       /* Set additional styling options for the columns*/
       .column {
@@ -51,13 +38,14 @@
       clear: both;
       }
     </style>
+
   </header>
 
   <!-- Post Content -->
   <article>
     <div class="container">
       <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto" id = "postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id = "postSection">
           <p>Now, about those calls for unity. [Insert long paragraph lamenting increasing trends toward polarization, or whatever it is that people talk about.] There are a lot of people out there talking about how to fix all of this, and they've got a lot of ideas. But we've got an idea of our own.</p>
 
           <p>We won't discuss here how the election was subverted, the democracy was undermined, and the presidency was stolen from its rightful candidate, Kanye West. Instead, we'd like to talk about a different hip hop artist who we think can bring unity to this broken nation, and that's the 2020 breakout star RMR.</p>
@@ -104,7 +92,7 @@
           <h2 class="section-heading">And now, onto the show...</h2>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
 
           <hr>
 
@@ -142,9 +130,13 @@
   <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
+  
   <script>
-	displayPosts('2020-11-16');
+	displayPosts('2021-11-16');
+  displayArticleHeader('2021-11-16');
   </script>
+
 
 </body>
 

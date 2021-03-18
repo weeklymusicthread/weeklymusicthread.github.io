@@ -30,7 +30,7 @@
     <div class="container">
       <div class="row">
 	  	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
          
           <p>This week, our adventures abroad continue. This time, we have branched out from just our wireless-less walk to work or our flooded, Emily-style apartment, and have spent the weekend at several different Paris bookstores.</p>
 
@@ -52,7 +52,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 

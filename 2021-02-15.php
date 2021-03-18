@@ -21,21 +21,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>Randumb & Dumber</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ Nassim Nicholas Taleb Kweli</a>
-              on February 15, 2021</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
@@ -43,7 +30,7 @@
     <div class="container">
       <div class="row">
 	  	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
          
           <blockquote class="blockquote">“Fool me once, shame on you. But fool me by randomness, shame on Natalie Portman.” – Black Swan director Nassim Nicholas Taleb</blockquote>
 
@@ -67,7 +54,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 
@@ -98,9 +85,12 @@
   <script src="js/clean-blog.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
+
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
 	displayPosts('2021-02-15');
+  displayArticleHeader('2021-02-15');
   </script>
 
 </body>

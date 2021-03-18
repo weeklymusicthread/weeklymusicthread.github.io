@@ -30,7 +30,7 @@
     <div class="container">
       <div class="row">
 	  	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
 
           <blockquote class="blockquote">“All good things must come to an end” – Guy-Manuel de Homem-Cristo and Thomas Bangalter</blockquote>
          
@@ -44,7 +44,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 
