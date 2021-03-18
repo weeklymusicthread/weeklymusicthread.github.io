@@ -75,8 +75,27 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header id="articleHeader">
+  <header>
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 mx-auto">
+          <br><br><br>
+          <div style="font-size:12px; color:rgb(142, 47, 231);"> <b>YEAR END </b></div>
+          <br>
+          <div class="post-heading">
+            <h1>2020 Year End Lists</h1>
+            <h2 class="subheading"></h2>
+            <span class="meta" style="font-size:14px;">By
+              <a href="#">DJ Bestivus: Best of Lists for the Rest of Us</a> /
+              January 4, 2021</span>
+          </div>
+          <br>
+          <img src="mainpage/bestof2020.jpg" alt="Card image cap" style="width:100%;height:auto;">
+          <br><br><br>
 
+        </div>
+      </div>
+    </div>
   </header>
 
   <!-- Post Content -->
@@ -314,7 +333,7 @@
   <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
-  displayArticleHeader('2020Lists');
+
   </script>
 
 
