@@ -21,17 +21,10 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="page-heading">
-            <h1>Just the Music</h1>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header>
+
+    <br><br><br>
+
   </header>
 
   <!-- Post Content -->
