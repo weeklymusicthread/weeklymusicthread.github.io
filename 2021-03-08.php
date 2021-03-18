@@ -89,8 +89,8 @@
   <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
-	displayPosts('2021-03-15');
-  displayArticleHeader('2021-03-15');
+	displayPosts('2021-03-08');
+  displayArticleHeader('2021-03-08');
   </script>
 
 </body>
