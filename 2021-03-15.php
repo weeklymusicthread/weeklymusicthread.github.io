@@ -21,18 +21,24 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
+  <header>
     <div class="container">
       <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
+        <div class="col-lg-10 col-md-10 mx-auto">
+          <br><br><br>
+          <div style="font-size:12px; color:rgb(142, 47, 231);"> <b>WEEKLY ARTICLE</b></div>
+          <br>
           <div class="post-heading">
             <h1>Ogramophone</h1>
             <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ V for VendEtta James</a>
-              on March 15, 2021</span>
+            <span class="meta" style="font-size:14px;">By
+              <a href="#">DJ V for VendEtta James</a> /
+              March 15, 2021</span>
           </div>
+          <br>
+          <img src="mainpage/Ogramophone.jpg" alt="Card image cap" style="width:100%;height:auto;">
+          <br><br><br>
+
         </div>
       </div>
     </div>
