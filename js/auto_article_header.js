@@ -28,8 +28,8 @@ function displayArticleHeader(postpage) {
 				htmlString += `<div class="post-heading">`;
 				htmlString += `<h1>`+entry.post_title+`</h1>`;
 				htmlString += `<h2 class="subheading"></h2>`;
-				htmlString += `<span class="meta" style="font-size:14px;">By`;
-				htmlString += `<a href="#">`+entry.post_author+`</a> /`;
+				htmlString += `<span class="meta" style="font-size:14px;">By `;
+				htmlString += `<a href="#">`+entry.post_author+`</a> / `;
 				htmlString += dateString+`</span>`;
 				htmlString += `</div>`;
 				htmlString += `<br>`;

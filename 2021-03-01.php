@@ -21,21 +21,8 @@
   <?php include('php/navbar.php'); ?>  
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/vaporheader.jpg')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 col-md-11 mx-auto">
-          <div class="post-heading">
-            <h1>(Daft) Punk is Dead</h1>
-            <h2 class="subheading"></h2>
-            <span class="meta">Posted by
-              <a href="#">DJ Raft Sunk</a>
-              on March 1, 2021</span>
-          </div>
-        </div>
-      </div>
-    </div>
+  <header id="articleHeader">
+
   </header>
 
   <!-- Post Content -->
@@ -89,8 +76,11 @@
   
   <script src="js/parse_music_entries.js?uid=<?php echo uniqid(); ?>"></script>
   
+  <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
+  
   <script>
-	displayPosts('2021-03-01');
+	displayPosts('2021-03-15');
+  displayArticleHeader('2021-03-15');
   </script>
 
 </body>
