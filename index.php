@@ -67,8 +67,8 @@
         background-color: rgb(65,65,65);
         width: 100%;
         color: white;
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 8px;
+        padding-right: 8px;
         padding-top: 15px;
         padding-bottom: 15px;
       }
