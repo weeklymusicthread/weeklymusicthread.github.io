@@ -100,8 +100,8 @@
   <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
-	displayPosts('2021-11-30');
-  displayArticleHeader('2021-11-30');
+	displayPosts('2020-11-30');
+  displayArticleHeader('2020-11-30');
   </script>
 
 </body>
