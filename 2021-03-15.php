@@ -49,7 +49,7 @@
     <div class="container">
       <div class="row">
 	  	  
-        <div class="col-lg-11 col-md-11 mx-auto" id="postSection">
+        <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
 
           <p>As this week’s WMT approached, we found ourselves at an impasse: we had something to write, but nothing to write it about. That’s right, folks—writing a Weekly Music Thread isn’t all fun and games. It’s hard, important work, and it makes us David Bowie. (Which is to say, it makes us heroes. Heroes in the fight against COVID, and heroes in general.)</p>
           
@@ -65,7 +65,7 @@
           <br>
         </div>
 
-        <div class="col-lg-11 col-md-11 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
+        <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
           <hr>
 
