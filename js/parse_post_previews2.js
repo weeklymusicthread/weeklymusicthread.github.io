@@ -37,7 +37,7 @@ function displayPreviews() {
 
 		if (page == null) {
 			htmlString += `<div class="container imgborder" onclick="location.href='`+postData[0].post_page+`.php';" style="cursor: pointer;">`;
-			htmlString += `<img src="mainpage/`+postData[0].image+`" alt="Card image cap" style="width:100%;height:500px;">`;
+			htmlString += `<img src="mainpage/`+postData[0].image+`" alt="Card image cap" style="width:100%;height:auto;">`;
 			htmlString += `<div class="image-text">`;
 			htmlString += `<h2>`+postData[0].post_title+`</h2>`;
 			htmlString += postData[0].post_author + `<br>`;
@@ -82,7 +82,10 @@ function displayPreviews() {
 				htmlString += `</a>`;
 				htmlString += `<p class="post-meta" style="left:200px;">Posted by `+postData[i].post_author+` on `+dateString;
 				htmlString += `</div>`;	
-				htmlString += `<hr>`;
+
+				if (x != numDisplay){
+					htmlString += `<hr>`;
+				}
 			}
 
 			$("#previewSection").append(htmlString);

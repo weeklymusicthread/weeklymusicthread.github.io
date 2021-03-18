@@ -157,7 +157,7 @@
       }
 
       .preview-text {
-        overflow: hidden;
+        /* overflow: hidden; */
         font-size: 16px;
         min-height: 72px;
       }
