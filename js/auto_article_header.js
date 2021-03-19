@@ -47,8 +47,8 @@ function displayArticleHeader(postpage) {
 				htmlString += `<meta name="twitter:site" content="@weeklymusicsite" />`;
 				htmlString += `<meta name="twitter:title" content="`+entry.post_title+`" />`;
 				htmlString += `<meta name="twitter:description" content="`+entry.post_subtitle+`" />`;
-				htmlString += `<meta name="twitter:image" content="https://weeklymusicthread.com/mainpage/`+entry.image+`"/>`;
-				
+				htmlString += `<meta name="twitter:image" content="https://weeklymusicthread.com/twitter_card/`+entry.image+`"/>`;
+
 				$("#pageHead").append(htmlString);
 				htmlString = "";
 				
