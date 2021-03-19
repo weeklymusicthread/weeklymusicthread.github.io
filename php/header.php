@@ -9,7 +9,7 @@
   </script>  
   
   <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -17,11 +17,11 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
   <!-- Custom styles for this template -->
-  <link href="css/clean-blog.css?<?php echo time(); ?>" rel="stylesheet">
+  <link href="css/clean-blog2.css?<?php echo time(); ?>" rel="stylesheet">
 	<link href="css/search-bar.css?<?php echo time(); ?>" rel="stylesheet">
 
  <!-- Twitter Card tags -->
-  <!-- <meta name="twitter:card" content="summary" />
+<!--   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@weeklymusicsite" />
   <meta name="twitter:title" content="Weekly Music Thread" />
   <meta name="twitter:description" content="Read the full article on Weekly Music Thread" />

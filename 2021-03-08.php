@@ -14,12 +14,6 @@
 
   <?php include('php/header.php'); ?>
 
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@weeklymusicsite">
-  <meta name="twitter:title" content="Ogramophone">
-  <meta name="twitter:description" content="As this week’s WMT approached, we found ourselves at an impasse">
-  <meta name="twitter:image" content="https://weeklymusicthread.com/mainpage/Ogramophone.jpg">
-
 </head>
 
 <body>
