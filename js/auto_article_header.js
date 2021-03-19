@@ -41,6 +41,17 @@ function displayArticleHeader(postpage) {
 
 				$("#articleHeader").append(htmlString);
 				htmlString = "";
+
+				// this adds twitter card information to the header
+				htmlString += `<meta name="twitter:card" content="summary_large_image" />`;
+				htmlString += `<meta name="twitter:site" content="@weeklymusicsite" />`;
+				htmlString += `<meta name="twitter:title" content="`+entry.post_title+`" />`;
+				htmlString += `<meta name="twitter:description" content="`+entry.post_subtitle+`" />`;
+				htmlString += `<meta name="twitter:image" content="https://weeklymusicthread.com/mainpage/`+entry.image+`"/>`;
+				
+				$("#pageHead").append(htmlString);
+				htmlString = "";
+				
 			}
 		
 

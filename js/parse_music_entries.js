@@ -5,6 +5,7 @@ function displayPosts(postPage) {
 	
 	var postCounter = 1;
 	var p;
+	var htmlString;
 	
 	// jquery function to get the json file and then put it into memory as "postData" var
 	$.getJSON('https://weeklymusicthread.com/music_entries.json', postData => {
@@ -51,6 +52,8 @@ function displayPosts(postPage) {
 				
 				// increase the counter for the next iteration!
 				postCounter++;
+
+
 			}
 		});
 
