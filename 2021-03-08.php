@@ -18,7 +18,7 @@
   <meta name="twitter:site" content="@weeklymusicsite">
   <meta name="twitter:title" content="Ogramophone">
   <meta name="twitter:description" content="As this week’s WMT approached, we found ourselves at an impasse">
-  <meta name="twitter:image" content="https://weeklymusicthread.com/twitter_card/Ogramophone.jpg">
+  <meta name="twitter:image" content="https://weeklymusicthread.com/mainpage/Ogramophone.jpg">
 
 </head>
 
