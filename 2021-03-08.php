@@ -12,7 +12,10 @@
 
   <title>Weekly Music Thread | March 8, 2021</title>
 
-  <?php include('php/header.php'); ?>
+  <?php 
+        include('php/header.php'); 
+        genTwitterCard('2021-03-08');
+  ?>
 
 </head>
 

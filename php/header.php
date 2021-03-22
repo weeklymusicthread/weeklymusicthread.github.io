@@ -21,10 +21,21 @@
 	<link href="css/search-bar.css?<?php echo time(); ?>" rel="stylesheet">
 
  <!-- Twitter Card tags -->
-<!--   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@weeklymusicsite" />
-  <meta name="twitter:title" content="Weekly Music Thread" />
-  <meta name="twitter:description" content="Read the full article on Weekly Music Thread" />
-  <meta name="twitter:image" content="https://weeklymusicthread.com/img/twitcardimage.jpg"/> -->
+  <?php 
+	function genTwitterCard($date) {
+    $str = file_get_contents('https://weeklymusicthread.com/post_previews.json');
+    $json = json_decode($str, true);
+
+    $i = array_search($date, array_column($json, 'post_page'));
+    $element = ($i !== false ? $json[$i] : null);
+
+    echo '<meta name="twitter:card" content="summary_large_image">';
+    echo '<meta name="twitter:site" content="@weeklymusicsite">';
+    echo '<meta name="twitter:title" content="' . print_r($element["post_title"], true) . '" />';
+    echo '<meta name="twitter:description" content="' . print_r($element["post_subtitle"], true) . '" />';
+    echo '<meta name="twitter:image" content="https://weeklymusicthread.com/mainpage/' . print_r($element["image"], true) . '" />';
+
+	}
+  ?>
 
   
