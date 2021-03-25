@@ -35,7 +35,7 @@
 	  	  
         <div class="col-lg-10 col-md-10 mx-auto" id="postSection">
 
-          <p style="text-align:center">“Bed Rock” by Young Money—A Close Reading/Explication</p>
+          <p style="text-align:center"><b>“Bed Rock” by Young Money—A Close Reading/Explication</b></p>
           
           <p><i>Uh, she got that good-good, she Michael Jackson bad</i></p>
           <p style="padding-left: 3em">While scholars dispute the meaning of “good-good,” the reference to Michael Jackson in the back half of this line refers to Jackson’s hit album, <i>Bad</i>, from 1987. The word “bad,” however, may also be used to describe an attractive female. Thus, the lust object at the center of “BedRock” is described as “Michael Jackson bad.”</p>
@@ -84,7 +84,7 @@
           <p><i>I’m so pretty like, be on my pedal bike<br>Be on my low starch, be on my egg whites<br>He say, “Nicki, don’t step, you da bestest”<br>And I just keep coming off the top, asbestos</i></p>
           <p style="padding-left: 3em">In this verse, Nicki Minaj asserts that she “just keep coming off the top,” whatever that means. She then likens herself to asbestos, a friable silicate material which was popular for its qualities as insulation throughout the twentieth century. Because ceilings are insulated, and because Minaj keeps coming “off the top,” and because ceilings are situated at the top of rooms, Minaj likens herself to asbestos.</p>
           
-          <p>Vol. 1 – FIN</p>         
+          <p><b>Vol. 1 – FIN</b></p>         
 
           <h2 class="section-heading">And now, onto the show...</h2>
           <br>
