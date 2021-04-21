@@ -16,8 +16,9 @@ function displayArticleHeader(postpage) {
 			if (entry.post_page === postpage) {
 
 				//formats date of entry for post
-				postDate = new Date(entry.post_page+"T00:00:00");
-				dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
+				//postDate = new Date(entry.post_page+"T00:00:00");
+				//dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
+				dateString = entry.post_date;
 
 				htmlString += `<div class="container">`;
 				htmlString += `<div class="row">`;
