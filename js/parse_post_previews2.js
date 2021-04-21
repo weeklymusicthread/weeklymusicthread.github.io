@@ -32,8 +32,9 @@ function displayPreviews() {
 
 			
 		//formats date of entry for post
-		postDate = new Date(postData[0].post_page+"T00:00:00");
-		dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
+		//postDate = new Date(postData[0].post_page+"T00:00:00");
+		//dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
+		dateString = postData[0].post_date;
 
 		if (page == null) {
 			htmlString += `<div class="container imgborder" onclick="location.href='`+postData[0].post_page+`.php';" style="cursor: pointer;">`;
@@ -71,8 +72,9 @@ function displayPreviews() {
 
 			if (i < postData.length) {
 				//formats date of entry for post
-				postDate = new Date(postData[i].post_page+"T00:00:00");
-				dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();	
+				//postDate = new Date(postData[i].post_page+"T00:00:00");
+				//dateString = monthNames[postDate.getMonth()]+ " " + postDate.getDate() + ", " + postDate.getFullYear();
+				dateString = postData[i].post_date;
 
 				htmlString += `<div class="post-preview" id="post` + postCounter + `">`;
 				htmlString += `<img class="preview-image" src="mainpage/` + postData[i].image + `">`;
