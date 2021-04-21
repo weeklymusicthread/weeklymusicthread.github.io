@@ -81,7 +81,7 @@
   <script src="js/auto_article_header.js?uid=<?php echo uniqid(); ?>"></script>
   
   <script>
-  displayArticleHeader('2021-04-19');
+  displayArticleHeader('harmonywoods_gracefulrage');
   </script>
 
 </body>
