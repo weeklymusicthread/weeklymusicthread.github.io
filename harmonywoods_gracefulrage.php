@@ -55,9 +55,7 @@
 
         <div class="col-lg-10 col-md-10 mx-auto"> <!-- From The Vault/We're Stil Listening/Up The Punx-->
          
-          <hr>
-
-
+   
          </div>
         
 		
