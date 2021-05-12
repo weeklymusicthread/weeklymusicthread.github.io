@@ -1,5 +1,35 @@
 [    
     {
+        "song": "hospital",
+        "artist": "Ellis",
+        "spotify_id": "4UzvLVnjwss4kBEMljLSNn",
+        "post_page": "2021-05-11",
+        "image": "ellis_hospital.jpeg",
+        "description_lines": [
+        "Ellis has appeared on the WMT before with tracks \"All This Time\" and \"Fall Apart.\" Those two tracks were pretty different, however, and now \"hospital\" makes three.",
+        "The track kicks off with a sleepy, faraway, telephoned-in intro that opens up eventually in full volume, like speaking to someone on the telephone before opening the door to find (and hear) them speaking right in front of your face. \"hospital\" reminds us of something, but we can't quite put our fingers on it. It's an ambling, glistening, dream-like, pretty little thing, and a definite play-on-repeat candidate. We'll leave things there for now."
+        ]
+    },    {
+        "song": "Black Maps",
+        "artist": "Mint Julep",
+        "spotify_id": "61OropGB1h5bLzZznmKgvv",
+        "post_page": "2021-05-11",
+        "image": "blackmaps_mintjulep.jpg",
+        "description_lines": [
+        "This is the first appearance for husband-and-wife duo Mint Julep on the WMT. Last month, MJ released their new record, In a Deep & Dreamless Sleep, which opens with \"Black Maps.\"",
+        "A track which recalls the sounds of Washed Out's 2009 EP, <i>Life of Leisure</i>, \"Black Maps\" ebbs and flows over a rhythmic, thrumming bass line and synthetic waves of sound. Even lead Hollie Kenniff's voice is a reminder of Ernest Greene's distant, calling vocals on <i>Life of Leisure</i>'s \"New Theory.\" With summer just around the bend, this is one to queue up for days of drinking and lounging in the moneyed sun."
+        ]
+    },    {
+        "song": "I WANNA DIE BUT I CAN'T (CUZ I GOTTA KEEP LIVING)",
+        "artist": "PRONOUN",
+        "spotify_id": "0lcwE4dOsg3HB2BiUJxurh",
+        "post_page": "2021-05-11",
+        "image": "pronoun_iwannadiebuticant.jpg",
+        "description_lines": [
+        "Over a year ago, we brought you pronoun's <i>i'll show you stronger</i>. We spent a lot of time with that record, and especially with what we saw as the standout track, \"stay.\" Well, now pronoun are back with new single \"I WANNA DIE BUT I CAN'T (CUZ I GOTTA KEEP LIVING).\"",
+        "We're not sure if the move from exclusive lower case to exclusive upper signifies something, but it sure feels like it does. Gone is the mutedness of <i>i'll show you stronger</i>. The tones are brighter here, the sounds cleaner, the vocals much more forward and distortion/reverb-free. Now, that being said, the somehow simultaneously blase and energetic frustration means that this track is still decidedly pronoun"
+        ]
+    },    {
         "song": null,
         "album": "Inbred",
         "artist": "Ethel Cain",
