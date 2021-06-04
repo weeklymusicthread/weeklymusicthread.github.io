@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: weeklymusicthread.com
+Token: 83496138135dd25e9eb9be7179b745527746db116ecde1404adadf887ccc6fe3
