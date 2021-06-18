@@ -1,5 +1,26 @@
 [    
     {
+        "song": "Minnesota Girls",
+        "artist": "The Shackletons",
+        "spotify_id": "5rBQhNwC1YSn7Zr9MCBVx3",
+        "post_page": "2021-06-18",
+        "image": "theshackletons_minnesotagirls.jpg",
+        "description_lines": [
+        "We were sold on this track right from the start. The prodding electric guitar got us interested, then Colin Campbell’s whiny, punk, can’t-be-bothered-type voice really drew me in. Spotify’s algorithm for our weekly discover has finally crystallized a stronghold on what makes me tick: A little bit of punk, touch of grunge, and a charming simplicity to the lyrics.",
+        "Minnesota Girls, best in the world? The Shackletons certainly think so. Sorry Brian Wilson."
+       ]
+    },     {
+        "song": "Kahlil Gibran",
+        "artist": "STRFKR",
+        "spotify_id": "0PldjOTKRt45S9MrLnlwVM",
+        "post_page": "2021-06-18",
+        "image": "strfkr_kahlilgibran.jpg",
+        "description_lines": [
+        "The WMT is ½ Lebanese (well, actually, more like ¼) so this one was bound to pop up at some point. s/o to The Prophet. We immediately became less productive at work when this song comes on. It has a sort of blissful, magical aura surrounding it. And to be honest, we think that’s mostly all there is to be said about this song.",
+        "“I don’t wanna say it, I just wanna lay here…”</br>“Our thoughts all blend together…”</br>“Tonight I can’t say nothing…”</br>“I don’t wanna know…”",
+        "You get lost and you’re happy to be there for a bit."
+        ]
+    },     {
         "song": "Come Out for a Spell",
         "artist": "Sincere Engineer",
         "spotify_id": "1nHaepWm6QmWQARMLwLeM4",
