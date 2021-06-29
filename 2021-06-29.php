@@ -81,7 +81,7 @@
 
           <h2 class="section-heading" style="font-size:125%">The Classical Fascicle</h2>
 
-          <p>A brief entry this week, lifted from Lars von Trier’s <i>Antichrist</i> (2009): the Tuva Semmingsen and Barokksolistene performance of George Frideric Handel’s <i>Lascia Ch’io Pianga</i>. At 5:18, this is a short soprano aria that’s approachable and easily consumed (<i>Antichrist<i>, on the other hand, not so much). The piece is beautiful, which belies the wrenching pain expressed in the Italian lyrics: “let me weep over my cruel fate/and let me sigh for liberty/may sorrow shatter these chains/for my torments just out of pity.” Best listened to in a warm, solitary, candlelit bath. </p>
+          <p>A brief entry this week, lifted from Lars von Trier’s <i>Antichrist</i> (2009): the Tuva Semmingsen and Barokksolistene performance of George Frideric Handel’s <i>Lascia Ch’io Pianga</i>. At 5:18, this is a short soprano aria that’s approachable and easily consumed (<i>Antichrist</i>, on the other hand, not so much). The piece is beautiful, which belies the wrenching pain expressed in the Italian lyrics: “let me weep over my cruel fate/and let me sigh for liberty/may sorrow shatter these chains/for my torments just out of pity.” Best listened to in a warm, solitary, candlelit bath. </p>
 
           <h2 class="section-heading" style="font-size:125%">We're Still Listening To</h2>
 
