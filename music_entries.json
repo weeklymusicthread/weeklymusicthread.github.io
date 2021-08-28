@@ -1,6 +1,26 @@
 [    
     {
-        "song": "willow (90s trend remix)” ",
+        "song": "Haircut",
+        "artist": ["Petey", "Miya Folick"],
+        "spotify_id": "1m2OmhlK2wLcgKgB6LfCEA",
+        "post_page": "2021-08-28",
+        "image": "peteymiyahaircut.jpg",
+        "description_lines": [
+        "Although we’re newcomers to both Petey and Miya Folick, this quick track jumped out at us for the frenzied sense of despair it cultivates.",
+        "“Haircut” opens with a synth riff that would be at home in one of the tracks off of Mel*n’s 2018 EP, <i>All or Nothing</i>. Where those tracks support a blasé, Ambien sort of take on ennui, however, what Petey and Folick put together here is more raw and urgent. If Mel*n doesn’t care, in other words, Petey and Folick, well, do.",
+        "There’s also an earnestness to the lyrics on “Haircut.” “I was in a quarter-life crisis,” Petey nearly screams to open the song. The strain in his voice announces if not pain then at least feeling, and the half-assed dad jokes that show up throughout the song also contribute to a sense of earnest lameness. “Hey there darling, did you get your haircut?/I think I cut damn nearly every last one of ‘em” the two sing together. A worthy track we recommend you check out."
+       ]
+    },    {
+        "song": "Funeral Dream",
+        "artist": "Ky Voss",
+        "spotify_id": "5dGznHhMS14kQTsGDipMDf",
+        "post_page": "2021-08-28",
+        "image": "kyvossfuneraldream.jpg",
+        "description_lines": [
+        "When we listen to “Funeral Dream,” we hear a lot of different things. In those opening notes, we find whispers of the same reverberating melancholy that we find in the “Yes (Love Theme from Lost River)” theme from the <i>Lost River</i> original soundtrack. In the scattered, skitter shuffling percussion that comes in right after that, we hear the influence of, say, a Charli XCX, and in that ecstatic chorus, we find flavors of Pearly Drops’ “Final Form.”"
+        ]
+    },    {
+        "song": "willow (90s trend remix)",
         "artist": "Taylor Swift",
         "spotify_id": "77p4fRpoeiZMtUy3P9kN21",
         "post_page": "2021-06-29",
